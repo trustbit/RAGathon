@@ -1,0 +1,11 @@
+{
+    "data_points": [
+        {
+            "metric_type": "market capitalization",
+            "value": 14.6,
+            "currency": "USD",
+            "point_in_time": "2022-06-30"
+        }
+    ],
+    "company_name": "Motus GI Holdings, Inc."
+}

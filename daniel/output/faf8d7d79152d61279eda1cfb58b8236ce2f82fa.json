@@ -1,0 +1,35 @@
+{
+    "data_points": [
+        {
+            "metric_type": "operating margin",
+            "value": -109.6,
+            "currency": null,
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 556353.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "customer acquisition spending",
+            "value": 0.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "risk management spending",
+            "value": 0.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "sustainability initiatives spending",
+            "value": 0.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-06-30"
+        }
+    ],
+    "company_name": "EMT"
+}

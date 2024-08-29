@@ -1,0 +1,11 @@
+{
+    "data_points": [
+        {
+            "metric_type": "research and development expenses",
+            "value": 95000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        }
+    ],
+    "company_name": "Sandwell Aquatics Centre"
+}

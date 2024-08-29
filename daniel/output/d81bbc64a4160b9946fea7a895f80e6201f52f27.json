@@ -1,0 +1,23 @@
+{
+    "data_points": [
+        {
+            "metric_type": "operating margin",
+            "value": 18.4,
+            "currency": null,
+            "point_in_time": "2022-09-30"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 55300.0,
+            "currency": "USD",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "Gross Profit Margin",
+            "value": 26.5,
+            "currency": null,
+            "point_in_time": "2022-09-30"
+        }
+    ],
+    "company_name": "Air Products"
+}

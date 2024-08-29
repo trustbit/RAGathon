@@ -1,0 +1,11 @@
+{
+    "data_points": [
+        {
+            "metric_type": "Gross Profit Margin",
+            "value": 8700.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        }
+    ],
+    "company_name": "Zegona Communications plc"
+}

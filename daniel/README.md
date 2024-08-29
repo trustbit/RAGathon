@@ -13,4 +13,4 @@ Install requirements.
 pip install -r requirements.txt
 ```
 
-Copy the `samples` directory from the hackathon repo into this directory.
+Copy the `samples` directory and the file `dataset.csv` from the hackathon repo into this directory.

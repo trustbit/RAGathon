@@ -1,0 +1,23 @@
+{
+    "data_points": [
+        {
+            "metric_type": "research and development expenses",
+            "value": 4966710.0,
+            "currency": null,
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 3439858.0,
+            "currency": null,
+            "point_in_time": "2021-06-30"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 4771382.05,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        }
+    ],
+    "company_name": "VENUS METALS CORPORATION LIMITED"
+}

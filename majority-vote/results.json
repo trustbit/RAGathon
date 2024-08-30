@@ -7,7 +7,7 @@
     {
         "question": "Who is the CEO in the company \"Zegona Communications plc\"?",
         "schema": "name",
-        "answer": null
+        "answer": "Eamonn O'Hare"
     },
     {
         "question": "Did \"Global Medical REIT Inc.\" have a greater Debt-to-Equity ratio than \"Zegona Communications plc\" in Q2 2021?",
@@ -47,7 +47,7 @@
     {
         "question": "Who is the CEO in the company \"Accuray Incorporated\"?",
         "schema": "name",
-        "answer": null
+        "answer": "Suzanne Winter"
     },
     {
         "question": "Did \"Comet Holding AG\" have a greater Operating Margin than \"Ethernity Networks Ltd\" in Q2 2022?",
@@ -87,7 +87,7 @@
     {
         "question": "Who is the CFO in the company \"TD SYNNEX\"?",
         "schema": "name",
-        "answer": null
+        "answer": "Marshall Witt"
     },
     {
         "question": "Did \"Eurocell PLC\" have a greater Return on Equity (ROE) than \"Strike Energy Limited\" in Q2 2022?",
@@ -107,7 +107,7 @@
     {
         "question": "Who is the Board Chairman in the company \"Motus GI Holdings, Inc.\"?",
         "schema": "name",
-        "answer": null
+        "answer": "David Hochman"
     },
     {
         "question": "Did \"Calyxt, Inc.\" have a greater Operating Margin than \"Banque Cantonale Vaudoise\" in Q2 2023?",
@@ -117,7 +117,7 @@
     {
         "question": "How many stores did \"EMT\" have in the end of fiscal year 2023?",
         "schema": "number",
-        "answer": null
+        "answer": 0.0
     },
     {
         "question": "How much did \"Ethernity Networks Ltd\" spend on customer acquisition in Q2 2023?",
@@ -127,7 +127,7 @@
     {
         "question": "Who is the CFO in the company \"Ethernity Networks Ltd\"?",
         "schema": "name",
-        "answer": null
+        "answer": "Mark Reichenberg"
     },
     {
         "question": "Did \"Canadian Banc Corp.\" have a greater Return on Assets (ROA) than \"VENUS METALS CORPORATION LIMITED\" in Q2 2021?",
@@ -167,7 +167,7 @@
     {
         "question": "Who is the Board Chairman in the company \"TD SYNNEX\"?",
         "schema": "name",
-        "answer": null
+        "answer": "Dennis Polk"
     },
     {
         "question": "Did \"Banque Cantonale Vaudoise\" have a greater Operating Margin than \"Zegona Communications plc\" in Q2 2021?",
@@ -187,7 +187,7 @@
     {
         "question": "Who is the Chief Legal Officer in the company \"Nykredit\"?",
         "schema": "name",
-        "answer": null
+        "answer": "Anders Jensen"
     },
     {
         "question": "Did \"Comet Holding AG\" have a greater Operating Margin than \"Calyxt, Inc.\" in Q2 2021?",

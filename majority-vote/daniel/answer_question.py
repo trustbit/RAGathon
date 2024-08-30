@@ -1,5 +1,6 @@
 import os
 import json
+from datetime import datetime
 from pydantic import BaseModel
 from typing import Optional
 
@@ -23,7 +24,7 @@ database = [
     {
         "company_name": x["company_name"],
         "data_points": x["data_points"],
-        "company_role_assignments": x["company_role_assignments"] if "company_role_assignments" in x else None
+        "role_assignments": x["role_assignments"]
     }
     for x in json_list
 ]
@@ -42,7 +43,8 @@ class BooleanResponse(BaseModel):
 
 def answer_question(question, schema):
     system_prompt = ("You are an assistant with the task of answering QUESTIONS based on a KNOWLEDGE DATABASE. "
-                     "If you cannot answer the question, indicate this with a `null` response.")
+                     "If you cannot answer the question, indicate this with a `null` response. "
+                     f"The current date is {datetime.today().strftime('%Y-%m-%d')}")
 
     prompt = ("QUESTION\n\n"
               f"{question}\n\n"

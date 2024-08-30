@@ -1,65 +1,85 @@
 {
+    "company_name": "Ethernity Networks Ltd",
     "data_points": [
         {
-            "metric_type": "market capitalization",
-            "value": 12340000.0,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "Number of stores",
-            "value": 850000.0,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "research and development expenses",
-            "value": 6618795.0,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "research and development expenses",
-            "value": 5550912.0,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "Debt-To-Equity ratio",
-            "value": 1.2,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "Debt-To-Equity ratio",
-            "value": 0.58,
-            "currency": null,
-            "point_in_time": "2021-12-31"
-        },
-        {
             "metric_type": "operating margin",
-            "value": -2960096.0,
+            "value": -8.7,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "operating margin",
-            "value": -1385092.0,
+            "value": -6.32,
             "currency": "USD",
             "point_in_time": "2021-12-31"
         },
         {
-            "metric_type": "customer acquisition spending",
-            "value": 1167534.0,
+            "metric_type": "Return on Assets (ROA)",
+            "value": -8.0,
             "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": -9.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "Gross Profit Margin",
+            "value": 54.41,
+            "currency": null,
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "Gross Profit Margin",
-            "value": 0.5441,
+            "value": 73.8,
             "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 6.62,
+            "currency": "USD",
             "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 5.55,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
         }
     ],
-    "company_name": "Ethernity Networks Ltd"
+    "role_assignments": [
+        {
+            "role_type": "Board Chairman",
+            "person_name": "Joseph (Yosi) Albagli",
+            "role_assignment_started_as_iso_date": "2021-03-10",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Executive Officer (CEO)",
+            "person_name": "David Levi",
+            "role_assignment_started_as_iso_date": "2017-06-29",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Financial Officer (CFO)",
+            "person_name": "Mark Reichenberg",
+            "role_assignment_started_as_iso_date": "2017-06-29",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Operating Officer (COO)",
+            "person_name": "Shavit Baruch",
+            "role_assignment_started_as_iso_date": null,
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Legal Officer (CLO)",
+            "person_name": "Chen Saft-Feiglin",
+            "role_assignment_started_as_iso_date": null,
+            "role_assignment_ended_as_iso_date": null
+        }
+    ]
 }

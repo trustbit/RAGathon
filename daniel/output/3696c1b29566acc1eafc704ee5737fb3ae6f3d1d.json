@@ -1,11 +1,24 @@
 {
-    "data_points": [
+    "company_name": "Zegona Communications plc",
+    "data_points": [],
+    "role_assignments": [
         {
-            "metric_type": "Gross Profit Margin",
-            "value": 8700.0,
-            "currency": "EUR",
-            "point_in_time": "2022-12-31"
+            "role_type": "Board Chairman",
+            "person_name": "Eamonn O'Hare",
+            "role_assignment_started_as_iso_date": "2015-01-19",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Executive Officer (CEO)",
+            "person_name": "Eamonn O'Hare",
+            "role_assignment_started_as_iso_date": "2015-01-19",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Operating Officer (COO)",
+            "person_name": "Robert Samuelson",
+            "role_assignment_started_as_iso_date": "2015-01-19",
+            "role_assignment_ended_as_iso_date": null
         }
-    ],
-    "company_name": "Zegona Communications plc"
+    ]
 }

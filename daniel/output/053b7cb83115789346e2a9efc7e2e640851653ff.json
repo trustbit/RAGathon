@@ -1,11 +1,49 @@
 {
+    "company_name": "Global Medical REIT Inc.",
     "data_points": [
         {
             "metric_type": "market capitalization",
-            "value": 693000000.0,
+            "value": 693.0,
             "currency": "USD",
             "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "Number of stores",
+            "value": 189.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
         }
     ],
-    "company_name": "Global Medical REIT Inc."
+    "role_assignments": [
+        {
+            "role_type": "Chief Executive Officer (CEO)",
+            "person_name": "Jeffrey Busch",
+            "role_assignment_started_as_iso_date": null,
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Financial Officer (CFO)",
+            "person_name": "Robert Kiernan",
+            "role_assignment_started_as_iso_date": null,
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Operating Officer (COO)",
+            "person_name": "Danica Holley",
+            "role_assignment_started_as_iso_date": null,
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Legal Officer (CLO)",
+            "person_name": "Jamie Barber",
+            "role_assignment_started_as_iso_date": null,
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Board Chairman",
+            "person_name": "Jeffrey Busch",
+            "role_assignment_started_as_iso_date": null,
+            "role_assignment_ended_as_iso_date": null
+        }
+    ]
 }

@@ -1,23 +1,43 @@
 {
+    "company_name": "VENUS METALS CORPORATION LIMITED",
     "data_points": [
         {
-            "metric_type": "research and development expenses",
-            "value": 4966710.0,
+            "metric_type": "Gross Profit Margin",
+            "value": -7147344.0,
             "currency": null,
             "point_in_time": "2022-06-30"
         },
         {
             "metric_type": "research and development expenses",
-            "value": 3439858.0,
+            "value": 32474.0,
             "currency": null,
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "market capitalization",
-            "value": 4771382.05,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
+            "point_in_time": "2022-06-30"
         }
     ],
-    "company_name": "VENUS METALS CORPORATION LIMITED"
+    "role_assignments": [
+        {
+            "role_type": "Board Chairman",
+            "person_name": "Peter Charles Hawkins",
+            "role_assignment_started_as_iso_date": "2019-07-31",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Executive Officer (CEO)",
+            "person_name": "Matthew Vernon Hogan",
+            "role_assignment_started_as_iso_date": "2006-12-22",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Financial Officer (CFO)",
+            "person_name": "Patrick Tan",
+            "role_assignment_started_as_iso_date": "2018-07-01",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Legal Officer (CLO)",
+            "person_name": "Patrick Tan",
+            "role_assignment_started_as_iso_date": "2018-07-01",
+            "role_assignment_ended_as_iso_date": null
+        }
+    ]
 }

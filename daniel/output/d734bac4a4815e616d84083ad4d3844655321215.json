@@ -2,64 +2,106 @@
     "company_name": "Nykredit",
     "data_points": [
         {
-            "metric_type": "market capitalization",
-            "value": 89299200000.0,
-            "currency": "OTHER",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "market capitalization",
-            "value": 93595000000.0,
-            "currency": "OTHER",
-            "point_in_time": "2021-12-31"
-        },
-        {
             "metric_type": "Gross Profit Margin",
-            "value": 12829.0,
-            "currency": "OTHER",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "Return on Assets (ROA)",
-            "value": 1.2,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "market capitalization",
-            "value": 86858.0,
-            "currency": "OTHER",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "Debt-To-Equity ratio",
-            "value": 1.78,
+            "value": 56.68,
             "currency": null,
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "Number of stores",
-            "value": 200.0,
+            "value": 912.0,
             "currency": null,
             "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Number of stores",
+            "value": 775.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 39.98,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 96858.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "sustainability initiatives spending",
+            "value": 4000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Debt-To-Equity ratio",
+            "value": 15.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 0.59,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROE)",
+            "value": 8.64,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 62.39,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 62.69,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "Debt-To-Equity ratio",
+            "value": 15.81,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Debt-To-Equity ratio",
+            "value": 17.88,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 88658.0,
+            "currency": "GBP",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 93595.0,
+            "currency": "GBP",
+            "point_in_time": "2021-12-31"
         }
     ],
     "role_assignments": [
         {
-            "role_type": "Board Chairman",
-            "person_name": "Merete Eldrup",
-            "role_assignment_started_as_iso_date": "2022-03-24",
+            "role_type": "Chief Executive Officer (CEO)",
+            "person_name": "Michael Rasmussen",
+            "role_assignment_started_as_iso_date": null,
             "role_assignment_ended_as_iso_date": null
         },
         {
             "role_type": "Board Chairman",
-            "person_name": "Steen Rathe",
-            "role_assignment_started_as_iso_date": null,
-            "role_assignment_ended_as_iso_date": "2022-03-24"
-        },
-        {
-            "role_type": "Chief Executive Officer (CEO)",
-            "person_name": "Michael Rasmussen",
+            "person_name": "Merete Eldrup",
             "role_assignment_started_as_iso_date": null,
             "role_assignment_ended_as_iso_date": null
         },
@@ -77,20 +119,20 @@
         },
         {
             "role_type": "Chief Operating Officer (COO)",
-            "person_name": "John Smith",
-            "role_assignment_started_as_iso_date": "2018-05-01",
-            "role_assignment_ended_as_iso_date": "2022-03-01"
+            "person_name": "David Hellemann",
+            "role_assignment_started_as_iso_date": "2016-09-01",
+            "role_assignment_ended_as_iso_date": null
         },
         {
             "role_type": "Chief Legal Officer (CLO)",
-            "person_name": "Sarah Thompson",
-            "role_assignment_started_as_iso_date": "2020-01-15",
+            "person_name": "Anders Jensen",
+            "role_assignment_started_as_iso_date": "2014-10-01",
             "role_assignment_ended_as_iso_date": null
         },
         {
             "role_type": "Board Chairman",
-            "person_name": "Dmitry Kuznetsov",
-            "role_assignment_started_as_iso_date": "2022-05-01",
+            "person_name": "Merete Eldrup",
+            "role_assignment_started_as_iso_date": "2010-03-24",
             "role_assignment_ended_as_iso_date": null
         }
     ]

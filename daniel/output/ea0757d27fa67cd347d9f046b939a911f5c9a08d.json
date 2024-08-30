@@ -3,50 +3,44 @@
     "data_points": [
         {
             "metric_type": "Gross Profit Margin",
-            "value": 0.24,
+            "value": 0.657,
             "currency": null,
             "point_in_time": "2022-11-30"
         },
         {
-            "metric_type": "Gross Profit Margin",
-            "value": 5.81,
+            "metric_type": "operating margin",
+            "value": 0.1,
             "currency": null,
-            "point_in_time": "2021-11-30"
+            "point_in_time": "2022-11-30"
         },
         {
-            "metric_type": "Gross Profit Margin",
-            "value": -1.24,
+            "metric_type": "Number of stores",
+            "value": 12.0,
             "currency": null,
-            "point_in_time": "2020-11-30"
+            "point_in_time": "2022-11-30"
         },
         {
-            "metric_type": "Gross Profit Margin",
-            "value": 1.94,
+            "metric_type": "Return on Assets (ROA)",
+            "value": 0.072,
             "currency": null,
-            "point_in_time": "2019-11-30"
+            "point_in_time": "2022-11-30"
         },
         {
-            "metric_type": "Gross Profit Margin",
-            "value": -0.49,
-            "currency": null,
-            "point_in_time": "2018-11-30"
-        },
-        {
-            "metric_type": "market capitalization",
-            "value": 345400000.0,
+            "metric_type": "research and development expenses",
+            "value": 3.2,
             "currency": "USD",
             "point_in_time": "2022-11-30"
         },
         {
             "metric_type": "research and development expenses",
-            "value": 106637.0,
+            "value": 3.5,
             "currency": "USD",
-            "point_in_time": "2022-11-30"
+            "point_in_time": "2021-11-30"
         },
         {
-            "metric_type": "Number of stores",
-            "value": 16168282.0,
-            "currency": null,
+            "metric_type": "market capitalization",
+            "value": 345.4,
+            "currency": "USD",
             "point_in_time": "2022-11-30"
         }
     ],

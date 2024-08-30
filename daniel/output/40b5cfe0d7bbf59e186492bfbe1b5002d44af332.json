@@ -10,9 +10,15 @@
     ],
     "role_assignments": [
         {
+            "role_type": "Board Chairman",
+            "person_name": "Yves Ribeill",
+            "role_assignment_started_as_iso_date": null,
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
             "role_type": "Chief Executive Officer (CEO)",
             "person_name": "Michael A. Carr",
-            "role_assignment_started_as_iso_date": "2021-07-01",
+            "role_assignment_started_as_iso_date": "2021-07-15",
             "role_assignment_ended_as_iso_date": null
         },
         {
@@ -22,9 +28,9 @@
             "role_assignment_ended_as_iso_date": null
         },
         {
-            "role_type": "Board Chairman",
-            "person_name": "Yves Ribeill",
-            "role_assignment_started_as_iso_date": "2022-03-02",
+            "role_type": "Chief Legal Officer (CLO)",
+            "person_name": "Debra Frimerman",
+            "role_assignment_started_as_iso_date": "2019-01-21",
             "role_assignment_ended_as_iso_date": null
         }
     ]

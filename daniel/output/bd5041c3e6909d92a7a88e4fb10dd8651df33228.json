@@ -3,37 +3,31 @@
     "data_points": [
         {
             "metric_type": "market capitalization",
-            "value": 7181.8,
+            "value": 5600.0,
             "currency": "USD",
+            "point_in_time": "2023-03-20"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 28.0,
+            "currency": null,
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "Number of stores",
-            "value": 63.0,
-            "currency": null,
-            "point_in_time": "2023-03-20"
-        },
-        {
-            "metric_type": "research and development expenses",
-            "value": 306.1,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "operating margin",
-            "value": 15.5,
+            "value": 85.0,
             "currency": null,
             "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "sustainability initiatives spending",
-            "value": 134.0,
-            "currency": "USD",
-            "point_in_time": "2022-04-12"
         },
         {
             "metric_type": "Gross Profit Margin",
             "value": 68.7,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 23.0,
             "currency": null,
             "point_in_time": "2022-12-31"
         },
@@ -64,6 +58,12 @@
             "role_assignment_ended_as_iso_date": null
         },
         {
+            "role_type": "Chief Financial Officer (CFO)",
+            "person_name": "Beth Gaspich",
+            "role_assignment_started_as_iso_date": "2016-10-01",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
             "role_type": "Board Chairman",
             "person_name": "David Kostman",
             "role_assignment_started_as_iso_date": "2013-02-01",
@@ -72,19 +72,13 @@
         {
             "role_type": "Chief Executive Officer (CEO)",
             "person_name": "Barak Eilam",
-            "role_assignment_started_as_iso_date": null,
+            "role_assignment_started_as_iso_date": "2023-03-30",
             "role_assignment_ended_as_iso_date": null
         },
         {
             "role_type": "Chief Financial Officer (CFO)",
             "person_name": "Beth Gaspich",
-            "role_assignment_started_as_iso_date": null,
-            "role_assignment_ended_as_iso_date": null
-        },
-        {
-            "role_type": "Board Chairman",
-            "person_name": "Haim Shani",
-            "role_assignment_started_as_iso_date": null,
+            "role_assignment_started_as_iso_date": "2023-03-30",
             "role_assignment_ended_as_iso_date": null
         }
     ]

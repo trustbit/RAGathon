@@ -1,23 +1,36 @@
 {
     "company_name": "Zegona Communications plc",
-    "data_points": [],
+    "data_points": [
+        {
+            "metric_type": "sustainability initiatives spending",
+            "value": 4.5,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "sustainability initiatives spending",
+            "value": 4.5,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        }
+    ],
     "role_assignments": [
         {
             "role_type": "Board Chairman",
             "person_name": "Eamonn O'Hare",
-            "role_assignment_started_as_iso_date": "2015-01-19",
+            "role_assignment_started_as_iso_date": "2023-04-06",
             "role_assignment_ended_as_iso_date": null
         },
         {
             "role_type": "Chief Executive Officer (CEO)",
             "person_name": "Eamonn O'Hare",
-            "role_assignment_started_as_iso_date": "2015-01-19",
+            "role_assignment_started_as_iso_date": "2023-04-06",
             "role_assignment_ended_as_iso_date": null
         },
         {
             "role_type": "Chief Operating Officer (COO)",
             "person_name": "Robert Samuelson",
-            "role_assignment_started_as_iso_date": "2015-01-19",
+            "role_assignment_started_as_iso_date": "2023-04-06",
             "role_assignment_ended_as_iso_date": null
         }
     ]

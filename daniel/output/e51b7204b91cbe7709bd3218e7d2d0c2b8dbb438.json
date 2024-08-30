@@ -2,28 +2,28 @@
     "company_name": "Ethernity Networks Ltd",
     "data_points": [
         {
-            "metric_type": "operating margin",
-            "value": -8.7,
-            "currency": "USD",
+            "metric_type": "market capitalization",
+            "value": 19.44,
+            "currency": "GBP",
+            "point_in_time": "2017-06-30"
+        },
+        {
+            "metric_type": "Debt-To-Equity ratio",
+            "value": 0.71,
+            "currency": null,
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "operating margin",
-            "value": -6.32,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "Return on Assets (ROA)",
-            "value": -8.0,
-            "currency": "USD",
+            "metric_type": "Number of stores",
+            "value": 0.0,
+            "currency": null,
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "Return on Assets (ROA)",
-            "value": -9.0,
+            "metric_type": "research and development expenses",
+            "value": 6.62,
             "currency": "USD",
-            "point_in_time": "2021-12-31"
+            "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "Gross Profit Margin",
@@ -32,16 +32,34 @@
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "Gross Profit Margin",
-            "value": 73.8,
+            "metric_type": "operating margin",
+            "value": -296.5,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 0.81,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Number of stores",
+            "value": 0.0,
             "currency": null,
             "point_in_time": "2021-12-31"
         },
         {
-            "metric_type": "research and development expenses",
-            "value": 6.62,
+            "metric_type": "market capitalization",
+            "value": 1.2,
             "currency": "USD",
-            "point_in_time": "2022-12-31"
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": -240.37,
+            "currency": null,
+            "point_in_time": "2021-12-31"
         },
         {
             "metric_type": "research and development expenses",
@@ -53,25 +71,19 @@
     "role_assignments": [
         {
             "role_type": "Board Chairman",
-            "person_name": "Joseph (Yosi) Albagli",
+            "person_name": "Yosi Albagli",
             "role_assignment_started_as_iso_date": "2021-03-10",
             "role_assignment_ended_as_iso_date": null
         },
         {
             "role_type": "Chief Executive Officer (CEO)",
             "person_name": "David Levi",
-            "role_assignment_started_as_iso_date": "2017-06-29",
+            "role_assignment_started_as_iso_date": null,
             "role_assignment_ended_as_iso_date": null
         },
         {
             "role_type": "Chief Financial Officer (CFO)",
             "person_name": "Mark Reichenberg",
-            "role_assignment_started_as_iso_date": "2017-06-29",
-            "role_assignment_ended_as_iso_date": null
-        },
-        {
-            "role_type": "Chief Operating Officer (COO)",
-            "person_name": "Shavit Baruch",
             "role_assignment_started_as_iso_date": null,
             "role_assignment_ended_as_iso_date": null
         },
@@ -79,6 +91,12 @@
             "role_type": "Chief Legal Officer (CLO)",
             "person_name": "Chen Saft-Feiglin",
             "role_assignment_started_as_iso_date": null,
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Board Chairman",
+            "person_name": "Richard Bennett",
+            "role_assignment_started_as_iso_date": "2022-04-07",
             "role_assignment_ended_as_iso_date": null
         }
     ]

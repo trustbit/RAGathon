@@ -1,0 +1,61 @@
+{
+    "company_name": "Air Products",
+    "data_points": [
+        {
+            "metric_type": "operating margin",
+            "value": 18.4,
+            "currency": null,
+            "point_in_time": "2022-09-30"
+        },
+        {
+            "metric_type": "Number of stores",
+            "value": 226.0,
+            "currency": null,
+            "point_in_time": "2022-09-30"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 55200.0,
+            "currency": "USD",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 2.3,
+            "currency": null,
+            "point_in_time": "2022-09-30"
+        },
+        {
+            "metric_type": "Gross Profit Margin",
+            "value": 26.5,
+            "currency": null,
+            "point_in_time": "2022-09-30"
+        }
+    ],
+    "role_assignments": [
+        {
+            "role_type": "Chief Legal Officer (CLO)",
+            "person_name": "Sean D. Major",
+            "role_assignment_started_as_iso_date": null,
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Financial Officer (CFO)",
+            "person_name": "Melissa Schaeffer",
+            "role_assignment_started_as_iso_date": "2021-08-01",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Executive Officer (CEO)",
+            "person_name": "Seifi Ghasemi",
+            "role_assignment_started_as_iso_date": "2014-01-01",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Board Chairman",
+            "person_name": "Seifi Ghasemi",
+            "role_assignment_started_as_iso_date": "2014-01-01",
+            "role_assignment_ended_as_iso_date": null
+        }
+    ]
+}

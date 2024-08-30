@@ -1,0 +1,25 @@
+{
+    "company_name": "VENUS METALS CORPORATION LIMITED",
+    "data_points": [
+        {
+            "metric_type": "market capitalization",
+            "value": 15446040.0,
+            "currency": "AUD",
+            "point_in_time": "2022-09-15"
+        }
+    ],
+    "role_assignments": [
+        {
+            "role_type": "Board Chairman",
+            "person_name": "Peter Charles Hawkins",
+            "role_assignment_started_as_iso_date": "2019-07-31",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Executive Officer (CEO)",
+            "person_name": "Matthew Vernon Hogan",
+            "role_assignment_started_as_iso_date": "2006-12-22",
+            "role_assignment_ended_as_iso_date": null
+        }
+    ]
+}

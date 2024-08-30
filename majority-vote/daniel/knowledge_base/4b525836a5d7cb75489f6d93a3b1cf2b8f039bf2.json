@@ -1,0 +1,121 @@
+{
+    "company_name": "TD SYNNEX",
+    "data_points": [
+        {
+            "metric_type": "market capitalization",
+            "value": 4311515318.0,
+            "currency": "USD",
+            "point_in_time": "2022-05-31"
+        },
+        {
+            "metric_type": "Number of stores",
+            "value": 23.0,
+            "currency": null,
+            "point_in_time": "2022-11-30"
+        },
+        {
+            "metric_type": "Gross Profit Margin",
+            "value": 6.26,
+            "currency": null,
+            "point_in_time": "2022-11-30"
+        },
+        {
+            "metric_type": "Gross Profit Margin",
+            "value": 5.98,
+            "currency": null,
+            "point_in_time": "2021-11-30"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 117000000.0,
+            "currency": "USD",
+            "point_in_time": "2022-11-30"
+        },
+        {
+            "metric_type": "customer acquisition spending",
+            "value": 125016000.0,
+            "currency": "USD",
+            "point_in_time": "2022-11-30"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 21.3,
+            "currency": null,
+            "point_in_time": "2022-11-30"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 15.3,
+            "currency": null,
+            "point_in_time": "2021-11-30"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 23.3,
+            "currency": null,
+            "point_in_time": "2020-11-30"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 159910.0,
+            "currency": "USD",
+            "point_in_time": "2020-11-30"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 220154.0,
+            "currency": "USD",
+            "point_in_time": "2021-11-30"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 492136.0,
+            "currency": "USD",
+            "point_in_time": "2022-11-30"
+        },
+        {
+            "metric_type": "Return on Assets (ROE)",
+            "value": 276237.0,
+            "currency": "USD",
+            "point_in_time": "2020-11-30"
+        },
+        {
+            "metric_type": "Return on Assets (ROE)",
+            "value": 246331.0,
+            "currency": "USD",
+            "point_in_time": "2021-11-30"
+        },
+        {
+            "metric_type": "Return on Assets (ROE)",
+            "value": 334994.0,
+            "currency": "USD",
+            "point_in_time": "2022-11-30"
+        }
+    ],
+    "role_assignments": [
+        {
+            "role_type": "Chief Executive Officer (CEO)",
+            "person_name": "Rich Hume",
+            "role_assignment_started_as_iso_date": "2021-09-01",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Executive Officer (CEO)",
+            "person_name": "Richard Hume",
+            "role_assignment_started_as_iso_date": "2021-09-01",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Chief Financial Officer (CFO)",
+            "person_name": "Marshall Witt",
+            "role_assignment_started_as_iso_date": "2013-04-01",
+            "role_assignment_ended_as_iso_date": null
+        },
+        {
+            "role_type": "Board Chairman",
+            "person_name": "Dennis Polk",
+            "role_assignment_started_as_iso_date": "2021-09-01",
+            "role_assignment_ended_as_iso_date": null
+        }
+    ]
+}

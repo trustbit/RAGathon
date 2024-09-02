@@ -4,7 +4,7 @@ Work In Progress
 
 ## Approach 1. Combine all PDF files in one
 
-Then ask all question in one thread. The merged file is provided once. 
+Then ask all question in one thread. The merged file is provided once.
 
 ## Approach 2. Extract company names and provide only relevant PDF files
 

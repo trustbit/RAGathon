@@ -1,0 +1,310 @@
+################RUN_2#############################
+Cost of extracting company names: {'total_tokens': 14532, 'total_cost': 0.07404999999999999}
+['dd78f748262b8ffa62de6484143ff55b38af24c7.pdf']
+[Message(id='msg_dLUc7ITEFbS55BW8qW5Ceeos', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285511, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_MCdxHS1AckzuEJMxKnY4usEF', status=None, thread_id='thread_I4TV8xj2y9YAFMoEog3SZgm3')]
+Response:  None
+Tokens: 1838, cost: 0.00944
+['3696c1b29566acc1eafc704ee5737fb3ae6f3d1d.pdf']
+[Message(id='msg_pklV3fmLMi5b8HSndAL3v9CK', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Eamonn O’Hare'), type='text')], created_at=1725285522, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_rkkIeMta5LHCK1DfRGXCrviz', status=None, thread_id='thread_5STP27mBJ4V60sOxfXXMeqtI')]
+Response:  Eamonn O’Hare
+Tokens: 17916, cost: 0.08983000000000001
+['053b7cb83115789346e2a9efc7e2e640851653ff.pdf', '3696c1b29566acc1eafc704ee5737fb3ae6f3d1d.pdf']
+[Message(id='msg_mNijOJtVQu3Iei5bb9KBwWQd', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285564, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_6BOkGtWbbMxN7kgNd6YBjjqd', status=None, thread_id='thread_Yn5t4o2EJReYOOXcGGg6f5AT')]
+Response:  None
+Tokens: 122110, cost: 0.61309
+['dd78f748262b8ffa62de6484143ff55b38af24c7.pdf']
+[Message(id='msg_cpvri16U4HQ4yKi3TfTKUVpi', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285578, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_A89LdDTXiAcHYQeFzqCwyggQ', status=None, thread_id='thread_9xLorMLLbfRW44HZnj4vD9XX')]
+Response:  None
+Tokens: 17180, cost: 0.08616000000000001
+[]
+No relevant files found for question: How much did "Sandwell Aquatics Centre" spend on R&D in Q2 2023?. Skipping to the next item.
+[]
+No relevant files found for question: Who is the CFO in the company "EMT"?. Skipping to the next item.
+['40b5cfe0d7bbf59e186492bfbe1b5002d44af332.pdf', '053b7cb83115789346e2a9efc7e2e640851653ff.pdf']
+[Message(id='msg_lU3lrcPyLVwsgbekysNp8t8w', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285597, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_E6KWBdLQTQ1GaztX6rc1zLcV', status=None, thread_id='thread_ZfKFVjWgwA41LCbbpkO9byOb')]
+Response:  None
+Tokens: 34356, cost: 0.17258
+[]
+No relevant files found for question: How many stores did "OTC_UNCIF" have in the end of fiscal year 2022?. Skipping to the next item.
+['dd78f748262b8ffa62de6484143ff55b38af24c7.pdf']
+[Message(id='msg_kVKXFr8k6Qfu8g0lTpYjVsjV', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='49664000'), type='text')], created_at=1725285611, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_bRt9mi31JK3guOUTkHp3UHfS', status=None, thread_id='thread_jWPJxlKYsGMmI9JLJFt0w8cC')]
+Response:  49664000
+Tokens: 17372, cost: 0.08713000000000001
+['dd78f748262b8ffa62de6484143ff55b38af24c7.pdf']
+[Message(id='msg_8y6GmjSuVkOAjxS83bNHamqe', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Suzanne Winter'), type='text')], created_at=1725285623, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_aHBSLK2ZibIHp9waRt9s4hh3', status=None, thread_id='thread_xJ3BVUC2sMgp7UgZqYv3pUV5')]
+Response:  Suzanne Winter
+Tokens: 17511, cost: 0.08776500000000001
+['e51b7204b91cbe7709bd3218e7d2d0c2b8dbb438.pdf']
+[Message(id='msg_2LuKGXeUtaVTUKDZuISAbnkW', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285646, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_WxhPYBFO5PHa355wnjaezRkf', status=None, thread_id='thread_OvJodBHiosFsk1VmLgn2OD3O')]
+Response:  None
+Tokens: 86676, cost: 0.43564
+['9ff4e041732c9841d5423e6ea0bbd6a0320df9ff.pdf']
+[Message(id='msg_W7VObjAMHNnSoJlhXKiOaqka', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285658, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_FgclEbZeLj6C2652sc5aT0S9', status=None, thread_id='thread_w7xWl2llDrL8aP2nBC0RORRg')]
+Response:  None
+Tokens: 17266, cost: 0.08660000000000001
+['e51b7204b91cbe7709bd3218e7d2d0c2b8dbb438.pdf']
+[Message(id='msg_269iQMbRQlVZg4xFXOMJi1ya', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285675, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_JLbrbAIxoSKC7HGVBTjnEXzQ', status=None, thread_id='thread_UuHNF1vNMFzzOVr2BfVq53Kj')]
+Response:  None
+Tokens: 18048, cost: 0.09050000000000001
+[]
+No relevant files found for question: Who is the COO in the company "Sandwell Aquatics Centre"?. Skipping to the next item.
+['40b5cfe0d7bbf59e186492bfbe1b5002d44af332.pdf', 'bd5041c3e6909d92a7a88e4fb10dd8651df33228.pdf']
+[Message(id='msg_Xg6mjnw2rcIfbcCcW47whcD2', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='False'), type='text')], created_at=1725285691, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_aPk7UAMCDF8OnfPfmpUpg9VZ', status=None, thread_id='thread_H8UmEtEI0j5UP6HtXt7Rw7YO')]
+Response:  False
+Tokens: 17268, cost: 0.08672
+[]
+No relevant files found for question: How many stores did "Renishaw plc" have in the end of fiscal year 2023?. Skipping to the next item.
+['4b525836a5d7cb75489f6d93a3b1cf2b8f039bf2.pdf']
+[Message(id='msg_QWhjRQxvO6TSkZCRtCZUQFbD', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='190796'), type='text')], created_at=1725285704, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_VQyMEmaWS4PuNbn3PVltWlfE', status=None, thread_id='thread_MFuKPDetjQFedlV4RiA8QRU8')]
+Response:  190796
+Tokens: 17506, cost: 0.08779
+['4b525836a5d7cb75489f6d93a3b1cf2b8f039bf2.pdf']
+[Message(id='msg_P0N6ozGJHV1h6P0Vt6152kPc', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Marshall Witt'), type='text')], created_at=1725285715, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_YgqVXc4h8f4i3Q3M11GnEG6p', status=None, thread_id='thread_ibSYxgKvy3M0QFppifgAqtW2')]
+Response:  Marshall Witt
+Tokens: 17407, cost: 0.08723500000000001
+['9ae3bb21564a5098c4b4d6450655c22eff85deae.pdf']
+[]
+No openai response
+Response:  None
+Tokens: 123048, cost: 0.61775
+[]
+No relevant files found for question: How many stores did "OTC_UNCIF" have in the end of fiscal year 2023?. Skipping to the next item.
+[]
+No relevant files found for question: How much did "EMT" spend on customer acquisition in Q2 2023?. Skipping to the next item.
+['71b04e0248ecf758990a0ab77bd69344be63bcf4.pdf']
+[Message(id='msg_qbdn63VB2BlAE4cBNJ3yUcar', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='David P. Hochman'), type='text')], created_at=1725285761, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_w1JuC08a9I68JJb7JcVHHxjk', status=None, thread_id='thread_kggmO4N09OZOE2uSpMCSMzdc')]
+Response:  David P. Hochman
+Tokens: 18109, cost: 0.090815
+['40b5cfe0d7bbf59e186492bfbe1b5002d44af332.pdf']
+[]
+No openai response
+Response:  None
+Tokens: 116931, cost: 0.5870550000000001
+[]
+No relevant files found for question: How many stores did "EMT" have in the end of fiscal year 2023?. Skipping to the next item.
+['e51b7204b91cbe7709bd3218e7d2d0c2b8dbb438.pdf']
+[Message(id='msg_mGq5pyXLTL2kF7UVEaTF2OPy', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285807, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_gx9qafHja59Ixy3USC0jZjuv', status=None, thread_id='thread_Cf5Nb1rMhhQ4cBIlwVRzMETn')]
+Response:  None
+Tokens: 18125, cost: 0.09088500000000001
+['e51b7204b91cbe7709bd3218e7d2d0c2b8dbb438.pdf']
+[Message(id='msg_jvKcHJbUaylySORklcpjo29G', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Mark Reichenberg'), type='text')], created_at=1725285818, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_K0mP6LhHYrOGPPAxIkVKEyt8', status=None, thread_id='thread_Fq7GFuohoNulVcCBcsrXw5c7')]
+Response:  Mark Reichenberg
+Tokens: 17986, cost: 0.09017
+['ea0757d27fa67cd347d9f046b939a911f5c9a08d.pdf', '9ff4e041732c9841d5423e6ea0bbd6a0320df9ff.pdf']
+[Message(id='msg_4NNkzeMrzOd6yWhH1X1oMCI0', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285834, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_QPZBdtTKrFrYBz4jNSFbvtmJ', status=None, thread_id='thread_kUKtMtiRVzFdA0CSe9Lo2r89')]
+Response:  None
+Tokens: 34435, cost: 0.173025
+['9ff4e041732c9841d5423e6ea0bbd6a0320df9ff.pdf']
+[Message(id='msg_Ybw0vttIya2ZcVNYBRpjbBSw', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285848, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_KpGJrQSMZrfyShGMLaX7inu0', status=None, thread_id='thread_9qdgEwzteThhP13RSiWkXSwl')]
+Response:  None
+Tokens: 17660, cost: 0.08872000000000001
+['71b04e0248ecf758990a0ab77bd69344be63bcf4.pdf']
+[Message(id='msg_AUHwntCc00nTx8Ho4HVu5U1F', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285863, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_tZJyjFCa85sPA6dPuqQY2zmr', status=None, thread_id='thread_Ee5AUsrsraAr7cfieL98pSmO')]
+Response:  None
+Tokens: 33565, cost: 0.16845500000000002
+[]
+No relevant files found for question: Who is the Board Chairman in the company "Renishaw plc"?. Skipping to the next item.
+['ea0757d27fa67cd347d9f046b939a911f5c9a08d.pdf', '71b04e0248ecf758990a0ab77bd69344be63bcf4.pdf']
+[Message(id='msg_q9gf7BllrJ9dgrIb8DnUK1oO', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285882, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_7FdaWkrDkhAQvhfeJmeDUUg9', status=None, thread_id='thread_iGB3GfYGtncjHSW6VYXgri37')]
+Response:  None
+Tokens: 17424, cost: 0.08755000000000002
+['9ff4e041732c9841d5423e6ea0bbd6a0320df9ff.pdf']
+[Message(id='msg_ulo8FgvKC7ztFV4jXN8hjX5i', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285899, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_xmIDo4yng1uWc3VXMe8Ogvc2', status=None, thread_id='thread_ITwZJygMx1cTQ5vBgfZNIfZF')]
+Response:  None
+Tokens: 17359, cost: 0.08708500000000001
+[]
+No relevant files found for question: How much did "Renishaw plc" spend on risk management in Q2 2022?. Skipping to the next item.
+['4b525836a5d7cb75489f6d93a3b1cf2b8f039bf2.pdf']
+[Message(id='msg_cnkD2wZMzr4rqB4YsETaq3fH', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Dennis Polk'), type='text')], created_at=1725285914, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_TchIfEQPZMe9Yaftp3e19gH5', status=None, thread_id='thread_DrnFMWDkPu8N25xLRO9x90Sz')]
+Response:  Dennis Polk
+Tokens: 17241, cost: 0.086415
+['3696c1b29566acc1eafc704ee5737fb3ae6f3d1d.pdf']
+[Message(id='msg_vDfi8f0O7SnzHHKwbaUz4B36', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285940, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_sq6DczMfke8iN3NsuFAmEliT', status=None, thread_id='thread_f8FRgeZUIBHXaU1vcoszf3d4')]
+Response:  None
+Tokens: 102339, cost: 0.5135850000000001
+['9ae3bb21564a5098c4b4d6450655c22eff85deae.pdf']
+[Message(id='msg_NWyeDv1qOP4c6UppIdOYolgz', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285955, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_7vBaMxPmK2yjLx0fPCgPesGB', status=None, thread_id='thread_ejIr17TaX6Do1eWuOtjOwG7R')]
+Response:  None
+Tokens: 17635, cost: 0.08840500000000001
+['e51b7204b91cbe7709bd3218e7d2d0c2b8dbb438.pdf']
+[Message(id='msg_GprXSXFXRXuzG5TeA4AtkBou', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285970, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_SKxRh37ScwOeeMgCgxBMx8Kt', status=None, thread_id='thread_j7czDF09mrOHq1HHmNAyQ5HY')]
+Response:  None
+Tokens: 18123, cost: 0.09087500000000001
+['d734bac4a4815e616d84083ad4d3844655321215.pdf']
+[Message(id='msg_4RCnDeYlWs1Trg3VXBHMAtrM', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285983, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_XP3ormm6BAMB4ACVRboYU4Gu', status=None, thread_id='thread_DAOb7XRixWhGOZY61FT674x7')]
+Response:  None
+Tokens: 16210, cost: 0.08132
+['40b5cfe0d7bbf59e186492bfbe1b5002d44af332.pdf']
+[Message(id='msg_y4R91ChF9LQLQQcJi5plOyC0', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='True'), type='text')], created_at=1725286010, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_zQhfUQ0FjYkm2tCsaW0Gt3Qb', status=None, thread_id='thread_q5n0ypT71iOkXtg4rOXVDLwZ')]
+Response:  True
+Tokens: 84884, cost: 0.42628000000000005
+[]
+No relevant files found for question: How many stores did "EMT" have in the end of fiscal year 2022?. Skipping to the next item.
+{'total_tokens': 1073528, 'total_cost': 5.38887}
+All together, tokens: 1088060, cost: $5.4629199999999996
+################RUN_1#############################
+Cost of extracting company names: {'total_tokens': 14533, 'total_cost': 0.074065}
+['dd78f748262b8ffa62de6484143ff55b38af24c7.pdf']
+[Message(id='msg_hVVgtd1ZstJtzUpJMz05USZj', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725283949, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_64PDTVuwoUbtcwMVwD3Ti0cb', status=None, thread_id='thread_Fby5arMBjzceAyoaWP0Axolg')]
+Response:  None
+Tokens: 34529, cost: 0.17309500000000003
+['3696c1b29566acc1eafc704ee5737fb3ae6f3d1d.pdf']
+[Message(id='msg_TlTci2YGIZqowxGsXLrZE2Se', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725283956, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_ESdhhA6jTMkqP43J4HXJeo5P', status=None, thread_id='thread_pRzQ2MSr9myTxjlJsTolJteV')]
+Response:  None
+Tokens: 1816, cost: 0.00928
+['053b7cb83115789346e2a9efc7e2e640851653ff.pdf', '3696c1b29566acc1eafc704ee5737fb3ae6f3d1d.pdf']
+[Message(id='msg_SglRqkvqqjHT8mLZuv4x9lvC', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725283980, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_37hYccVDUqL1aicu0No9e8BP', status=None, thread_id='thread_cZIyW5sCEVmJuld1UaCU1UMp')]
+Response:  None
+Tokens: 86461, cost: 0.4339450000000001
+['dd78f748262b8ffa62de6484143ff55b38af24c7.pdf']
+[Message(id='msg_YeoV98jE1CFATi8y8kUBYmH4', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725283998, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_H0fxjm7VYC7bSww8zQTQbCi1', status=None, thread_id='thread_wfvdk1imIK55NtizUYqph003')]
+Response:  None
+Tokens: 17300, cost: 0.08676
+[]
+[Message(id='msg_2MeoovhTP522PQ75myJTBKQ5', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Please upload the document(s) containing the relevant information about "Sandwell Aquatics Centre" so I can assist you with your question.'), type='text')], created_at=1725284002, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_WyHWYoTe4HgxJa2NRvEOheoA', status=None, thread_id='thread_181s86yPhdjlOznSqbIn7wgh')]
+Response:  Please upload the document(s) containing the relevant information about "Sandwell Aquatics Centre" so I can assist you with your question.
+Tokens: 1808, cost: 0.009570000000000002
+[]
+[Message(id='msg_G859I2iqOlaP2s0dCnW9FDkt', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='It looks like there are no documents currently uploaded. Please upload the necessary PDF files containing the annual reports, so I can find the information about the CFO of the company "EMT".'), type='text')], created_at=1725284006, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_S6qAra8f3R7fxO4PZSeSDlYn', status=None, thread_id='thread_8AWjLmiyBn2h1UL6JLLYSesi')]
+Response:  It looks like there are no documents currently uploaded. Please upload the necessary PDF files containing the annual reports, so I can find the information about the CFO of the company "EMT".
+Tokens: 1822, cost: 0.00986
+['40b5cfe0d7bbf59e186492bfbe1b5002d44af332.pdf', '053b7cb83115789346e2a9efc7e2e640851653ff.pdf']
+[Message(id='msg_L8PgCtIuUEe53dlMBufEswCE', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284027, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_cHpDsVNrNuleI2rfZqDsFhjT', status=None, thread_id='thread_sTmxUR7DjladIlpcwLUrvh2S')]
+Response:  None
+Tokens: 34709, cost: 0.17417500000000002
+[]
+[Message(id='msg_9oTopZRLQ8GGMbxH5rAy9le5', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value="Please upload the documents containing the annual reports, and I'll help you find the information you're looking for."), type='text')], created_at=1725284033, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_nUtKlIab1V2ZrAKISxEMauIh', status=None, thread_id='thread_lKXhACfkzmho574liHTTmQXp')]
+Response:  Please upload the documents containing the annual reports, and I'll help you find the information you're looking for.
+Tokens: 1803, cost: 0.009475
+['dd78f748262b8ffa62de6484143ff55b38af24c7.pdf']
+[Message(id='msg_wAt8SKDwQf2wCuttdT6sxiQy', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284051, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_jLTxVQJWoD6Wx2c6scxnPYdb', status=None, thread_id='thread_JNy7B8Mvmysx038WavEOhDKT')]
+Response:  None
+Tokens: 17472, cost: 0.08761000000000001
+['dd78f748262b8ffa62de6484143ff55b38af24c7.pdf']
+[Message(id='msg_41LevLgZ0ZANIqlE3t6Ok7oc', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284060, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_BkwFbGEBrqck8j6qlDRZDvKa', status=None, thread_id='thread_ge2t4PuJ9LAaiqz5hg7pQqDu')]
+Response:  None
+Tokens: 1812, cost: 0.009250000000000001
+['e51b7204b91cbe7709bd3218e7d2d0c2b8dbb438.pdf']
+[Message(id='msg_2HOS1hrpEJhJMSYicazXpSzr', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='True'), type='text')], created_at=1725284086, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_V93OwMYohmN1aN7UR6umQUEU', status=None, thread_id='thread_a4cCDJt8o6dz1NkcZaqpabVX')]
+Response:  True
+Tokens: 86538, cost: 0.43429000000000006
+['9ff4e041732c9841d5423e6ea0bbd6a0320df9ff.pdf']
+[Message(id='msg_nun69yKkrNvxeh2rWPJVXXgy', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284099, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_RpPr65kmIQvkO22W3Nn3UJNV', status=None, thread_id='thread_qOoou0sHw5sEMmgKt9y2qRXR')]
+Response:  None
+Tokens: 17279, cost: 0.086665
+['e51b7204b91cbe7709bd3218e7d2d0c2b8dbb438.pdf']
+[Message(id='msg_PCXpE2v8an8xrNSLzFRGbTrc', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284112, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_UeZuiCrVA3Hye5rTSzhpnMg4', status=None, thread_id='thread_mcXwQs0fTPgllCqi8r5CRoS5')]
+Response:  None
+Tokens: 34930, cost: 0.17519
+[]
+[Message(id='msg_3EcKd8KM8wFyaBLbFCSmcStN', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Please upload the documents, and I will help you find the required information.'), type='text')], created_at=1725284116, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_jAutatL33mwCl5CsiRpyQHSz', status=None, thread_id='thread_ZYuFtwhT7S4efI2FaGBcZ2Yp')]
+Response:  Please upload the documents, and I will help you find the required information.
+Tokens: 1768, cost: 0.00918
+['40b5cfe0d7bbf59e186492bfbe1b5002d44af332.pdf', 'bd5041c3e6909d92a7a88e4fb10dd8651df33228.pdf']
+[Message(id='msg_XDMJC9P2PDYAY7xAHHFWHTiP', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284131, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_xj3psCfCm89ZdFd9CLF8esuh', status=None, thread_id='thread_JvOeeFSxQw8WBC8VaJTkRmSW')]
+Response:  None
+Tokens: 17289, cost: 0.08682500000000001
+[]
+[Message(id='msg_fkk9XLNSx61QLOJ9m2TK4uPo', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Please upload the PDF documents containing the annual reports of the companies so I can extract the required information for you.'), type='text')], created_at=1725284135, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_CLXV4hAxfVyGVXWmePV6lanq', status=None, thread_id='thread_maK7GnEt0EGDXvYQ3EZcf6wx')]
+Response:  Please upload the PDF documents containing the annual reports of the companies so I can extract the required information for you.
+Tokens: 1805, cost: 0.009515000000000001
+['4b525836a5d7cb75489f6d93a3b1cf2b8f039bf2.pdf']
+[Message(id='msg_uqE1Puhd961xiCTFidIcfLNU', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284150, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_3ZCoHbTy6wIDKKbrUAHjr6sR', status=None, thread_id='thread_YwM6bcOhsPUx2q8BUQ9G31Ks')]
+Response:  None
+Tokens: 17534, cost: 0.08792000000000001
+['4b525836a5d7cb75489f6d93a3b1cf2b8f039bf2.pdf']
+[Message(id='msg_CNnzdGDSoy9tVwY44RG3EObt', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Marshall Witt'), type='text')], created_at=1725284162, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_X0a8o6y2oh7m6LQhJvrUOVKB', status=None, thread_id='thread_mFv9WTHU5RT7UGMnXZzrPShU')]
+Response:  Marshall Witt
+Tokens: 17344, cost: 0.08693000000000001
+['9ae3bb21564a5098c4b4d6450655c22eff85deae.pdf']
+[]
+No openai response
+Response:  None
+Tokens: 122425, cost: 0.614505
+[]
+[Message(id='msg_jbvD3LzoQ2swHzYIoX4QQR76', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Please upload the documents containing the annual report information for "OTC_UNCIF." Once they are uploaded, I can assist you in finding the number of stores at the end of fiscal year 2023.'), type='text')], created_at=1725284198, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_wjY4Gx8uT20Lpu3vODA1SPeS', status=None, thread_id='thread_xfVEEKmdRtX5JCkmlWzZjRqo')]
+Response:  Please upload the documents containing the annual report information for "OTC_UNCIF." Once they are uploaded, I can assist you in finding the number of stores at the end of fiscal year 2023.
+Tokens: 1825, cost: 0.009805000000000001
+[]
+[Message(id='msg_Xq1bsSDygD8yKYDY3wYmAwe7', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value="It looks like you haven't uploaded any documents yet. Please upload the pertinent PDF files, and I will assist you in finding the specific information regarding EMT's customer acquisition spending in Q2 2023."), type='text')], created_at=1725284203, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_eFLBGlVzARg4COsGZkUX0xYp', status=None, thread_id='thread_AMjZzTgMUtWwWDMsnY7MUccQ')]
+Response:  It looks like you haven't uploaded any documents yet. Please upload the pertinent PDF files, and I will assist you in finding the specific information regarding EMT's customer acquisition spending in Q2 2023.
+Tokens: 1809, cost: 0.009675
+['71b04e0248ecf758990a0ab77bd69344be63bcf4.pdf']
+[Message(id='msg_wcT6A78neCJ05C3DtTeB9yRi', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='David P. Hochman'), type='text')], created_at=1725284219, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_LTtRd58rW4X4owMmWGIxNuTV', status=None, thread_id='thread_evsYD65U9z3tqWYT9pf6q5Hu')]
+Response:  David P. Hochman
+Tokens: 18127, cost: 0.09090500000000001
+['40b5cfe0d7bbf59e186492bfbe1b5002d44af332.pdf']
+[Message(id='msg_tNm2X8Y0MV5CA6eX1dow5esk', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284247, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_pEp13EPfG58PzLTGYT6UWFMw', status=None, thread_id='thread_jSOsYLu72rE4lodjyw4LQTG5')]
+Response:  None
+Tokens: 83995, cost: 0.42169500000000004
+[]
+[Message(id='msg_y22rKUEuil7lWt9JTY33czM5', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='It looks like you haven\'t uploaded any documents yet. Please upload the PDF document(s) containing the annual reports, and I\'ll help you find the number of stores "EMT" had at the end of fiscal year 2023.'), type='text')], created_at=1725284252, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_qE62k4FELe5Ty9AnR8KHK9WY', status=None, thread_id='thread_ktXOJTCa0lOPCAM4fin4qeGO')]
+Response:  It looks like you haven't uploaded any documents yet. Please upload the PDF document(s) containing the annual reports, and I'll help you find the number of stores "EMT" had at the end of fiscal year 2023.
+Tokens: 1817, cost: 0.009775
+['e51b7204b91cbe7709bd3218e7d2d0c2b8dbb438.pdf']
+[Message(id='msg_7uDO9o89ZMCZ3xCBwcMafovx', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284263, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_VYbWQsraIw3QzTyPgpypTm1q', status=None, thread_id='thread_hYIW3cxWs3h7iRycXDziHaBR')]
+Response:  None
+Tokens: 17939, cost: 0.08995500000000001
+['e51b7204b91cbe7709bd3218e7d2d0c2b8dbb438.pdf']
+[Message(id='msg_d1eUQgBgedCNvT6mDAEqSEH7', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Mark Reichenberg'), type='text')], created_at=1725284277, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_WYpMxSdYTMuXhQbKTbWd4pnu', status=None, thread_id='thread_UesSKm4lIKXw9nV3bcMPrAOc')]
+Response:  Mark Reichenberg
+Tokens: 17986, cost: 0.09017
+['ea0757d27fa67cd347d9f046b939a911f5c9a08d.pdf', '9ff4e041732c9841d5423e6ea0bbd6a0320df9ff.pdf']
+[Message(id='msg_W7oyAXJFK05VfgfCNEiGkXQv', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284293, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_3W0Aqx8YTGRyLb6eblFC94zH', status=None, thread_id='thread_W9cxlJ0GzlBkY3pyGQa2M7Kq')]
+Response:  None
+Tokens: 50501, cost: 0.253385
+['9ff4e041732c9841d5423e6ea0bbd6a0320df9ff.pdf']
+[Message(id='msg_9AotsjI36UlFtrFkrd5IX0u8', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284307, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_0yufjZ1rPvnw9ZqCYeprnD0c', status=None, thread_id='thread_MrUxkV9Cbzl5sw1SfV87HmJW')]
+Response:  None
+Tokens: 17300, cost: 0.08679
+['71b04e0248ecf758990a0ab77bd69344be63bcf4.pdf']
+[Message(id='msg_NUhLMVH7R6isj4SYOC1eAzVY', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284325, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_d7xyjEelHFFntm4Fqu3oyUiM', status=None, thread_id='thread_JnTjnTRwX56Y84S2wT0Tyg81')]
+Response:  None
+Tokens: 33262, cost: 0.16721
+[]
+[Message(id='msg_IcO5VB1nP83jQfHdBdjhXpo4', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='It looks like no documents have been uploaded yet. Please upload the PDF files that contain the annual reports, and I will assist you in extracting the requested information.'), type='text')], created_at=1725284329, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_udgL8qhzC4VfX5ivTVtXFVLc', status=None, thread_id='thread_AA1BG8HqtyoK22Qogp5C4N2N')]
+Response:  It looks like no documents have been uploaded yet. Please upload the PDF files that contain the annual reports, and I will assist you in extracting the requested information.
+Tokens: 1785, cost: 0.009435
+['ea0757d27fa67cd347d9f046b939a911f5c9a08d.pdf', '71b04e0248ecf758990a0ab77bd69344be63bcf4.pdf']
+[Message(id='msg_0KpeQeWuWin3uoBm2Bmx5hkF', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='True'), type='text')], created_at=1725284344, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_QtgHaMR1aHRvZfSxbj6GyyEg', status=None, thread_id='thread_atghsvX0gXvDQH1JFrsReYwv')]
+Response:  True
+Tokens: 17427, cost: 0.08756500000000002
+['9ff4e041732c9841d5423e6ea0bbd6a0320df9ff.pdf']
+[Message(id='msg_mT5B4SRBCj5o4czOtBT57QSv', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284358, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_atN8dJqSbbYso1U8XBECRMUh', status=None, thread_id='thread_qh154HjxnHPx33W88p9zoXVk')]
+Response:  None
+Tokens: 17243, cost: 0.08650500000000001
+[]
+[Message(id='msg_GscYHP6X5WFTldFJcEAgxKfP', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Please upload the document(s) you referred to, so that I can help you extract the required information.'), type='text')], created_at=1725284363, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_LmSLmO2j3MpxaDXQI77NnsTJ', status=None, thread_id='thread_80fSceRhwkH3eUjHsifSXtwX')]
+Response:  Please upload the document(s) you referred to, so that I can help you extract the required information.
+Tokens: 1800, cost: 0.009470000000000001
+['4b525836a5d7cb75489f6d93a3b1cf2b8f039bf2.pdf']
+[Message(id='msg_efYYAN5zFOdoASpGVzaaiZas', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[FileCitationAnnotation(end_index=59, file_citation=FileCitation(file_id='file-g4zDo5i2jk1jLbo0adpDxhIU'), start_index=47, text='【4:0†source】', type='file_citation'), FileCitationAnnotation(end_index=71, file_citation=FileCitation(file_id='file-g4zDo5i2jk1jLbo0adpDxhIU'), start_index=59, text='【4:6†source】', type='file_citation'), FileCitationAnnotation(end_index=83, file_citation=FileCitation(file_id='file-g4zDo5i2jk1jLbo0adpDxhIU'), start_index=71, text='【4:8†source】', type='file_citation')], value='The Board Chairman for TD SYNNEX is Dennis Polk【4:0†source】【4:6†source】【4:8†source】.'), type='text')], created_at=1725284380, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_XIcvE3jJba0gczMaS70h5jem', status=None, thread_id='thread_YaPiT2ilrkogAHwYAmqvgmV0')]
+Response:  The Board Chairman for TD SYNNEX is Dennis Polk【4:0†source】【4:6†source】【4:8†source】.
+Tokens: 17260, cost: 0.0868
+['3696c1b29566acc1eafc704ee5737fb3ae6f3d1d.pdf']
+[]
+No openai response
+Response:  None
+Tokens: 120897, cost: 0.607905
+['9ae3bb21564a5098c4b4d6450655c22eff85deae.pdf']
+[Message(id='msg_Qp5sEQYqmsSFocAPU28foqUP', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284444, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_cLh0wEL9T07RjTTRg2h1dlPj', status=None, thread_id='thread_hklHiFlwDMdelDBokbSskvi6')]
+Response:  None
+Tokens: 17770, cost: 0.08910000000000001
+['e51b7204b91cbe7709bd3218e7d2d0c2b8dbb438.pdf']
+[Message(id='msg_FUhzejQkrKTiJiNVurGCMrUp', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284456, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_vDoffidOxGJ055SeEXzCyifG', status=None, thread_id='thread_DxdJOaw5Y1lrkRiHjTHYiOcG')]
+Response:  None
+Tokens: 18081, cost: 0.09066500000000001
+['d734bac4a4815e616d84083ad4d3844655321215.pdf']
+[Message(id='msg_tZnbSzkeGNNHVqpVQYk86cp8', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Kristina Andersen Skiøld'), type='text')], created_at=1725284470, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_7UtPvU28LwTjAHkZRAT7Zmwg', status=None, thread_id='thread_3nF8nmt59XmuTMf7I39LLfil')]
+Response:  Kristina Andersen Skiøld
+Tokens: 15967, cost: 0.08007500000000001
+['40b5cfe0d7bbf59e186492bfbe1b5002d44af332.pdf']
+[Message(id='msg_1mpoFZB5eOn4bCKfDs6oYOCT', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725284502, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_vbA7xH9R4nCBlp5DUiT6DHvh', status=None, thread_id='thread_FSp2whr8VNNA171m72snAZpm')]
+Response:  None
+Tokens: 101613, cost: 0.510805
+[]
+[Message(id='msg_jOIkEixfhNTDfvoVegmI71oT', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Please upload the documents containing the annual reports. This will allow me to search for the information regarding the number of stores EMT had at the end of fiscal year 2022.'), type='text')], created_at=1725284507, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_N8K3Ha46ns4htQO56ppfLfHh', status=None, thread_id='thread_gpvmLp8QVjc7Rc4yAhKfd2eA')]
+Response:  Please upload the documents containing the annual reports. This will allow me to search for the information regarding the number of stores EMT had at the end of fiscal year 2022.
+Tokens: 1808, cost: 0.009630000000000001
+{'total_tokens': 1092656, 'total_cost': 5.49136}
+All together, tokens: 1107189, cost: $5.565425

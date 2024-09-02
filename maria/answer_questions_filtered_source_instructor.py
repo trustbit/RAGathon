@@ -124,5 +124,5 @@ with open(os.path.join(SAMPLE_DATA_PATH, "questions.json")) as f:
 
     # print(json_data)
     
-with open(os.path.join(SAMPLE_DATA_PATH, "questions_answers.json"), "w") as f:
+with open(os.path.join(SAMPLE_DATA_PATH, "questions_answers.json"), "w", encoding="utf-8") as f:
     json.dump(json_data, f, indent=2, ensure_ascii=False)

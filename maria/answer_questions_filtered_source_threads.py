@@ -8,6 +8,7 @@ from pydantic import BaseModel
 from typing import Optional
 import PyPDF2
 from extract_names_from_text import find_all_names
+from cost import get_run_cost
 
 
 SAMPLE_DATA_PATH = "data/samples"
@@ -16,17 +17,8 @@ RULES = """
 2. For a "Name" type question, provide only the exact name of the company or None as it appears in the dataset, and **nothing else**. The name must match exactly.
 3. For a "Boolean" type question, provide only True, False or None, and **nothing else**. The case of the letters does not matter.
 4. Important: For any question (number, name or boolean) if the answer is unknown or cannot be determined, use None.
+5. Don't provide links!
 """
-
-
-class NumberResponse(BaseModel):
-    answer: Optional[float]
-
-class NameResponse(BaseModel):
-    answer: Optional[str]
-
-class BooleanResponse(BaseModel):
-    answer: Optional[bool]
 
 
 def extract_names_from_string(input_string):
@@ -62,65 +54,97 @@ def find_matching_files(input_string, dictionary):
 load_dotenv()
 api_key=os.environ.get("OPENAI_API_KEY_RAG_CHALLENGE")
 
-openai_client = OpenAI(api_key=api_key)
-instructor_client = instructor.from_openai(OpenAI(api_key=api_key))
+client = OpenAI(api_key=api_key)
 
-pdf_names, names_cost = find_all_names(openai_client, SAMPLE_DATA_PATH)
+assistant = client.beta.assistants.create(
+  name="Financial PDF Analyst",
+  instructions="You are a financial data analyst specializing in extracting and analyzing information from PDF files. "
+               "Your task is to search through the provided PDF files, which contain annual reports of various companies, "
+               "and accurately answer questions based on the information found in those reports.",
+  tools=[{"type": "file_search"}],
+  model="gpt-4o",
+)
+assistant_id = assistant.id
+
+pdf_names, names_cost = find_all_names(client, SAMPLE_DATA_PATH)
+print(f"Cost of extracting company names: {names_cost}")
 
 with open(os.path.join(SAMPLE_DATA_PATH, "questions.json")) as f:
     json_data = json.load(f)
+    total_usage = {
+        'total_tokens': 0,
+        'total_cost': 0
+    }
+    
     for item in json_data:
-        if item['schema'] == "number":
-            response_class = NumberResponse
-        elif item['schema'] == "name":
-            response_class = NameResponse
-        elif item['schema'] == "boolean":
-            response_class = BooleanResponse
-        else:
-            continue 
-        
-        # This approach doesn't seem to work, completions can't takes files
-        # file = openai_client.files.create(
-        #     file=open(os.path.join(SAMPLE_DATA_PATH, "3696c1b29566acc1eafc704ee5737fb3ae6f3d1d.pdf"), "rb"),
-        #     purpose="fine-tune"
-        # )
-        
         relevant_files = find_matching_files(item['question'], pdf_names)
         print(relevant_files)
         
-        # This also doesn't work, because it's each to exceed the limit of 120000 input tokens
-        text = ""
-        for pdf_file in relevant_files:
-            reader = PyPDF2.PdfReader(os.path.join(SAMPLE_DATA_PATH, pdf_file))
-            for page in range(len(reader.pages)):
-                text += reader.pages[page].extract_text()
+        if not relevant_files:
+            print(f"No relevant files found for question: {item['question']}. Skipping to the next item.")
+            item['answer'] = "n/a"
+            continue
         
-        response, completion = instructor_client.chat.completions.create_with_completion(
-            model="gpt-4o",
-            response_model=response_class,
+        print(f"Question: {item['question']}")
+        
+        file_ids = []
+        for file_name in relevant_files:
+            if file_name.endswith(".pdf"):
+                file_path = os.path.join(SAMPLE_DATA_PATH, file_name)
+                with open(file_path, "rb") as file:
+                    response = client.files.create(
+                        file=file,
+                        purpose="assistants",
+                    )
+                    file_ids.append(response.id)
+        
+        thread = client.beta.threads.create(
             messages=[
                 {
-                    "role": "system", 
-                    "content": "You are a helpful assistant that can read PDFs."
-                },
-                {
-                    "role": "user", 
-                    "content": f"Based on the information this text: '{text}', "
-                               f"answer this question: {item['question']}. "
-                            #    f"Type of the response must be: {item['schema']}. "
-                               f"Follow these rules: {RULES}"
+                    "role": "user",
+                    "content": f"Here is a document (or two documents). "
+                               f"Based on the information in this document, "
+                               f"answer this question: {item['question']} "
+                               f"Type of the response must be: {item['schema']} or 'n/a'. "
+                               f"Follow these rules: {RULES}",
+                    "attachments": [
+                        {
+                            "file_id": file_id,
+                            "tools": [{"type": "file_search"}]
+                        } for file_id in file_ids
+                    ]
                 }
-            ],
+            ]
         )
+        thread_id=thread.id
         
-        if response.answer is not None :
-            item['answer'] = response.answer
+        run = client.beta.threads.runs.create_and_poll(
+            thread_id=thread_id, assistant_id=assistant_id
+        )
+        messages = list(client.beta.threads.messages.list(thread_id=thread_id, run_id=run.id))
+        print(messages)
+        if messages and messages[0].content:
+            response = messages[0].content[0].text.value
         else:
+            print("No openai response")
+            response = None
+        tokens, cost = get_run_cost(run)
+        
+        if response in [None, "None"]:
             item['answer'] = "n/a"
-            
-        print("RESPONSE: ", response)
+        else:
+            item['answer'] = response
+        print("Response: ", response)
+        
+        total_usage['total_tokens'] += tokens
+        total_usage['total_cost'] += cost
+        print(f"Tokens: {tokens}, cost: {cost}")
 
-    # print(json_data)
     
-with open(os.path.join(SAMPLE_DATA_PATH, "questions_answers.json"), "w") as f:
+with open(os.path.join(SAMPLE_DATA_PATH, "results.json"), "w", encoding="utf-8") as f:
     json.dump(json_data, f, indent=2, ensure_ascii=False)
+print(total_usage)
+
+tokens_all_together = total_usage['total_tokens'] + names_cost['total_tokens']
+cost_all_together = total_usage['total_cost'] + names_cost['total_cost']
+print(f"All together, tokens: {tokens_all_together}, cost: ${cost_all_together}")

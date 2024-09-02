@@ -1,14 +1,17 @@
 from openai import OpenAI
 import pandas as pd
 import os
+import re
+import shutil
 import json
 import PyPDF2
 from dotenv import load_dotenv
 from cost import get_run_cost
+from extract_names_from_text import find_all_names
 
 
 SAMPLE_DATA_PATH = "data/samples"
-COMBINED_FILE = 'data/processed/combined/combined.pdf'
+RENAMED_DATA_PATH = "data/processed/renamed"
 
 RULES = """
 1. For a "Number" type question, provide only a metric number or None as the answer, and **nothing else**. The number should not include decimal commas, spaces, or separators.
@@ -17,20 +20,25 @@ RULES = """
 4. Important: For any question (number, name or boolean) if the answer is unknown or cannot be determined, use None.
 5. Don't provide links!
 """
-            
-# This is apparently not necessary, because you can also pass several files to a thread  
-def combine_pdfs(folder_path, output_file):
-    merger = PyPDF2.PdfMerger()
 
-    for filename in sorted(os.listdir(folder_path)):
-        if filename.endswith('.pdf'):
-            filepath = os.path.join(folder_path, filename)
-            merger.append(filepath)
 
-    merger.write(output_file)
-    merger.close()
+def convert_to_valid_filename(input_string):
+    valid_filename = re.sub(r'[<>:"/\\|?*]', '', input_string)
+    valid_filename = valid_filename.replace(' ', '_')
+    max_length = 255
+    valid_filename = valid_filename[:max_length]
+    return valid_filename
 
-    return output_file
+
+def rename_and_save_files(source_dir, dest_dir, name_mapping):
+    os.makedirs(dest_dir, exist_ok=True)
+
+    for old_name, new_name in name_mapping.items():
+        old_file_path = os.path.join(source_dir, old_name)
+        new_file_path = os.path.join(dest_dir, convert_to_valid_filename(new_name)+".pdf")
+
+        if os.path.exists(old_file_path):
+            shutil.copy(old_file_path, new_file_path)
 
 
 load_dotenv()
@@ -47,28 +55,43 @@ assistant = client.beta.assistants.create(
   model="gpt-4o",
 )
 
-combined_file = combine_pdfs(SAMPLE_DATA_PATH, COMBINED_FILE) 
-        
-file = client.files.create(
-    file=open(combined_file, "rb"),
-    # file=open("data/processed/combined/combined.pdf", "rb"),
-    purpose="assistants"
-)
+pdf_names, names_cost = find_all_names(client, SAMPLE_DATA_PATH)
+print(f"Cost of extracting company names: {names_cost}")
+rename_and_save_files(SAMPLE_DATA_PATH, RENAMED_DATA_PATH, pdf_names)
+
+renamed_files = os.listdir(RENAMED_DATA_PATH) 
+file_ids = []
+for file_name in renamed_files:
+    if file_name.endswith(".pdf"):
+        file_path = os.path.join(RENAMED_DATA_PATH, file_name)
+        with open(file_path, "rb") as file:
+            response = client.files.create(
+                file=file,
+                purpose="assistants",
+                # Apparently gpt-4o will NOT see this additional meta info
+                # extra_body={
+                #     "company_name": pdf_names[file_name]
+                # }
+            )
+            file_ids.append(response.id)
+
 
 thread = client.beta.threads.create(
     messages=[
         {
             "role": "user",
-            "content": f"Here is the document we will be referring to. "
-                       f"Based on the information in this document, "
-                       f"answer my questions. "
+            "content": f"Here are the documents we will be referring to. "
+                       f"I will ask questions. You should identify relevant files "
+                       f"by looking at the company names in the question and the file names, "
+                       f"and then look for the answer only in those files. "
+                       f"Answer my questions based on the info in the relevant files. "
                        f"Follow these rules: {RULES}",
-            # TODO: Try multiple attachements
+            # Apparently the upper limit is 10 attachements
             "attachments": [
                 {
-                    "file_id": file.id,
+                    "file_id": file_id,
                     "tools": [{"type": "file_search"}]
-                }
+                } for file_id in file_ids
             ]
         }
     ]
@@ -113,6 +136,10 @@ with open(os.path.join(SAMPLE_DATA_PATH, "questions.json")) as f:
         total_usage['total_cost'] += cost
         print(f"Tokens: {tokens}, cost: {cost}")
         
-with open(os.path.join(SAMPLE_DATA_PATH, "results.json"), "w") as f:
+with open(os.path.join(SAMPLE_DATA_PATH, "results.json"), "w", encoding="utf-8") as f:
     json.dump(json_data, f, indent=2, ensure_ascii=False)
 print(total_usage)
+
+tokens_all_together = total_usage['total_tokens'] + names_cost['total_tokens']
+cost_all_together = total_usage['total_cost'] + names_cost['total_cost']
+print(f"All together, tokens: {tokens_all_together}, cost: ${cost_all_together}")

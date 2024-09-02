@@ -5,6 +5,7 @@ import re
 import random
 import PyPDF2
 from dotenv import load_dotenv
+from cost import get_run_cost
 
 
 SAMPLE_DATA_PATH = "data/samples"
@@ -20,21 +21,6 @@ def extract_first_n_pages(input_pdf, n_pages, output_pdf):
             writer.add_page(reader.pages[i])
         with open(output_pdf, 'wb') as outfile:
             writer.write(outfile)            
-
-
-def get_run_cost(run):
-    usage_data = run.usage
-    if usage_data:
-        # prompt_tokens = usage_data.prompt_tokens
-        # completion_tokens = usage_data.completion_tokens
-        total_tokens = usage_data.total_tokens
-        cost_per_token_input = 5 / 1000000 # USD
-        cost_per_token_output = 15 / 1000000 # USD
-        input_cost = usage_data.prompt_tokens * cost_per_token_input
-        output_cost = usage_data.completion_tokens * cost_per_token_output   
-        total_cost = input_cost + output_cost
-        return total_tokens, total_cost
-
     
 def get_thread_response(client, assistant_id, thread_id):
     run = client.beta.threads.runs.create_and_poll(
@@ -44,7 +30,6 @@ def get_thread_response(client, assistant_id, thread_id):
     response = messages[0].content[0].text.value
     total_tokens, total_cost = get_run_cost(run)
     return response, total_tokens, total_cost
-
 
 def get_company_name(pdf_file_path, client, assistant_id):
     pdf_file_name = os.path.basename(pdf_file_path)

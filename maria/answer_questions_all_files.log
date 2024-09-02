@@ -1,0 +1,81 @@
+Response:  None
+Tokens: 1852, cost: 0.00952
+Response:  Eamonn O’Hare
+Tokens: 17785, cost: 0.089175
+Response:  True
+Tokens: 17703, cost: 0.089005
+Response:  None
+Tokens: 17425, cost: 0.087385
+Response:  None
+Tokens: 18369, cost: 0.09211500000000002
+Response:  Yukuan Zhang
+Tokens: 18022, cost: 0.09031
+Response:  n/a
+Tokens: 17829, cost: 0.08959500000000001
+Response:  None
+Tokens: 17930, cost: 0.08992000000000001
+Response:  None
+Tokens: 18453, cost: 0.09252500000000001
+Response:  Suzanne Winter
+Tokens: 19352, cost: 0.09697
+Response:  True
+Tokens: 19179, cost: 0.09628500000000001
+Response:  None
+Tokens: 18999, cost: 0.09528500000000001
+Response:  6618795
+Tokens: 19780, cost: 0.09919000000000001
+Response:  Qian Sun
+Tokens: 19988, cost: 0.10016
+Response:  False
+Tokens: 19670, cost: 0.09873000000000001
+Response:  None
+Tokens: 19995, cost: 0.100235
+Response:  240000000
+Tokens: 20195, cost: 0.10125500000000001
+Response:  Marshall Witt
+Tokens: 20357, cost: 0.101985
+Response:  True
+Tokens: 20873, cost: 0.104745
+Response:  None
+Tokens: 20665, cost: 0.103595
+Response:  None
+Tokens: 20608, cost: 0.10328000000000001
+Response:  David P. Hochman
+Tokens: 21151, cost: 0.10602500000000001
+Response:  True
+Tokens: 21187, cost: 0.10636500000000002
+Response:  None
+Tokens: 21231, cost: 0.106395
+Response:  6618795
+Tokens: 21854, cost: 0.10956000000000002
+Response:  Mark Reichenberg
+Tokens: 21778, cost: 0.10912000000000001
+Response:  True
+Tokens: 21640, cost: 0.10863000000000002
+Response:  None
+Tokens: 21909, cost: 0.10983500000000002
+Response:  n/a
+Tokens: 21607, cost: 0.10833500000000001
+Response:  David Grant
+Tokens: 22498, cost: 0.11270000000000001
+Response:  True
+Tokens: 21938, cost: 0.11012000000000001
+Response:  None
+Tokens: 22610, cost: 0.11334000000000001
+Response:  None
+Tokens: 23418, cost: 0.11735000000000001
+Response:  Dennis Polk
+Tokens: 22490, cost: 0.11266000000000001
+Response:  True
+Tokens: 23680, cost: 0.11882000000000001
+Response:  None
+Tokens: 23679, cost: 0.11864500000000001
+Response:  6618795
+Tokens: 4107, cost: 0.020585
+Response:  Dennis Polk
+Tokens: 22516, cost: 0.11279
+Response:  True
+Tokens: 24165, cost: 0.12122500000000001
+Response:  None
+Tokens: 24023, cost: 0.120355
+{'total_tokens': 792510, 'total_cost': 3.97412}

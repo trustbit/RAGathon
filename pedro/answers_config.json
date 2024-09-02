@@ -1,0 +1,14 @@
+{
+    "DEVICE": "cuda",
+    "DATA_PATH": "/content/drive/MyDrive/rag_v3/data_v2",
+    "PROMPT_PATH": "/content/drive/MyDrive/rag_v3/prompt",
+    "WORD_SEPARATOR": "'\\n'",
+    "CHUNK_SEPARATOR": "'\\n\\n'",
+    "CHUNK_SIZE": 1000,
+    "CHUNK_SIMILARITY_CUTOFF_THRESHOLD": 0.05,
+    "CHUNK_TRANSFORMER_MODEL": "sentence-transformers/all-MiniLM-L6-v2",
+    "MIN_CHUNK_AVAILABILITY_CUTOFF_THRESHOLD": 0.35,
+    "MAX_CHUNK_TO_USE": 8,
+    "MAX_DOCUMENTS_TO_LLM_CONTEXT": 3,
+    "LLM_MODEL": "openchat/openchat-3.5-0106"
+}

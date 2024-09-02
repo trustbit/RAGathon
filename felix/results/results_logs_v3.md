@@ -1,3 +1,8 @@
+Prompt changes
+
+# LOGS
+
+
 How much did "Accuray Incorporated" spend on risk management in Q2 2022?
 
 ## Query: How much did "Accuray Incorporated" spend on risk management in Q2 2022?

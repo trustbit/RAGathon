@@ -7,7 +7,6 @@
 
 2. Context Limitation:
     Data Use: Only use the information provided within the context window. Do not infer, assume, or reference any data beyond what is given.
-    Insufficient Data: If there is not enough information to answer accurately, respond with "n/a".
 
 3. Precision and Conciseness:
     Concise Answers: Provide exact and concise answers, strictly following the required format. Avoid any additional explanations or context.

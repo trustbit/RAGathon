@@ -1,4 +1,384 @@
-################RUN_2#############################
+################RUN_4_TEST_SET#############################
+Company names: {'a706b44ba275c97b8633b0808cd2f90cbb7fe473.pdf': 'Oesterreichische Kontrollbank Aktiengesellschaft', '85fb23ba2910de45e27f8f40170c0f3576043916.pdf': 'TransUnion', 'cbd8fb252e8743dc53961adc53e2b4de9ff6037a.pdf': 'TOWER SEMICONDUCTOR LID.', 'e2b19d2cc2ccab2fd9022326b56b38fb0e772e73.pdf': 'CrossFirst Bankshares, Inc.', 'e0d6bb578bfc233c3bdbded229960fed01624631.pdf': 'CREATIVE MEDIA & COMMUNITY TRUST CORPORATION', 'f06d7ecc8072de616a4ea35c74e20199de6b0691.pdf': 'SAFE & GREEN HOLDINGS CORP.', 'ac9aa244462c80705c3ff046542c02c459989742.pdf': 'Mercia Asset Management PLC', 'a8077fe1983a64dc77bddfafbf48242e66111a89.pdf': 'POWERFLEET, INC.', 'e62b2ebe3012cd7e6c57507bc950a46d06b3d06e.pdf': 'Sleep Country Canada Holdings Inc.', '2779336b845a41544348abb7b3e6e5bd2ff893a2.pdf': 'Compagnie Financiére Tradition', 'e33544bdea57faa0ad10ba2e93bf052482f33325.pdf': 'Sensata', '43437bccca01aeae222ec7cc706ba3eaf50be2d7.pdf': 'ENRG ELEMENTS LIMITED', 'ba5852cb6c20da35da2ce6ebaafc711d06fe8c1e.pdf': 'Caixa Geral de Depésitos, S.A.', '194000c9109c6fa628f1fed33b44ae4c2b8365f4.pdf': 'HOLLEY INC.', '609042c64a759c0ac63e7cf18742be4dd3cc5cd5.pdf': 'PetraDiamonds', '9d7a72445aba6860402c3acce75af02dc045f74d.pdf': 'Unknown', 'e765cdd472cb47fa74ee6a52700c61aca645bbee.pdf': 'First Mid Bancshares, Inc.', 'f721fa86aa0f17b194fa21917aeabbf8df6511c2.pdf': 'Unknown', '6054ec55767fbe6585598ced7afacf5cb8619a13.pdf': 'Mitsui O.S.K. Lines', '84749ef5c2bbf2a302b6614f31727a95bf29f309.pdf': 'BAKER STEEL RESOURCES TRUST LIMITED'}
+Cost of extracting company names: {'total_tokens': 13118, 'total_cost': 0.06715999999999998}
+Question: What was the Net Profit Margin of "Oesterreichische Kontrollbank" in June 30, 2023?
+['a706b44ba275c97b8633b0808cd2f90cbb7fe473.pdf']
+[Message(id='msg_pGXRZJ2cAJmoBctlW9nmlTyx', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725311780, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_miI1S8BHy2mAJR2CVlBk8zPT', status=None, thread_id='thread_PFlqPnsxWUlqZ8Sp5IAZuX3N')]
+Response:  None
+Tokens: 33636, cost: 0.16871
+Question: What was the total liabilities of "CrossFirst Bank" in the fiscal year 2023?
+['e2b19d2cc2ccab2fd9022326b56b38fb0e772e73.pdf']
+[Message(id='msg_rHvOlQE8gU0OcSmHtygafWMQ', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='5992487'), type='text')], created_at=1725311794, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_oDd3WMDG4RoWbcbRQ5nROJTK', status=None, thread_id='thread_tMteIYtcEdShaZ7UbXqR8w2Z')]
+Response:  5992487
+Tokens: 17737, cost: 0.08894500000000001
+Question: How much more did "Astral Resources NL" spend on marketing compared to "TSX_Y" in June 30, 2021?
+[]
+No relevant files found for question: How much more did "Astral Resources NL" spend on marketing compared to "TSX_Y" in June 30, 2021?. Skipping to the next item.
+Question: Which company had a higher free cash flow: "TSX_ACQ", "QUIDELORTHO CORPORATION" or "PowerFleet, Inc.", in the fiscal year 2022?
+['a8077fe1983a64dc77bddfafbf48242e66111a89.pdf']
+[Message(id='msg_3vse3IOTEFHLPc7PFWTfQBSu', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='PowerFleet, Inc.'), type='text')], created_at=1725311814, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_RGR9gHa9G6Ph42FMZQoCVGTz', status=None, thread_id='thread_p7H13nTFgop8122dt8jATRNj')]
+Response:  PowerFleet, Inc.
+Tokens: 50271, cost: 0.252635
+Question: What was the earnings per share (EPS) of "Holley Inc." in June 30, 2023?
+['194000c9109c6fa628f1fed33b44ae4c2b8365f4.pdf']
+[Message(id='msg_yo3Gan8S2lCzvTjzXWmShB0z', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='0.14'), type='text')], created_at=1725311825, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_zWhO5pGcw6xZKBm2eSw6A5VO', status=None, thread_id='thread_RdQUMQSYJcbNgnNRKzxmqpUm')]
+Response:  0.14
+Tokens: 17918, cost: 0.08988000000000002
+Question: What was the accounts receivable of "Petra Diamonds" in the fiscal year 2023?
+[]
+No relevant files found for question: What was the accounts receivable of "Petra Diamonds" in the fiscal year 2023?. Skipping to the next item.
+Question: How much more did "Creative Media & Community Trust Corporation" spend on sustainability initiatives compared to "BAKER STEEL RESOURCES TRUST LIMITED" in June 30, 2021?
+['e0d6bb578bfc233c3bdbded229960fed01624631.pdf', '84749ef5c2bbf2a302b6614f31727a95bf29f309.pdf']
+[Message(id='msg_jxpxyMoPq87IkpHhFZ4Z1X02', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725311838, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_o2PpBbv6pcnCEe5pGUwRu8DW', status=None, thread_id='thread_iA1DGywkvrYdems1JLOkFrRO')]
+Response:  None
+Tokens: 17478, cost: 0.08785
+Question: Which company had a higher total liabilities: "Creative Media & Community Trust Corporation", "Sleep Country Canada Holdings Inc." or "Tradition", in the fiscal year 2023?
+['e0d6bb578bfc233c3bdbded229960fed01624631.pdf', 'e62b2ebe3012cd7e6c57507bc950a46d06b3d06e.pdf', '2779336b845a41544348abb7b3e6e5bd2ff893a2.pdf']
+[Message(id='msg_JUWBSZw5QRlLs8uz1WaRgQJb', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Tradition'), type='text')], created_at=1725311853, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_8VbDPzuHHTYKn37qKf372Sdd', status=None, thread_id='thread_bNfp1ozAMqwb6eoKh6it19ho')]
+Response:  Tradition
+Tokens: 18288, cost: 0.09190000000000001
+Question: What was the Net Profit Margin of "QUIDELORTHO CORPORATION" in June 30, 2023?
+[]
+No relevant files found for question: What was the Net Profit Margin of "QUIDELORTHO CORPORATION" in June 30, 2023?. Skipping to the next item.
+Question: What was the acquisition costs of "Safe & Green Holdings Corp." in the fiscal year 2021?
+['f06d7ecc8072de616a4ea35c74e20199de6b0691.pdf']
+[Message(id='msg_B7xE4CeHLcGVSQ8GFJBDRYUm', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725311859, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_6wb4y73MiuVpZ8ewzgTOfQze', status=None, thread_id='thread_cd8PvcNahuECHlNB41JOTGAX')]
+Response:  None
+Tokens: 1846, cost: 0.009510000000000001
+Question: How much more did "Astral Resources NL" spend on marketing compared to "TSX_ACQ" in June 30, 2023?
+[]
+No relevant files found for question: How much more did "Astral Resources NL" spend on marketing compared to "TSX_ACQ" in June 30, 2023?. Skipping to the next item.
+Question: Which company had a higher shareholders' equity: "MITSUI O.S.K. LINES", "TSX_Y" or "Tradition", in the fiscal year 2022?
+['6054ec55767fbe6585598ced7afacf5cb8619a13.pdf', '2779336b845a41544348abb7b3e6e5bd2ff893a2.pdf']
+[Message(id='msg_WEbBIWhTAMaCp5b9o60D3UEs', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='MITSUI O.S.K. LINES'), type='text')], created_at=1725311872, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_RX0siBt2sOVqZBCnGvZwYLSc', status=None, thread_id='thread_j5Z4JfplYInxUiNBD7KMfUlW')]
+Response:  MITSUI O.S.K. LINES
+Tokens: 17822, cost: 0.08971000000000001
+Question: What was the Gross Profit Margin of "JOURNEY MEDICAL CORPORATION" in June 30, 2022?
+[]
+No relevant files found for question: What was the Gross Profit Margin of "JOURNEY MEDICAL CORPORATION" in June 30, 2022?. Skipping to the next item.
+Question: What was the operating cash flow of "JOURNEY MEDICAL CORPORATION" in the fiscal year 2023?
+[]
+No relevant files found for question: What was the operating cash flow of "JOURNEY MEDICAL CORPORATION" in the fiscal year 2023?. Skipping to the next item.
+Question: How much more did "Astral Resources NL" spend on risk management compared to "Caixa Geral de Depósitos, S.A." in June 30, 2023?
+['ba5852cb6c20da35da2ce6ebaafc711d06fe8c1e.pdf']
+[Message(id='msg_35uCT2YVdfRwJtXjtgsjotMQ', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725311906, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_4cSrIPATt7CgPzmairyH0eWu', status=None, thread_id='thread_cRcuXdFE2Xg3ZJuVsZEt9sOt')]
+Response:  None
+Tokens: 67896, cost: 0.34120000000000006
+Question: Which company had a higher acquisition costs: "PowerFleet, Inc.", "Oesterreichische Kontrollbank" or "Astral Resources NL", in the fiscal year 2023?
+['a8077fe1983a64dc77bddfafbf48242e66111a89.pdf', 'a706b44ba275c97b8633b0808cd2f90cbb7fe473.pdf']
+[Message(id='msg_XViLzZbL5VVeviYXH5Z53CSY', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='PowerFleet, Inc.'), type='text')], created_at=1725311922, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_9U6oLY5LvAAp7NNFN3rpbX1S', status=None, thread_id='thread_9p439clv4Ry02PtSh0ElCgxQ')]
+Response:  PowerFleet, Inc.
+Tokens: 33772, cost: 0.16971
+Question: What was the Quick Ratio of "IMUNON, INC." in June 30, 2021?
+[]
+No relevant files found for question: What was the Quick Ratio of "IMUNON, INC." in June 30, 2021?. Skipping to the next item.
+Question: What was the net income of "Petra Diamonds" in the fiscal year 2022?
+[]
+No relevant files found for question: What was the net income of "Petra Diamonds" in the fiscal year 2022?. Skipping to the next item.
+Question: How much more did "Sensata" spend on customer acquisition compared to "Laserbond" in June 30, 2022?
+['e33544bdea57faa0ad10ba2e93bf052482f33325.pdf']
+[Message(id='msg_Zv81nVsq5MA9z4hIlTMyVyGq', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725311966, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_juoryOHW19FHNsNBKsqAHXJG', status=None, thread_id='thread_DiXrjVwAUctKGmJAQePigtVi')]
+Response:  None
+Tokens: 101815, cost: 0.5105350000000001
+Question: Which company had a higher free cash flow: "Sensata", "TransUnion" or "First Mid Bancshares, Inc.", in the fiscal year 2021?
+['e33544bdea57faa0ad10ba2e93bf052482f33325.pdf', '85fb23ba2910de45e27f8f40170c0f3576043916.pdf', 'e765cdd472cb47fa74ee6a52700c61aca645bbee.pdf']
+[Message(id='msg_qber6FIgNUovkLB1uOAsxbcy', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='TransUnion'), type='text')], created_at=1725311981, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_8Ck5y7iIWylPMLn5vBb9iFpe', status=None, thread_id='thread_70slBPcQFqxxUDUElz8AOxQg')]
+Response:  TransUnion
+Tokens: 17471, cost: 0.08783500000000001
+Question: What was the market capitalization of "Holley Inc." in June 30, 2023?
+['194000c9109c6fa628f1fed33b44ae4c2b8365f4.pdf']
+[Message(id='msg_QOLMY1WL3PuZMDWIMPi9apxk', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725311998, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_27afnaxonSx4saIAuA7CHL5R', status=None, thread_id='thread_6CLDu73gBseGH1OiCx5uEukG')]
+Response:  None
+Tokens: 52409, cost: 0.262745
+Question: What was the total assets of "TransUnion" in the fiscal year 2023?
+['85fb23ba2910de45e27f8f40170c0f3576043916.pdf']
+[Message(id='msg_htsWgyYgOYSowXNBXw0laQnb', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='11666300'), type='text')], created_at=1725312008, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_JPwuygGD6eKdUWmWXzwg9mVn', status=None, thread_id='thread_ZfUtb4rxihfpbiQUzBqWzTfz')]
+Response:  11666300
+Tokens: 17486, cost: 0.08768000000000001
+Question: How much more did "BAKER STEEL RESOURCES TRUST LIMITED" spend on customer acquisition compared to "Sleep Country Canada Holdings Inc." in June 30, 2021?
+['84749ef5c2bbf2a302b6614f31727a95bf29f309.pdf', 'e62b2ebe3012cd7e6c57507bc950a46d06b3d06e.pdf']
+[Message(id='msg_6s15mtpalrXRVsRIL7WvdFjW', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725312026, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_bsvok2EMXbKdhaKcUMYmrbTx', status=None, thread_id='thread_g9L1uguKtMc5PPFHdrkxusiX')]
+Response:  None
+Tokens: 17650, cost: 0.08879000000000001
+Question: Which company had a higher research and development expenses: "MITSUI O.S.K. LINES", "Holley Inc." or "First Mid Bancshares, Inc.", in the fiscal year 2021?
+['6054ec55767fbe6585598ced7afacf5cb8619a13.pdf', '194000c9109c6fa628f1fed33b44ae4c2b8365f4.pdf', 'e765cdd472cb47fa74ee6a52700c61aca645bbee.pdf']
+[Message(id='msg_QmvMwNO7E18wvdb0dL71Dfg9', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Holley Inc.'), type='text')], created_at=1725312045, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_4jYUt5OQjUmQdM8b7HcAhOcC', status=None, thread_id='thread_t7Z4cIYATGFrDflnx3gSgpcI')]
+Response:  Holley Inc.
+Tokens: 17063, cost: 0.085915
+Question: What was the Operating Margin of "Sleep Country Canada Holdings Inc." in June 30, 2022?
+['e62b2ebe3012cd7e6c57507bc950a46d06b3d06e.pdf']
+[Message(id='msg_VUB5ygRXM18hv4HD0y6iCHF3', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='23'), type='text')], created_at=1725312053, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_a2cIMSXHsUzvwMvNQAJykVvx', status=None, thread_id='thread_zX8zPAlC9QjGxVDwfeWI6AED')]
+Response:  23
+Tokens: 17531, cost: 0.08794500000000001
+Question: What was the intangible assets of "TransUnion" in the fiscal year 2021?
+['85fb23ba2910de45e27f8f40170c0f3576043916.pdf']
+[Message(id='msg_6uuguG9Jskd5ymAAVEtxliOc', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='5944100000'), type='text')], created_at=1725312069, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_maf0JprKGuey9X4GaZWKqDQ6', status=None, thread_id='thread_lkOKWctHB0egLH7N3qOk4MRv')]
+Response:  5944100000
+Tokens: 17657, cost: 0.08854500000000001
+Question: How much more did "PowerFleet, Inc." spend on R&D compared to "JOURNEY MEDICAL CORPORATION" in June 30, 2022?
+['a8077fe1983a64dc77bddfafbf48242e66111a89.pdf']
+[Message(id='msg_NSUu6tRtHmqF7nmAj9GpUYfP', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='1035000'), type='text')], created_at=1725312097, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_clFmg51H33WWicgMpGmMcvAT', status=None, thread_id='thread_xy8YaQ5cjKYkRLE3JRpb2Ugv')]
+Response:  1035000
+Tokens: 85927, cost: 0.431555
+Question: Which company had a higher inventories: "TSX_Y", "Mercia Asset Management PLC" or "Tradition", in the fiscal year 2022?
+['ac9aa244462c80705c3ff046542c02c459989742.pdf', '2779336b845a41544348abb7b3e6e5bd2ff893a2.pdf']
+[Message(id='msg_z7i7KE0VJleLVybIzEgTt9fb', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Tradition'), type='text')], created_at=1725312121, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_tNg9HBKpLzdmF3oAknfiYRIG', status=None, thread_id='thread_fOj3pIK6CUWZi8O40LsJe4J7')]
+Response:  Tradition
+Tokens: 34460, cost: 0.17298
+Question: What was the Gross Profit Margin of "Safe & Green Holdings Corp." in June 30, 2022?
+['f06d7ecc8072de616a4ea35c74e20199de6b0691.pdf']
+[Message(id='msg_OtzcuvRBxPQc4TD12sY4ucJo', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725312137, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_DPBTn4Ixp08fDr6Q7ENMSOh2', status=None, thread_id='thread_UK3JCW6haZyR1USGxip1LP4m')]
+Response:  None
+Tokens: 17313, cost: 0.08686500000000001
+Question: What was the total revenue of "Mercia Asset Management PLC" in the fiscal year 2021?
+['ac9aa244462c80705c3ff046542c02c459989742.pdf']
+[Message(id='msg_S341JQu8layPGAgqmwPgnVuz', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='23410'), type='text')], created_at=1725312149, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_5Fz5jMONvmn3YxUathvGAouS', status=None, thread_id='thread_ZpcuVVvyapZB71FhwvZO4tZx')]
+Response:  23410
+Tokens: 17749, cost: 0.08901500000000001
+Question: How much more did "First Mid Bancshares, Inc." spend on risk management compared to "QUIDELORTHO CORPORATION" in June 30, 2022?
+['e765cdd472cb47fa74ee6a52700c61aca645bbee.pdf']
+[Message(id='msg_p5x2C66hsro2XPkuQjef2gwa', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725312168, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_WQdsqTtaR0UeVFjW5Ivagj39', status=None, thread_id='thread_WCfwLVrBaOqAkzqkLkH5WLEG')]
+Response:  None
+Tokens: 67903, cost: 0.340665
+Question: Which company had a higher total liabilities: "DouYu International Holdings Limited", "CrossFirst Bank" or "First Mid Bancshares, Inc.", in the fiscal year 2023?
+['e2b19d2cc2ccab2fd9022326b56b38fb0e772e73.pdf', 'e765cdd472cb47fa74ee6a52700c61aca645bbee.pdf']
+[Message(id='msg_ki61laLl3xIRPb08edAwXLRr', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='First Mid Bancshares, Inc.'), type='text')], created_at=1725312183, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_3iKa5yVbxqdE2dzJJCcYmHqh', status=None, thread_id='thread_TDiN7O9MbkPFIWppkghLxgGb')]
+Response:  First Mid Bancshares, Inc.
+Tokens: 17503, cost: 0.08805500000000001
+Question: What was the Return on Assets (ROA) of "ENRG ELEMENTS LIMITED" in June 30, 2022?
+['43437bccca01aeae222ec7cc706ba3eaf50be2d7.pdf']
+[Message(id='msg_Q6qBlyxmjOvKuMKRFXLNm9qJ', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725312195, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_TbvxMfDZuQO2rEeaXyQYVz8y', status=None, thread_id='thread_hbyG8drZXcSrCPHVRNJSQVKK')]
+Response:  None
+Tokens: 17648, cost: 0.08861000000000001
+Question: What was the free cash flow of "Oesterreichische Kontrollbank" in the fiscal year 2023?
+['a706b44ba275c97b8633b0808cd2f90cbb7fe473.pdf']
+[Message(id='msg_amubcCoGA4IRlN7ZsnGT0Vdf', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='305885'), type='text')], created_at=1725312208, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_5dtKx1aw7BlEW1wHEOovJfep', status=None, thread_id='thread_BAkVlv2KHOF50nV98NkEBel3')]
+Response:  305885
+Tokens: 17514, cost: 0.08786000000000001
+Question: How much more did "Sensata" spend on risk management compared to "Holley Inc." in June 30, 2022?
+['e33544bdea57faa0ad10ba2e93bf052482f33325.pdf', '194000c9109c6fa628f1fed33b44ae4c2b8365f4.pdf']
+[Message(id='msg_4RAfv5MOPZPZZOfEskA9M5DX', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725312223, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_84YqAOW47XnwXyH573jEiGk3', status=None, thread_id='thread_xX4T6tQOtZSas2r0PTnX4n2X')]
+Response:  None
+Tokens: 17522, cost: 0.08801
+Question: Which company had a higher free cash flow: "BAKER STEEL RESOURCES TRUST LIMITED", "Safe & Green Holdings Corp." or "PowerFleet, Inc.", in the fiscal year 2021?
+['84749ef5c2bbf2a302b6614f31727a95bf29f309.pdf', 'f06d7ecc8072de616a4ea35c74e20199de6b0691.pdf', 'a8077fe1983a64dc77bddfafbf48242e66111a89.pdf']
+[Message(id='msg_cNPENsfuAxsHsYBWO611eY3R', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='PowerFleet, Inc.'), type='text')], created_at=1725312243, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_fcmx9Omr2mOxVXcDVbjtRh45', status=None, thread_id='thread_625sy451B1K8rivuaRyD040d')]
+Response:  PowerFleet, Inc.
+Tokens: 33764, cost: 0.16977000000000003
+Question: What was the Operating Margin of "Mercia Asset Management PLC" in June 30, 2021?
+['ac9aa244462c80705c3ff046542c02c459989742.pdf']
+[Message(id='msg_qlWmzSYJYyfm2uubSpT13QCI', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='229354'), type='text')], created_at=1725312257, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_khZswuqFHsCOlc6KwSXPfkWS', status=None, thread_id='thread_LUh5NE8ncdzS2jVSOKJ3Zjel')]
+Response:  229354
+Tokens: 17707, cost: 0.088815
+Question: What was the free cash flow of "JOURNEY MEDICAL CORPORATION" in the fiscal year 2023?
+[]
+No relevant files found for question: What was the free cash flow of "JOURNEY MEDICAL CORPORATION" in the fiscal year 2023?. Skipping to the next item.
+Question: How much more did "Laserbond" spend on R&D compared to "PowerFleet, Inc." in June 30, 2021?
+['a8077fe1983a64dc77bddfafbf48242e66111a89.pdf']
+[Message(id='msg_j97VQwZanEXlfRsYxaM58pEO', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='2138399'), type='text')], created_at=1725312269, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_L1Yfd0ix3e2XiEM2kql7Rwuu', status=None, thread_id='thread_B3VHPTH8oVG6WUYHUKNU4Q2t')]
+Response:  2138399
+Tokens: 17441, cost: 0.08760500000000002
+Question: Which company had a higher total assets: "MITSUI O.S.K. LINES", "ENRG ELEMENTS LIMITED" or "First Mid Bancshares, Inc.", in the fiscal year 2021?
+['6054ec55767fbe6585598ced7afacf5cb8619a13.pdf', '43437bccca01aeae222ec7cc706ba3eaf50be2d7.pdf', 'e765cdd472cb47fa74ee6a52700c61aca645bbee.pdf']
+[Message(id='msg_SMp9b8iqmQRlCPbaIgvqrFFA', assistant_id='asst_xnpwpIomJUSA7fehlRT7uwwv', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='MITSUI O.S.K. LINES'), type='text')], created_at=1725312285, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_9QnSIdxdWfu2XsrNfdNYNTSn', status=None, thread_id='thread_Q3CTuRDAyvlguRgWgwenymsH')]
+Response:  MITSUI O.S.K. LINES
+Tokens: 17712, cost: 0.08929000000000001
+{'total_tokens': 915909, 'total_cost': 4.5991349999999995}
+All together, tokens: 929027, cost: $4.666295
+
+
+################RUN_3_TEST_SET#############################
+Cost of extracting company names: {'total_tokens': 13116, 'total_cost': 0.06713}
+['a706b44ba275c97b8633b0808cd2f90cbb7fe473.pdf']
+Question: What was the Net Profit Margin of "Oesterreichische Kontrollbank" in June 30, 2023?
+[Message(id='msg_F09itH8smEpTrv7C6LPBWKjt', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725310457, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_ntHCTaSeSWmd4nat7xR2IW2u', status=None, thread_id='thread_8vb8Ws6DZChjj48XG7Ym9wF9')]
+Response:  None
+Tokens: 16867, cost: 0.08463500000000002
+['e2b19d2cc2ccab2fd9022326b56b38fb0e772e73.pdf']
+Question: What was the total liabilities of "CrossFirst Bank" in the fiscal year 2023?
+[Message(id='msg_mEfJ3RfRQPLdOezUGdxgN5Vc', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='5992487'), type='text')], created_at=1725310470, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_4tRicSMKGQ3gjupYB2eGbwMY', status=None, thread_id='thread_ktPAUvfec6iAuMnIPUsYxyjo')]
+Response:  5992487
+Tokens: 17382, cost: 0.08717000000000001
+[]
+No relevant files found for question: How much more did "Astral Resources NL" spend on marketing compared to "TSX_Y" in June 30, 2021?. Skipping to the next item.
+['a8077fe1983a64dc77bddfafbf48242e66111a89.pdf']
+Question: Which company had a higher free cash flow: "TSX_ACQ", "QUIDELORTHO CORPORATION" or "PowerFleet, Inc.", in the fiscal year 2022?
+[Message(id='msg_O3f8ZisZZuHlDohnS9Tv1QLJ', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='PowerFleet, Inc.'), type='text')], created_at=1725310496, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_UpnPXlpwEbPH1o0DfbBXYOie', status=None, thread_id='thread_sQjyP4emQSDJ0BaD5pEAbmuU')]
+Response:  PowerFleet, Inc.
+Tokens: 67432, cost: 0.33881000000000006
+['194000c9109c6fa628f1fed33b44ae4c2b8365f4.pdf']
+Question: What was the earnings per share (EPS) of "Holley Inc." in June 30, 2023?
+[Message(id='msg_82BMGaa2lEL4ae2oN0llGxvR', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='-014'), type='text')], created_at=1725310507, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_USu4zBFbA3FaJX467Tc6nlDi', status=None, thread_id='thread_edLw1slG0zV5OIwdn2CxCNcf')]
+Response:  -014
+Tokens: 17595, cost: 0.088275
+[]
+No relevant files found for question: What was the accounts receivable of "Petra Diamonds" in the fiscal year 2023?. Skipping to the next item.
+['e0d6bb578bfc233c3bdbded229960fed01624631.pdf', '84749ef5c2bbf2a302b6614f31727a95bf29f309.pdf']
+Question: How much more did "Creative Media & Community Trust Corporation" spend on sustainability initiatives compared to "BAKER STEEL RESOURCES TRUST LIMITED" in June 30, 2021?
+[Message(id='msg_ysRN9STqNsUQRr4YjsIxBTtN', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725310547, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_kJEAVXWlT64Ph5FCgyWvWsCn', status=None, thread_id='thread_KNqSV1QUUsnMiaKV1yTxUFi2')]
+Response:  None
+Tokens: 17327, cost: 0.087095
+['e0d6bb578bfc233c3bdbded229960fed01624631.pdf', 'e62b2ebe3012cd7e6c57507bc950a46d06b3d06e.pdf', '2779336b845a41544348abb7b3e6e5bd2ff893a2.pdf']
+Question: Which company had a higher total liabilities: "Creative Media & Community Trust Corporation", "Sleep Country Canada Holdings Inc." or "Tradition", in the fiscal year 2023?
+[Message(id='msg_RfYeXaarDrQ53ALEGzt2Fkl1', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Tradition'), type='text')], created_at=1725310564, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_xu5JwFAt4CbkMZpmXF7Is2lW', status=None, thread_id='thread_syYFh5gfFugi6wQfmklTrtJc')]
+Response:  Tradition
+Tokens: 17891, cost: 0.089925
+[]
+No relevant files found for question: What was the Net Profit Margin of "QUIDELORTHO CORPORATION" in June 30, 2023?. Skipping to the next item.
+['f06d7ecc8072de616a4ea35c74e20199de6b0691.pdf']
+Question: What was the acquisition costs of "Safe & Green Holdings Corp." in the fiscal year 2021?
+[Message(id='msg_dTLVj5HaI3KLTY0F9ZNBWYqp', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='4824756'), type='text')], created_at=1725310578, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_ZinGwftAfgvbIdiBCStPeEiW', status=None, thread_id='thread_hr7sb0jsOEKiKUD4DSl4jVso')]
+Response:  4824756
+Tokens: 16917, cost: 0.08488500000000002
+[]
+No relevant files found for question: How much more did "Astral Resources NL" spend on marketing compared to "TSX_ACQ" in June 30, 2023?. Skipping to the next item.
+['6054ec55767fbe6585598ced7afacf5cb8619a13.pdf', '2779336b845a41544348abb7b3e6e5bd2ff893a2.pdf']
+Question: Which company had a higher shareholders' equity: "MITSUI O.S.K. LINES", "TSX_Y" or "Tradition", in the fiscal year 2022?
+[Message(id='msg_wlwfu5Ya5czNZH0DL9A6yABV', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[FileCitationAnnotation(end_index=32, file_citation=FileCitation(file_id='file-pckPusOL9ebKxhCO6BcpyQBG'), start_index=19, text='【4:11†source】', type='file_citation')], value='MITSUI O.S.K. LINES【4:11†source】'), type='text')], created_at=1725310597, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_xNjlfg9sqaDXOdJ8uhhvlnIh', status=None, thread_id='thread_1pzPc2hCwnjpd9WPgUJvKiaK')]
+Response:  MITSUI O.S.K. LINES【4:11†source】
+Tokens: 17868, cost: 0.09001
+[]
+No relevant files found for question: What was the Gross Profit Margin of "JOURNEY MEDICAL CORPORATION" in June 30, 2022?. Skipping to the next item.
+[]
+No relevant files found for question: What was the operating cash flow of "JOURNEY MEDICAL CORPORATION" in the fiscal year 2023?. Skipping to the next item.
+['ba5852cb6c20da35da2ce6ebaafc711d06fe8c1e.pdf']
+Question: How much more did "Astral Resources NL" spend on risk management compared to "Caixa Geral de Depósitos, S.A." in June 30, 2023?
+[Message(id='msg_mnwbc5bCAV2r4DX4sOuA9OiT', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725310622, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_QEissgnLivmH9sBv7uco8cwm', status=None, thread_id='thread_LAedmpJxhPSxu9qvlJGkJB5s')]
+Response:  None
+Tokens: 34037, cost: 0.171075
+['a8077fe1983a64dc77bddfafbf48242e66111a89.pdf', 'a706b44ba275c97b8633b0808cd2f90cbb7fe473.pdf']
+Question: Which company had a higher acquisition costs: "PowerFleet, Inc.", "Oesterreichische Kontrollbank" or "Astral Resources NL", in the fiscal year 2023?
+[Message(id='msg_MAs35sZ5NPZAlBkVXBZI2dWW', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='PowerFleet, Inc.'), type='text')], created_at=1725310639, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_97VfvnWsCDIVsmRixvZhC5nu', status=None, thread_id='thread_d2G3iMVr256fEgJwl0BKMi7r')]
+Response:  PowerFleet, Inc.
+Tokens: 34187, cost: 0.17173500000000003
+[]
+No relevant files found for question: What was the Quick Ratio of "IMUNON, INC." in June 30, 2021?. Skipping to the next item.
+[]
+No relevant files found for question: What was the net income of "Petra Diamonds" in the fiscal year 2022?. Skipping to the next item.
+['e33544bdea57faa0ad10ba2e93bf052482f33325.pdf']
+Question: How much more did "Sensata" spend on customer acquisition compared to "Laserbond" in June 30, 2022?
+[Message(id='msg_1jQk05iT27zfxoVDBXQXfE9H', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725310663, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_vIlR5kZYI3fHXkeXtGUd1PlH', status=None, thread_id='thread_hNIDbMuUejzhVXhD6nf33xyH')]
+Response:  None
+Tokens: 67634, cost: 0.34012000000000003
+['e33544bdea57faa0ad10ba2e93bf052482f33325.pdf', '85fb23ba2910de45e27f8f40170c0f3576043916.pdf', 'e765cdd472cb47fa74ee6a52700c61aca645bbee.pdf']
+Question: Which company had a higher free cash flow: "Sensata", "TransUnion" or "First Mid Bancshares, Inc.", in the fiscal year 2021?
+[Message(id='msg_U0qff7elttxSEFAvqNgn0wYM', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[FileCitationAnnotation(end_index=22, file_citation=FileCitation(file_id='file-bWVxdWkz0mJKheQyL1LmCDrb'), start_index=10, text='【4:0†source】', type='file_citation')], value='TransUnion【4:0†source】\n\nSensata \n\nFirst Mid Bancshares, Inc. \n\nTransUnion had the highest free cash flow in fiscal year 2021.'), type='text')], created_at=1725310679, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_LGl4Q0PqOv5itjKtbcUiV0Dp', status=None, thread_id='thread_B8bRVD0Ea5oM0CTWre0lVYRU')]
+Response:  TransUnion【4:0†source】
+
+Sensata 
+
+First Mid Bancshares, Inc. 
+
+TransUnion had the highest free cash flow in fiscal year 2021.
+Tokens: 17779, cost: 0.089825
+['194000c9109c6fa628f1fed33b44ae4c2b8365f4.pdf']
+Question: What was the market capitalization of "Holley Inc." in June 30, 2023?
+[Message(id='msg_EFairllIpo4bBmnGF1vdRCQF', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725310698, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_5FmiQ5ckZ2TaDW1oAKG4Zd5B', status=None, thread_id='thread_G7n8cjvDw3xkH76tgoz0gHhv')]
+Response:  None
+Tokens: 35060, cost: 0.17575000000000002
+['85fb23ba2910de45e27f8f40170c0f3576043916.pdf']
+Question: What was the total assets of "TransUnion" in the fiscal year 2023?
+[Message(id='msg_mJEDN1Q50c94BDQTx24wqznk', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='11666300000'), type='text')], created_at=1725310710, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_3dUcRb2J6FUJUbyzJsaZYsho', status=None, thread_id='thread_0L7YJkcntiDWRB2pts8AAbQG')]
+Response:  11666300000
+Tokens: 17304, cost: 0.08678000000000001
+['84749ef5c2bbf2a302b6614f31727a95bf29f309.pdf', 'e62b2ebe3012cd7e6c57507bc950a46d06b3d06e.pdf']
+Question: How much more did "BAKER STEEL RESOURCES TRUST LIMITED" spend on customer acquisition compared to "Sleep Country Canada Holdings Inc." in June 30, 2021?
+[Message(id='msg_jBzUqzKfO7mbJVifLd2qtNBW', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725310727, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_Ha4KgIVyvAT0cehNDWrIi6kc', status=None, thread_id='thread_YJFmxCIRtJYrpmviSD7L3eTb')]
+Response:  None
+Tokens: 17888, cost: 0.08990000000000001
+['6054ec55767fbe6585598ced7afacf5cb8619a13.pdf', '194000c9109c6fa628f1fed33b44ae4c2b8365f4.pdf', 'e765cdd472cb47fa74ee6a52700c61aca645bbee.pdf']
+Question: Which company had a higher research and development expenses: "MITSUI O.S.K. LINES", "Holley Inc." or "First Mid Bancshares, Inc.", in the fiscal year 2021?
+[Message(id='msg_1b1IaYFQ8Eq9t0LIIOlKOZhk', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Holley Inc.'), type='text')], created_at=1725310741, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_0RzI31ZcBRAn2R3dj7R3Gkp0', status=None, thread_id='thread_nWVAA1LdJ6TcOndBcJUyCCzR')]
+Response:  Holley Inc.
+Tokens: 16732, cost: 0.08428000000000001
+['e62b2ebe3012cd7e6c57507bc950a46d06b3d06e.pdf']
+Question: What was the Operating Margin of "Sleep Country Canada Holdings Inc." in June 30, 2022?
+[Message(id='msg_gRe5E29ih25nOVCJBrv4zGUA', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='218'), type='text')], created_at=1725310759, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_FiuFjmAcAwm7bvjeXqzArEj0', status=None, thread_id='thread_46nxKULIWd3whO4aaPKqicsm')]
+Response:  218
+Tokens: 17511, cost: 0.087845
+['85fb23ba2910de45e27f8f40170c0f3576043916.pdf']
+Question: What was the intangible assets of "TransUnion" in the fiscal year 2021?
+[Message(id='msg_7Jb1H2bYVBvtNLLPGCXbwcrA', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='3675500000'), type='text')], created_at=1725310770, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_bXmpNpgAlfeirECUskfnLmqT', status=None, thread_id='thread_Ri5Cc0XoSWK6wpnetOagNqxB')]
+Response:  3675500000
+Tokens: 17571, cost: 0.08811500000000001
+['a8077fe1983a64dc77bddfafbf48242e66111a89.pdf']
+Question: How much more did "PowerFleet, Inc." spend on R&D compared to "JOURNEY MEDICAL CORPORATION" in June 30, 2022?
+[Message(id='msg_8lSYTuNtFt9KC46237Y4o6xn', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='16330000'), type='text')], created_at=1725310800, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_a70H8rHzuPcn1pj5BZjA3f48', status=None, thread_id='thread_YefscwgCemuKzkYXUhqzBBYO')]
+Response:  16330000
+Tokens: 50704, cost: 0.25469
+['ac9aa244462c80705c3ff046542c02c459989742.pdf', '2779336b845a41544348abb7b3e6e5bd2ff893a2.pdf']
+Question: Which company had a higher inventories: "TSX_Y", "Mercia Asset Management PLC" or "Tradition", in the fiscal year 2022?
+[Message(id='msg_OfTLpsbYQ9EBKOzbRf23BzOJ', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='Tradition'), type='text')], created_at=1725310816, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_1dFVvwhgr6hKdesNKELLA1Rp', status=None, thread_id='thread_y2WHVTCWIJjRkSJmL5jozILs')]
+Response:  Tradition
+Tokens: 35169, cost: 0.17655500000000002
+['f06d7ecc8072de616a4ea35c74e20199de6b0691.pdf']
+Question: What was the Gross Profit Margin of "Safe & Green Holdings Corp." in June 30, 2022?
+[Message(id='msg_PYtlK4A1Y28gOHc4r9dCoNfw', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='1316'), type='text')], created_at=1725310826, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_gqz8JpNyb27FU7J7FtvImmKP', status=None, thread_id='thread_53ofYdVqKlsfD8lKyJUMmBFG')]
+Response:  1316
+Tokens: 17298, cost: 0.08681
+['ac9aa244462c80705c3ff046542c02c459989742.pdf']
+Question: What was the total revenue of "Mercia Asset Management PLC" in the fiscal year 2021?
+[Message(id='msg_KGJ2rVt0FS2XrjkBu0OosRGf', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='23410'), type='text')], created_at=1725310842, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_Yh3uTEZIqphbEhQEdLq9LSpP', status=None, thread_id='thread_CG4Roz2hZWFk2ycDtGSGQWde')]
+Response:  23410
+Tokens: 17765, cost: 0.08909500000000001
+['e765cdd472cb47fa74ee6a52700c61aca645bbee.pdf']
+Question: How much more did "First Mid Bancshares, Inc." spend on risk management compared to "QUIDELORTHO CORPORATION" in June 30, 2022?
+[Message(id='msg_lfswjNMuMGGTe1805kwgnkUt', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725310861, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_Ib0kBqN39jWOFh7YquEPBm8Q', status=None, thread_id='thread_2Lwvh62oVTzHUNkcYK9FB3D2')]
+Response:  None
+Tokens: 67227, cost: 0.33729500000000007
+['e2b19d2cc2ccab2fd9022326b56b38fb0e772e73.pdf', 'e765cdd472cb47fa74ee6a52700c61aca645bbee.pdf']
+Question: Which company had a higher total liabilities: "DouYu International Holdings Limited", "CrossFirst Bank" or "First Mid Bancshares, Inc.", in the fiscal year 2023?
+[Message(id='msg_PVgM17gYkeYFfAfh4mMqehKN', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='First Mid Bancshares, Inc.'), type='text')], created_at=1725310874, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_Cepmf7rr6bzzfYkuMLXOtC4B', status=None, thread_id='thread_Hqhf4C53nt23gwYZywj3M96B')]
+Response:  First Mid Bancshares, Inc.
+Tokens: 17334, cost: 0.08721000000000001
+['43437bccca01aeae222ec7cc706ba3eaf50be2d7.pdf']
+Question: What was the Return on Assets (ROA) of "ENRG ELEMENTS LIMITED" in June 30, 2022?
+[Message(id='msg_cgizx5ubpXBBx9hkK6gAFvQj', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725310885, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_VggDYKiB2PFOCSDK5K6hKQOL', status=None, thread_id='thread_sRwDvYgTeRpFWGMDyFhxAAMT')]
+Response:  None
+Tokens: 17338, cost: 0.08699000000000001
+['a706b44ba275c97b8633b0808cd2f90cbb7fe473.pdf']
+Question: What was the free cash flow of "Oesterreichische Kontrollbank" in the fiscal year 2023?
+[Message(id='msg_upbslBr1LcE7siS70Xxc2j0K', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='305885'), type='text')], created_at=1725310899, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_I94GKGBnKRKboalfNSIv0INg', status=None, thread_id='thread_N8Lq1FE7jOdmCsiIT8m7jCGD')]
+Response:  305885
+Tokens: 17295, cost: 0.08676500000000001
+['e33544bdea57faa0ad10ba2e93bf052482f33325.pdf', '194000c9109c6fa628f1fed33b44ae4c2b8365f4.pdf']
+Question: How much more did "Sensata" spend on risk management compared to "Holley Inc." in June 30, 2022?
+[Message(id='msg_glDcceL7ZiuOROZVZIF5d4vA', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='209284'), type='text')], created_at=1725310913, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_TLj0bWpca0ftJMfPWCyKmvNI', status=None, thread_id='thread_TxQBTFbRDkZa6TFUZebrztaS')]
+Response:  209284
+Tokens: 17649, cost: 0.088635
+['84749ef5c2bbf2a302b6614f31727a95bf29f309.pdf', 'f06d7ecc8072de616a4ea35c74e20199de6b0691.pdf', 'a8077fe1983a64dc77bddfafbf48242e66111a89.pdf']
+Question: Which company had a higher free cash flow: "BAKER STEEL RESOURCES TRUST LIMITED", "Safe & Green Holdings Corp." or "PowerFleet, Inc.", in the fiscal year 2021?
+[Message(id='msg_jiYiCDEswaxNvgNXo3sOOHpq', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[FileCitationAnnotation(end_index=115, file_citation=FileCitation(file_id='file-4J8AcPKVSdFTLsmNlVjFhPj0'), start_index=103, text='【6:1†source】', type='file_citation'), FileCitationAnnotation(end_index=249, file_citation=FileCitation(file_id='file-4J8AcPKVSdFTLsmNlVjFhPj0'), start_index=237, text='【6:7†source】', type='file_citation')], value='PowerFleet, Inc. generated $757,000 in free cash flow from operating activities in the fiscal year 2021【6:1†source】.\n\nSafe & Green Holdings Corp. generated \\$(5,630,614) in free cash flow from operating activities in the fiscal year 2021【6:7†source】.\n\nNo data was found referencing the free cash flow for Baker Steel Resources Trust Limited for the fiscal year 2021.\n\nThus, the company with the highest free cash flow in the fiscal year 2021 is PowerFleet, Inc.'), type='text')], created_at=1725310928, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_GI4sDE0B5p7wXi82R7oE8vnk', status=None, thread_id='thread_UUzmlHCJ9Ivgmer8v7tUz88P')]
+Response:  PowerFleet, Inc. generated $757,000 in free cash flow from operating activities in the fiscal year 2021【6:1†source】.
+
+Safe & Green Holdings Corp. generated \$(5,630,614) in free cash flow from operating activities in the fiscal year 2021【6:7†source】.
+
+No data was found referencing the free cash flow for Baker Steel Resources Trust Limited for the fiscal year 2021.
+
+Thus, the company with the highest free cash flow in the fiscal year 2021 is PowerFleet, Inc.
+Tokens: 33457, cost: 0.16932500000000003
+['ac9aa244462c80705c3ff046542c02c459989742.pdf']
+Question: What was the Operating Margin of "Mercia Asset Management PLC" in June 30, 2021?
+[Message(id='msg_zwrwSJJM2dfGJRU9wM6rRwK5', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='2297'), type='text')], created_at=1725310951, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_E9PFP0xObs4IV0yoFmGhVg3K', status=None, thread_id='thread_HqfrOW6jnFcWUtn8lQLfnGeo')]
+Response:  2297
+Tokens: 17783, cost: 0.08919500000000001
+[]
+No relevant files found for question: What was the free cash flow of "JOURNEY MEDICAL CORPORATION" in the fiscal year 2023?. Skipping to the next item.
+['a8077fe1983a64dc77bddfafbf48242e66111a89.pdf']
+Question: How much more did "Laserbond" spend on R&D compared to "PowerFleet, Inc." in June 30, 2021?
+[Message(id='msg_VidC5AZSptBcEwWv55sa2X6E', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='20900000'), type='text')], created_at=1725310989, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_LHAxyLgtpvqXrTqUWn9yhodl', status=None, thread_id='thread_L0m4K4uOq2NpoD65xrWyJ27y')]
+Response:  20900000
+Tokens: 117882, cost: 0.591
+['6054ec55767fbe6585598ced7afacf5cb8619a13.pdf', '43437bccca01aeae222ec7cc706ba3eaf50be2d7.pdf', 'e765cdd472cb47fa74ee6a52700c61aca645bbee.pdf']
+Question: Which company had a higher total assets: "MITSUI O.S.K. LINES", "ENRG ELEMENTS LIMITED" or "First Mid Bancshares, Inc.", in the fiscal year 2021?
+[Message(id='msg_aH1Lx1ZyjrDhCXZfjAKbti2o', assistant_id='asst_4nZaNiwW7NqwDG6uVvxuJ079', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='First Mid Bancshares, Inc.'), type='text')], created_at=1725311003, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_G2YVQGA4nSFV5SXDJorqXHi7', status=None, thread_id='thread_Dcrf38OeotL5Gllpd8x4sSrF')]
+Response:  First Mid Bancshares, Inc.
+Tokens: 17791, cost: 0.08955500000000001
+{'total_tokens': 909674, 'total_cost': 4.569350000000002}
+All together, tokens: 922790, cost: $4.6364800000000015
+
+
+################RUN_2_SAMPLES#############################
 Cost of extracting company names: {'total_tokens': 14532, 'total_cost': 0.07404999999999999}
 ['dd78f748262b8ffa62de6484143ff55b38af24c7.pdf']
 [Message(id='msg_dLUc7ITEFbS55BW8qW5Ceeos', assistant_id='asst_pJ4Prih4OrwKAzSRujO3a0gM', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725285511, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_MCdxHS1AckzuEJMxKnY4usEF', status=None, thread_id='thread_I4TV8xj2y9YAFMoEog3SZgm3')]
@@ -142,7 +522,9 @@ Tokens: 84884, cost: 0.42628000000000005
 No relevant files found for question: How many stores did "EMT" have in the end of fiscal year 2022?. Skipping to the next item.
 {'total_tokens': 1073528, 'total_cost': 5.38887}
 All together, tokens: 1088060, cost: $5.4629199999999996
-################RUN_1#############################
+
+
+################RUN_1_SAMPLES#############################
 Cost of extracting company names: {'total_tokens': 14533, 'total_cost': 0.074065}
 ['dd78f748262b8ffa62de6484143ff55b38af24c7.pdf']
 [Message(id='msg_hVVgtd1ZstJtzUpJMz05USZj', assistant_id='asst_yJJLy7GsZCshcm15j1pRLZFI', attachments=[], completed_at=None, content=[TextContentBlock(text=Text(annotations=[], value='None'), type='text')], created_at=1725283949, incomplete_at=None, incomplete_details=None, metadata={}, object='thread.message', role='assistant', run_id='run_64PDTVuwoUbtcwMVwD3Ti0cb', status=None, thread_id='thread_Fby5arMBjzceAyoaWP0Axolg')]

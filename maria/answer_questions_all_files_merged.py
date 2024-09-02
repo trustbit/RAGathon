@@ -100,6 +100,7 @@ with open(os.path.join(SAMPLE_DATA_PATH, "questions.json")) as f:
         'total_cost': 0
     }
     for item in json_data:
+        print(f"Question: {item['question']}")
         question = f"{item['question']} Type of the response must be: {item['schema']} or 'n/a'. "
         response, tokens, cost = ask_question(thread_id, assistant_id, question)
         

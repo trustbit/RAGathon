@@ -67,6 +67,7 @@ assistant = client.beta.assistants.create(
 assistant_id = assistant.id
 
 pdf_names, names_cost = find_all_names(client, SAMPLE_DATA_PATH)
+print(f"Company names: {pdf_names}")
 print(f"Cost of extracting company names: {names_cost}")
 
 with open(os.path.join(SAMPLE_DATA_PATH, "questions.json")) as f:
@@ -77,6 +78,8 @@ with open(os.path.join(SAMPLE_DATA_PATH, "questions.json")) as f:
     }
     
     for item in json_data:
+        print(f"Question: {item['question']}")
+        
         relevant_files = find_matching_files(item['question'], pdf_names)
         print(relevant_files)
         
@@ -84,8 +87,6 @@ with open(os.path.join(SAMPLE_DATA_PATH, "questions.json")) as f:
             print(f"No relevant files found for question: {item['question']}. Skipping to the next item.")
             item['answer'] = "n/a"
             continue
-        
-        print(f"Question: {item['question']}")
         
         file_ids = []
         for file_name in relevant_files:

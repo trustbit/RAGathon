@@ -1,6 +1,6 @@
 secrets.json
 data
-dbs
+dbs-1000chars
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

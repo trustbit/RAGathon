@@ -117,7 +117,7 @@
     {
         "question": "How many stores did \"EMT\" have in the end of fiscal year 2023?",
         "schema": "number",
-        "answer": 0.0
+        "answer": null
     },
     {
         "question": "How much did \"Ethernity Networks Ltd\" spend on customer acquisition in Q2 2023?",
@@ -197,6 +197,6 @@
     {
         "question": "How many stores did \"EMT\" have in the end of fiscal year 2022?",
         "schema": "number",
-        "answer": 0.0
+        "answer": null
     }
 ]

@@ -22,9 +22,14 @@ def majorities(items):
 
 
 def majority_vote(items):
-    result = majorities(items)
-    # If there's a tie, return a random item from those that are tied.
-    return random.choice(result)
+    not_none_items = [item for item in items if item is not None]
+    # Only return None if all items are None.
+    if len(not_none_items) == 0:
+        return None
+    else:
+        result = majorities(items)
+        # If there's a tie, return a random item from those that are tied.
+        return random.choice(result)
 
 load_dotenv()
 
@@ -41,10 +46,12 @@ with open('questions.json', 'r') as json_file:
         question = item["question"]
         print(f"Processing question: {question}")
 
-        answers = [ answer_question(question, item["schema"]) for answer_question in answer_functions]
-        answer = majority_vote(answers)
+        answers = [ answer_question(question, item["schema"]) for answer_question in answer_functions ]
+        print(f"All answers: {answers}")
 
-        print(f"Answer: {answer}")
+        answer = majority_vote(answers)
+        print(f"Chosen answer: {answer}")
+        print()
 
         results.append({
             "question": question,

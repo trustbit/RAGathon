@@ -1,0 +1,413 @@
+{
+    "company_name": "Caixa Geral de Dep\u00f3sitos, S.A.",
+    "data_points": [
+        {
+            "metric_type": "gross profit margin",
+            "value": 44.5,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 36.8,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 38.2,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 93020.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 102503.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 842.8,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 2304.4,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 174.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "acquisition costs",
+            "value": 2458.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "accounts_receivable",
+            "value": 134.6,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 9483.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 1347.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 5812.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 1.1,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 32.3,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 40.2,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 583.4,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 9287.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 1741.5,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 94723.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 104010.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 958.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 0.76,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 5260.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 120.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "acquisition costs",
+            "value": 2257.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 2327576.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 1684251.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 92899293.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 102344993.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 91367996.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 104010147.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 842786.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 583361.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 5032521.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 32.12,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 853728.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 764590.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 198382.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 146958.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "acquisition costs",
+            "value": 141210.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "acquisition costs",
+            "value": 138472.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "marketing spending",
+            "value": 87958.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "marketing spending",
+            "value": 86234.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 42.45,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 43.77,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 7781245.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 7654890.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 267494.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 252312.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 925434.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 1247046.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "accounts_receivable",
+            "value": 169790.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "accounts_receivable",
+            "value": 173910.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 8.1,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 1609180.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 5049000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 18043000.0,
+            "currency": "EUR",
+            "point_in_time": "2023-01-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 1633000.0,
+            "currency": "EUR",
+            "point_in_time": "2023-01-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 90211000.0,
+            "currency": "EUR",
+            "point_in_time": "2023-01-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 1049000.0,
+            "currency": "EUR",
+            "point_in_time": "2023-01-31"
+        },
+        {
+            "metric_type": "accounts_receivable",
+            "value": 2018310.0,
+            "currency": "EUR",
+            "point_in_time": "2023-01-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 31.1,
+            "currency": "OTHER",
+            "point_in_time": "2023-01-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 382092.0,
+            "currency": "EUR",
+            "point_in_time": "2023-01-31"
+        },
+        {
+            "metric_type": "customer acquisition spending",
+            "value": 500.0,
+            "currency": "EUR",
+            "point_in_time": "2022-06-01"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 9482.661,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 842.786,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 77572.34,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "company_name": "Oesterreichische Kontrollbank",
+    "data_points": [
+        {
+            "metric_type": "free cash flow",
+            "value": 305.9,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 92.6,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 33370.686,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 33574.5,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 26140.8,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 58.229,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 65.491,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 60.148,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 65.717,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 133.57,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": -1197.9,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 100.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 90.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 90.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 26795.6,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 25467.3,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 24695.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 80.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 80.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 90.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 2698.5,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        }
+    ]
+}

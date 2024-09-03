@@ -1,0 +1,101 @@
+{
+    "company_name": "Mercia Asset Management PLC",
+    "data_points": [
+        {
+            "metric_type": "net income",
+            "value": 26100.0,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 23183.0,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 14212.0,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 214801.0,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 200589.0,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 5.93,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 12.16,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 112.68,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 9150.0,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 633674745.97,
+            "currency": "GBP",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "accounts_receivable",
+            "value": 662.0,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "customer acquisition spending",
+            "value": 4150.0,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 98.91,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 6.6,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 2769.0,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 15703.0,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        }
+    ]
+}

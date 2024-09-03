@@ -1,0 +1,245 @@
+{
+    "company_name": "MITSUI O.S.K. LINES",
+    "data_points": [
+        {
+            "metric_type": "total revenue",
+            "value": 1269310.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 708819.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 55.8,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 30.2,
+            "currency": null,
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 6.4,
+            "currency": null,
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 2.6,
+            "currency": null,
+            "point_in_time": "2020-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 1.8,
+            "currency": null,
+            "point_in_time": "2019-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 1.4,
+            "currency": null,
+            "point_in_time": "2018-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 1.1,
+            "currency": null,
+            "point_in_time": "2017-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 1.5,
+            "currency": null,
+            "point_in_time": "2016-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 2.1,
+            "currency": null,
+            "point_in_time": "2015-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 2.4,
+            "currency": null,
+            "point_in_time": "2014-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": -1.4,
+            "currency": null,
+            "point_in_time": "2013-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": -1.3,
+            "currency": null,
+            "point_in_time": "2012-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 2686701.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 2095559.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 2098717.0,
+            "currency": "OTHER",
+            "point_in_time": "2020-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 2134477.0,
+            "currency": "OTHER",
+            "point_in_time": "2019-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 2225096.0,
+            "currency": "OTHER",
+            "point_in_time": "2018-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 2217528.0,
+            "currency": "OTHER",
+            "point_in_time": "2017-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 2219587.0,
+            "currency": "OTHER",
+            "point_in_time": "2016-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 2624049.0,
+            "currency": "OTHER",
+            "point_in_time": "2015-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 2364695.0,
+            "currency": "OTHER",
+            "point_in_time": "2014-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 2164611.0,
+            "currency": "OTHER",
+            "point_in_time": "2013-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 1946161.0,
+            "currency": "OTHER",
+            "point_in_time": "2012-03-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 1336028.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 730310.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 991426.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 90052.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 7.3,
+            "currency": null,
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 6.4,
+            "currency": null,
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 2.6,
+            "currency": null,
+            "point_in_time": "2020-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 1.8,
+            "currency": null,
+            "point_in_time": "2019-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 1.4,
+            "currency": null,
+            "point_in_time": "2018-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 1.1,
+            "currency": null,
+            "point_in_time": "2017-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 1.5,
+            "currency": null,
+            "point_in_time": "2016-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 2.1,
+            "currency": null,
+            "point_in_time": "2015-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 2.4,
+            "currency": null,
+            "point_in_time": "2014-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": -1.4,
+            "currency": null,
+            "point_in_time": "2013-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": -1.3,
+            "currency": null,
+            "point_in_time": "2012-03-31"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "company_name": "BAKER STEEL RESOURCES TRUST LIMITED",
+    "data_points": [
+        {
+            "metric_type": "market capitalization",
+            "value": 84.5,
+            "currency": "GBP",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": -20.316,
+            "currency": "GBP",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 84.641911,
+            "currency": "GBP",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 0.159063,
+            "currency": "GBP",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 0.558963,
+            "currency": "GBP",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": -19.08,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 84.482848,
+            "currency": "GBP",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": -1.158,
+            "currency": "GBP",
+            "point_in_time": "2022-12-31"
+        }
+    ]
+}

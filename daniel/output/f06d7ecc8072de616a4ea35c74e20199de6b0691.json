@@ -1,0 +1,53 @@
+{
+    "company_name": "Safe & Green Holdings Corp.",
+    "data_points": [
+        {
+            "metric_type": "market capitalization",
+            "value": 19987535.0,
+            "currency": "USD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 24393946.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 38341702.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": -8329048.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": -10832674.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 3254152.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": -5630614.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": -662759.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        }
+    ]
+}

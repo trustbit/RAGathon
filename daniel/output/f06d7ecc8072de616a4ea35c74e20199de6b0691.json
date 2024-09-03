@@ -8,10 +8,40 @@
             "point_in_time": "2022-06-30"
         },
         {
+            "metric_type": "total liabilities",
+            "value": 1231118.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
             "metric_type": "total revenue",
             "value": 24393946.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": -7089242.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": -0.2907,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 0.13,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 732686.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
         },
         {
             "metric_type": "total revenue",
@@ -21,32 +51,20 @@
         },
         {
             "metric_type": "net income",
-            "value": -8329048.0,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "net income",
-            "value": -10832674.0,
+            "value": -5908372.0,
             "currency": "USD",
             "point_in_time": "2021-12-31"
         },
         {
+            "metric_type": "net profit margin",
+            "value": -0.15,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
             "metric_type": "gross profit margin",
-            "value": 3254152.0,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "operating cash flow",
-            "value": -5630614.0,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "operating cash flow",
-            "value": -662759.0,
-            "currency": "USD",
+            "value": 0.06,
+            "currency": null,
             "point_in_time": "2021-12-31"
         }
     ]

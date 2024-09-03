@@ -7,7 +7,7 @@
     {
         "question": "What was the total liabilities of \"CrossFirst Bank\" in the fiscal year 2023?",
         "schema": "number",
-        "answer": 5992.0
+        "answer": "n/a"
     },
     {
         "question": "How much more did \"Astral Resources NL\" spend on marketing compared to \"TSX_Y\" in June 30, 2021?",
@@ -87,7 +87,7 @@
     {
         "question": "What was the net income of \"Petra Diamonds\" in the fiscal year 2022?",
         "schema": "number",
-        "answer": 88.1
+        "answer": 100000000.0
     },
     {
         "question": "How much more did \"Sensata\" spend on customer acquisition compared to \"Laserbond\" in June 30, 2022?",
@@ -97,17 +97,17 @@
     {
         "question": "Which company had a higher free cash flow: \"Sensata\", \"TransUnion\" or \"First Mid Bancshares, Inc.\", in the fiscal year 2021?",
         "schema": "name",
-        "answer": "n/a"
+        "answer": "Sensata"
     },
     {
         "question": "What was the market capitalization of \"Holley Inc.\" in June 30, 2023?",
         "schema": "number",
-        "answer": 560.0
+        "answer": 560000000.0
     },
     {
         "question": "What was the total assets of \"TransUnion\" in the fiscal year 2023?",
         "schema": "number",
-        "answer": 11666.3
+        "answer": "n/a"
     },
     {
         "question": "How much more did \"BAKER STEEL RESOURCES TRUST LIMITED\" spend on customer acquisition compared to \"Sleep Country Canada Holdings Inc.\" in June 30, 2021?",
@@ -147,7 +147,7 @@
     {
         "question": "What was the total revenue of \"Mercia Asset Management PLC\" in the fiscal year 2021?",
         "schema": "number",
-        "answer": "n/a"
+        "answer": 23410000.0
     },
     {
         "question": "How much more did \"First Mid Bancshares, Inc.\" spend on risk management compared to \"QUIDELORTHO CORPORATION\" in June 30, 2022?",
@@ -162,7 +162,7 @@
     {
         "question": "What was the Return on Assets (ROA) of \"ENRG ELEMENTS LIMITED\" in June 30, 2022?",
         "schema": "number",
-        "answer": "n/a"
+        "answer": 7.9
     },
     {
         "question": "What was the free cash flow of \"Oesterreichische Kontrollbank\" in the fiscal year 2023?",

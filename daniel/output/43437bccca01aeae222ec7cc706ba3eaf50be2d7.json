@@ -8,129 +8,69 @@
             "point_in_time": "2022-06-30"
         },
         {
-            "metric_type": "net income",
-            "value": -1243075.0,
-            "currency": null,
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "total assets",
-            "value": 5118490.0,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "total assets",
-            "value": 698029.0,
-            "currency": null,
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "shareholders' equity",
-            "value": 4265508.0,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "shareholders' equity",
-            "value": 511039.0,
-            "currency": null,
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 216.0,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 27508.0,
-            "currency": null,
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "accounts_receivable",
-            "value": 292322.0,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "accounts_receivable",
-            "value": 61229.0,
-            "currency": null,
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "accounts_receivable",
-            "value": 447000.0,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 396281.0,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 115458.0,
-            "currency": null,
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 156600.0,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
             "metric_type": "marketing spending",
-            "value": 15482.0,
-            "currency": "USD",
+            "value": 50000.0,
+            "currency": "AUD",
             "point_in_time": "2022-06-30"
         },
         {
             "metric_type": "shareholders' equity",
             "value": 4722209.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": -57.92,
             "currency": null,
             "point_in_time": "2022-06-30"
         },
         {
-            "metric_type": "shareholders' equity",
-            "value": 582571.0,
+            "metric_type": "gross profit margin",
+            "value": -73.39,
             "currency": null,
-            "point_in_time": "2021-06-30"
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": -2320689.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 396281.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
         },
         {
             "metric_type": "total assets",
-            "value": 7115963.0,
-            "currency": null,
+            "value": 5118490.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 216.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "accounts_receivable",
+            "value": 292322.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 396281.0,
+            "currency": "AUD",
             "point_in_time": "2022-06-30"
         },
         {
             "metric_type": "total assets",
-            "value": 7396590.0,
-            "currency": null,
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 3467390.0,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 1575527.0,
-            "currency": null,
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 9259393.0,
-            "currency": null,
+            "value": 5118490.0,
+            "currency": "AUD",
             "point_in_time": "2022-06-30"
         }
     ]

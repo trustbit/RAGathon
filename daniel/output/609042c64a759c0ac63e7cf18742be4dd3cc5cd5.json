@@ -3,43 +3,7 @@
     "data_points": [
         {
             "metric_type": "market capitalization",
-            "value": 40.2,
-            "currency": "USD",
-            "point_in_time": "2021-07-31"
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 585.2,
-            "currency": "USD",
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "earnings per share (EPS)",
-            "value": 42.93,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "Return on Assets (ROA)",
-            "value": 39.2,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "earnings per share (EPS)",
-            "value": 35.53,
-            "currency": null,
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "net profit margin",
-            "value": 102.0,
-            "currency": "USD",
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "operating cash flow",
-            "value": 230.0,
+            "value": 226600000.0,
             "currency": "USD",
             "point_in_time": "2022-06-30"
         },
@@ -50,92 +14,92 @@
             "point_in_time": "2022-06-30"
         },
         {
+            "metric_type": "total revenue",
+            "value": 585200000.0,
+            "currency": "USD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 230000000.0,
+            "currency": "USD",
+            "point_in_time": "2022-06-30"
+        },
+        {
             "metric_type": "total liabilities",
-            "value": 366.2,
+            "value": 410000000.0,
             "currency": "USD",
             "point_in_time": "2022-06-30"
         },
         {
             "metric_type": "total assets",
-            "value": 608.2,
+            "value": 750000000.0,
             "currency": "USD",
             "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 430.3,
-            "currency": "USD",
-            "point_in_time": "2021-06-30"
         },
         {
             "metric_type": "net income",
-            "value": 102.0,
+            "value": 100000000.0,
             "currency": "USD",
             "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 406.9,
-            "currency": "USD",
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 584.1,
-            "currency": "USD",
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "gross profit margin",
-            "value": 52.0,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "market capitalization",
-            "value": 14.7,
-            "currency": "USD",
-            "point_in_time": "2021-11-19"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 228.2,
-            "currency": "USD",
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "gross profit margin",
-            "value": 44.0,
-            "currency": null,
-            "point_in_time": "2021-06-30"
         },
         {
             "metric_type": "earnings per share (EPS)",
-            "value": 260.7,
+            "value": 42.93,
             "currency": null,
-            "point_in_time": "2021-06-30"
+            "point_in_time": "2022-06-30"
         },
         {
-            "metric_type": "gross profit margin",
-            "value": 32.0,
+            "metric_type": "net profit margin",
+            "value": 17.09,
             "currency": null,
-            "point_in_time": "2021-06-30"
+            "point_in_time": "2022-06-30"
         },
         {
-            "metric_type": "total revenue",
-            "value": 585.2,
+            "metric_type": "inventory",
+            "value": 156000000.0,
+            "currency": "USD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "sustainability initiatives spending",
+            "value": 33.34,
+            "currency": "USD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "sustainability initiatives spending",
+            "value": 6600000.0,
             "currency": "USD",
             "point_in_time": "2022-06-30"
         },
         {
             "metric_type": "gross profit margin",
-            "value": 277.3,
+            "value": 47.4,
+            "currency": null,
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "free cash flow",
+            "value": 230000000.0,
             "currency": "USD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 15.1,
+            "currency": null,
             "point_in_time": "2022-06-30"
         },
         {
             "metric_type": "net income",
-            "value": 88.1,
+            "value": 88100000.0,
+            "currency": "USD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 632400000.0,
             "currency": "USD",
             "point_in_time": "2022-06-30"
         },
@@ -146,52 +110,28 @@
             "point_in_time": "2022-06-30"
         },
         {
-            "metric_type": "total liabilities",
-            "value": 632.4,
-            "currency": "USD",
+            "metric_type": "Return on Assets (ROA)",
+            "value": 7.9,
+            "currency": null,
             "point_in_time": "2022-06-30"
         },
         {
             "metric_type": "total assets",
-            "value": 1110.9,
+            "value": 1110900000.0,
+            "currency": "USD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 585200000.0,
             "currency": "USD",
             "point_in_time": "2022-06-30"
         },
         {
             "metric_type": "operating margin",
-            "value": 199.0,
-            "currency": "USD",
+            "value": 34.0,
+            "currency": null,
             "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 638.3,
-            "currency": "USD",
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "total assets",
-            "value": 1078.6,
-            "currency": "USD",
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 406.9,
-            "currency": "USD",
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "gross profit margin",
-            "value": 137.6,
-            "currency": "USD",
-            "point_in_time": "2021-06-30"
-        },
-        {
-            "metric_type": "net income",
-            "value": 196.6,
-            "currency": "USD",
-            "point_in_time": "2021-06-30"
         }
     ]
 }

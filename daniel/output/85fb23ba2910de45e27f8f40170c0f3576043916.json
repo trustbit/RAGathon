@@ -3,97 +3,79 @@
     "data_points": [
         {
             "metric_type": "market capitalization",
-            "value": 15300.0,
+            "value": 15300000000.0,
             "currency": "USD",
             "point_in_time": "2022-06-30"
         },
         {
             "metric_type": "total revenue",
-            "value": 3709.9,
+            "value": 3709900000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 284700000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 267300000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "total revenue",
-            "value": 2960.2,
+            "value": 2960200000.0,
             "currency": "USD",
             "point_in_time": "2021-12-31"
         },
         {
-            "metric_type": "total revenue",
-            "value": 2530.6,
+            "metric_type": "net income",
+            "value": 1402200000.0,
             "currency": "USD",
-            "point_in_time": "2020-12-31"
+            "point_in_time": "2021-12-31"
         },
         {
             "metric_type": "net income",
-            "value": 284.7,
+            "value": 370500000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 7396900000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "net income",
-            "value": 1402.2,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "net income",
-            "value": 355.6,
-            "currency": "USD",
-            "point_in_time": "2020-12-31"
-        },
-        {
-            "metric_type": "operating margin",
-            "value": 17.0,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "operating margin",
-            "value": 22.0,
-            "currency": null,
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "operating margin",
-            "value": 20.0,
-            "currency": null,
-            "point_in_time": "2020-12-31"
         },
         {
             "metric_type": "total assets",
-            "value": 11666.3,
+            "value": 11666300000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "total liabilities",
-            "value": 7396.9,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "shareholders' equity",
-            "value": 4269.4,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "earnings per share (EPS)",
-            "value": 1.4,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "earnings per share (EPS)",
-            "value": 7.19,
+            "value": 8628800000.0,
             "currency": "USD",
             "point_in_time": "2021-12-31"
         },
         {
-            "metric_type": "earnings per share (EPS)",
-            "value": 1.79,
+            "metric_type": "total assets",
+            "value": 12635000000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 355600000.0,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 2530600000.0,
             "currency": "USD",
             "point_in_time": "2020-12-31"
         }

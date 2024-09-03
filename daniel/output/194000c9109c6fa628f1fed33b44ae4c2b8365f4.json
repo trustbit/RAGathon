@@ -2,136 +2,160 @@
     "company_name": "Holley Inc.",
     "data_points": [
         {
-            "metric_type": "total revenue",
-            "value": 688.415,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 692.847,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 504.179,
-            "currency": "USD",
-            "point_in_time": "2020-12-31"
-        },
-        {
             "metric_type": "market capitalization",
-            "value": 560.0,
+            "value": 560000000.0,
             "currency": "USD",
             "point_in_time": "2022-07-01"
         },
         {
-            "metric_type": "gross profit margin",
-            "value": 36.8,
+            "metric_type": "total revenue",
+            "value": 688415000.0,
             "currency": null,
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "gross profit margin",
-            "value": 41.4,
+            "metric_type": "total revenue",
+            "value": 692847000.0,
             "currency": null,
             "point_in_time": "2021-12-31"
         },
         {
-            "metric_type": "operating margin",
-            "value": 7.4,
+            "metric_type": "total revenue",
+            "value": 504179000.0,
+            "currency": null,
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 73774000.0,
             "currency": null,
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "operating margin",
-            "value": 11.2,
+            "metric_type": "net income",
+            "value": -27139000.0,
             "currency": null,
             "point_in_time": "2021-12-31"
         },
         {
             "metric_type": "net income",
-            "value": 73.774,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "net income",
-            "value": -27.139,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 833.652,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 888.569,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "total assets",
-            "value": 1249.642,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "total assets",
-            "value": 1193.056,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
+            "value": 32857000.0,
+            "currency": null,
+            "point_in_time": "2020-12-31"
         },
         {
             "metric_type": "earnings per share (EPS)",
             "value": 0.63,
-            "currency": "USD",
+            "currency": null,
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "earnings per share (EPS)",
             "value": -0.3,
-            "currency": "USD",
+            "currency": null,
             "point_in_time": "2021-12-31"
         },
         {
-            "metric_type": "acquisition costs",
-            "value": 14.863,
+            "metric_type": "earnings per share (EPS)",
+            "value": 0.49,
+            "currency": null,
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "Quick Ratio",
+            "value": 3.21,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "free cash flow",
+            "value": 12312000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "acquisition costs",
-            "value": 134.1,
+            "metric_type": "free cash flow",
+            "value": 21583000.0,
             "currency": "USD",
             "point_in_time": "2021-12-31"
         },
         {
+            "metric_type": "free cash flow",
+            "value": 88413000.0,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 1249642000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 1193056000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 833652000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 888569000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "intangible assets",
+            "value": 424855000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "marketing spending",
+            "value": 11600000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 29083000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 28280000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 23483000.0,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
+        },
+        {
             "metric_type": "net profit margin",
-            "value": 10.7,
+            "value": 10.72,
             "currency": null,
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "net profit margin",
-            "value": -3.9,
+            "value": -3.91,
             "currency": null,
             "point_in_time": "2021-12-31"
         },
         {
-            "metric_type": "operating cash flow",
-            "value": 12.312,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "operating cash flow",
-            "value": 21.583,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
+            "metric_type": "net profit margin",
+            "value": 6.5,
+            "currency": null,
+            "point_in_time": "2020-12-31"
         }
     ]
 }

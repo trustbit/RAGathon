@@ -2,46 +2,46 @@
     "company_name": "Sensata",
     "data_points": [
         {
-            "metric_type": "net income",
-            "value": 310.7,
+            "metric_type": "net profit margin",
+            "value": 7.7,
             "currency": null,
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "total revenue",
-            "value": 4029.3,
+            "value": 4029262000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "total revenue",
-            "value": 3820.8,
+            "value": 3820806000.0,
             "currency": "USD",
             "point_in_time": "2021-12-31"
         },
         {
             "metric_type": "total revenue",
-            "value": 3045.6,
+            "value": 3045578000.0,
             "currency": "USD",
             "point_in_time": "2020-12-31"
         },
         {
-            "metric_type": "total assets",
-            "value": 8756.2,
+            "metric_type": "net income",
+            "value": 310685000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "total liabilities",
-            "value": 5645.4,
+            "metric_type": "net income",
+            "value": 363580000.0,
             "currency": "USD",
-            "point_in_time": "2022-12-31"
+            "point_in_time": "2021-12-31"
         },
         {
-            "metric_type": "shareholders' equity",
-            "value": 3110.8,
+            "metric_type": "net income",
+            "value": 164286000.0,
             "currency": "USD",
-            "point_in_time": "2022-12-31"
+            "point_in_time": "2020-12-31"
         },
         {
             "metric_type": "gross profit margin",
@@ -56,112 +56,10 @@
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "operating cash flow",
-            "value": 460.6,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "free cash flow",
-            "value": 310.5,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "accounts_receivable",
-            "value": 742.4,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "inventory",
-            "value": 644.9,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "customer acquisition spending",
-            "value": 392.27,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "research and development expenses",
-            "value": 189.3,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "marketing spending",
-            "value": 13.5,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "total assets",
-            "value": 8613.8,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 5519.0,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "shareholders' equity",
-            "value": 3094.7,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
             "metric_type": "operating margin",
             "value": 16.6,
             "currency": null,
             "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "operating cash flow",
-            "value": 554.2,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "free cash flow",
-            "value": 409.7,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "research and development expenses",
-            "value": 159.1,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "marketing spending",
-            "value": 12.5,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "total assets",
-            "value": 7745.0,
-            "currency": "USD",
-            "point_in_time": "2020-12-31"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 5035.0,
-            "currency": "USD",
-            "point_in_time": "2020-12-31"
-        },
-        {
-            "metric_type": "shareholders' equity",
-            "value": 2710.0,
-            "currency": "USD",
-            "point_in_time": "2020-12-31"
         },
         {
             "metric_type": "operating margin",
@@ -170,22 +68,82 @@
             "point_in_time": "2020-12-31"
         },
         {
-            "metric_type": "operating cash flow",
-            "value": 559.8,
+            "metric_type": "free cash flow",
+            "value": 310500000.0,
             "currency": "USD",
-            "point_in_time": "2020-12-31"
+            "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "free cash flow",
-            "value": 453.1,
+            "value": 409700000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "free cash flow",
+            "value": 453100000.0,
             "currency": "USD",
             "point_in_time": "2020-12-31"
         },
         {
-            "metric_type": "research and development expenses",
-            "value": 131.4,
+            "metric_type": "earnings per share (EPS)",
+            "value": 1.99,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 2.28,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 1.04,
             "currency": "USD",
             "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 460600000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 554200000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 559800000.0,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 5645413000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 8756220000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 8613766000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 5519032000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
         }
     ]
 }

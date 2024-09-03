@@ -2,154 +2,82 @@
     "company_name": "PowerFleet, Inc.",
     "data_points": [
         {
+            "metric_type": "market capitalization",
+            "value": 75700000.0,
+            "currency": "USD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 126208000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 135157000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 223109000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 217435000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 45092000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 45668000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 92000000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 82815000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
             "metric_type": "net income",
-            "value": -7.003,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 135.157,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 126.208,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 113.593,
-            "currency": "USD",
-            "point_in_time": "2020-12-31"
-        },
-        {
-            "metric_type": "gross profit margin",
-            "value": 47.5,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "gross profit margin",
-            "value": 47.7,
-            "currency": null,
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "gross profit margin",
-            "value": 52.0,
-            "currency": null,
-            "point_in_time": "2020-12-31"
-        },
-        {
-            "metric_type": "research and development expenses",
-            "value": 8.964,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "research and development expenses",
-            "value": 11.058,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "research and development expenses",
-            "value": 10.597,
-            "currency": "USD",
-            "point_in_time": "2020-12-31"
-        },
-        {
-            "metric_type": "net profit margin",
-            "value": -5.2,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "net profit margin",
-            "value": -10.5,
-            "currency": null,
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "net profit margin",
-            "value": -7.9,
-            "currency": null,
-            "point_in_time": "2020-12-31"
-        },
-        {
-            "metric_type": "total assets",
-            "value": 217.435,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "total assets",
-            "value": 229.867,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 77.055,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 85.007,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "shareholders' equity",
-            "value": 82.815,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "shareholders' equity",
-            "value": 92.197,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "accounts_receivable",
-            "value": 32.493,
+            "value": -7003000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "accounts_receivable",
-            "value": 32.094,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "inventory",
-            "value": 22.272,
+            "value": 32493000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "inventory",
-            "value": 18.243,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "operating cash flow",
-            "value": 0.757,
+            "value": 22272000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "operating cash flow",
-            "value": -5.019,
+            "metric_type": "intangible assets",
+            "value": 22908000.0,
             "currency": "USD",
-            "point_in_time": "2021-12-31"
+            "point_in_time": "2022-12-31"
         }
     ]
 }

@@ -1,0 +1,677 @@
+{
+    "company_name": "Caixa Geral de Dep\u00f3sitos, S.A.",
+    "data_points": [
+        {
+            "metric_type": "market capitalization",
+            "value": 18100.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 104018000000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 102503000000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 94731000000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 93020000000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 9287000000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 9483000000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 843000000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 2304400000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 0.0366,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 0.4,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": -3185529000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 11848554000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 1741457000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 583000000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 0.011,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Quick Ratio",
+            "value": 0.61,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 90756000000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 82618000000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 8139000000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 672289000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": -3127732000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 1739714000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 11890779000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 1324126000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 441534000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 0.006,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Quick Ratio",
+            "value": 0.495,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 126.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 15718.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 633695.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 583361.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 842786.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 104.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 853728000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 764590000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 5838361000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 50558769000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 764590000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 6992370000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 916950000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 4921710000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 760787000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 179338000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 28957000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 36942000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 154000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 219000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 446000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 5857000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 3498000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 8460000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 4049000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 2566000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 4728000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 10636000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 54200000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 4487000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 1695000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 8939000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 41642000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 874000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 436000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 5749000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-30"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 433000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 3270000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 4633000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 7169000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 2110000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 50545000000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 83045000000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 436000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 725000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 2487000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 6340000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 8924000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 3280000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 5643000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 4067000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 65742000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 67692000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 7351032000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 7351032000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 7256000000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 61197137.1,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 7460632000.0,
+            "currency": "EUR",
+            "point_in_time": "2023-01-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 6771020000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 7460632000.0,
+            "currency": "EUR",
+            "point_in_time": "2023-01-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 7351550000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 7391531000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 7391531000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 7505560000.0,
+            "currency": "EUR",
+            "point_in_time": "2023-01-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 67692000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 24231408.2,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 61189163.9,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 20.7,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 30.9,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 14637253.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 9.8,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 39.1,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 1437253.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 365265.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "accounts_receivable",
+            "value": 1167.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 842786000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 1609180104.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 102503009000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 9482661000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 103033.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 35300858.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 1000000000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 93333144000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 93258668000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        }
+    ]
+}

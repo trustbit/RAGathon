@@ -1,0 +1,77 @@
+{
+    "company_name": "ENRG ELEMENTS LIMITED",
+    "data_points": [
+        {
+            "metric_type": "net income",
+            "value": -4542384.0,
+            "currency": null,
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "marketing spending",
+            "value": 50000.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 4722209.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": -57.92,
+            "currency": null,
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": -73.39,
+            "currency": null,
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": -2320689.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 396281.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 5118490.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 216.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "accounts_receivable",
+            "value": 292322.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 396281.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 5118490.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        }
+    ]
+}

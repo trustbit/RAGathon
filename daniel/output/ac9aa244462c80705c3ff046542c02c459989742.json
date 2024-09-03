@@ -1,0 +1,197 @@
+{
+    "company_name": "Mercia Asset Management PLC",
+    "data_points": [
+        {
+            "metric_type": "net profit margin",
+            "value": 0.4225,
+            "currency": "OTHER",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 23183000.0,
+            "currency": "GBP",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 26100000.0,
+            "currency": "GBP",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 214801000.0,
+            "currency": "GBP",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 14212000.0,
+            "currency": "GBP",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 200589000.0,
+            "currency": "GBP",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 16419000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 192440000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 176021000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 23410000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 34458000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 0.4656,
+            "currency": "OTHER",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 34458000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 16419000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 192440000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 176021000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 23410000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 34458000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 0.4656,
+            "currency": "OTHER",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 9150000.0,
+            "currency": "GBP",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 0.9895799125,
+            "currency": "OTHER",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 23183000.0,
+            "currency": "GBP",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 26100000.0,
+            "currency": "GBP",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 214801000.0,
+            "currency": "GBP",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 14212000.0,
+            "currency": "GBP",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 200589000.0,
+            "currency": "GBP",
+            "point_in_time": "2022-03-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 16419000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 192440000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 176021000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 23410000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 34458000.0,
+            "currency": "GBP",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 0.4656,
+            "currency": "OTHER",
+            "point_in_time": "2021-03-31"
+        }
+    ]
+}

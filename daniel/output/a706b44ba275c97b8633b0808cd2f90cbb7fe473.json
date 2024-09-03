@@ -1,0 +1,185 @@
+{
+    "company_name": "Oesterreichische Kontrollbank",
+    "data_points": [
+        {
+            "metric_type": "Quick Ratio",
+            "value": 1.2,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 6582530000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 63690.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 70620.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 15151215559.61,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 58229000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 65491000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 33574500000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 33270700000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 23.4,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 25.8,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": -1197933000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": -309481000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "marketing spending",
+            "value": 5610000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "marketing spending",
+            "value": 5020000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 0.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "research and development expenses",
+            "value": 0.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 16859340000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 900620000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 865585000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 15.4,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 18.6,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 0.2,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 0.21,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "sustainability initiatives spending",
+            "value": 206300000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "sustainability initiatives spending",
+            "value": 167400000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 24.6,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 26.7,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 4325800000.0,
+            "currency": "EUR",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 4192600000.0,
+            "currency": "EUR",
+            "point_in_time": "2021-12-31"
+        }
+    ]
+}

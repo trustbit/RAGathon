@@ -1,0 +1,95 @@
+{
+    "company_name": "TSX_ACQ",
+    "data_points": [
+        {
+            "metric_type": "total revenue",
+            "value": 6040619000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 91060000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 1.5,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "intangible assets",
+            "value": 659261000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "acquisition costs",
+            "value": 134880000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 457899000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 167199000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 3.59,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "intangible assets",
+            "value": 548249000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "acquisition costs",
+            "value": 108365000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 493411000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 2858331000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 2371534000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 2258673000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 1739264000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-12-31"
+        }
+    ]
+}

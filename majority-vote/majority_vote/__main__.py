@@ -3,7 +3,7 @@ import random
 from collections import Counter
 from typing import Callable, Optional
 
-import daniel.answer_question
+import sample
 
 from dotenv import load_dotenv
 
@@ -35,7 +35,8 @@ load_dotenv()
 
 AnswerFunction = Callable[[str, str], Optional[str]]
 
-answer_functions = [ daniel.answer_question.answer_question ]
+# TODO: Remove the sample answer_question function; add real functions.
+answer_functions = [ sample.answer_question ]
 
 results = []
 
@@ -56,7 +57,7 @@ with open('questions.json', 'r') as json_file:
         results.append({
             "question": question,
             "schema": item["schema"],
-            "answer": answer
+            "answer": "n/a" if answer is None else answer
         })
 
 with open('results.json', 'w') as json_file:

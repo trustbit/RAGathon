@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ## Adding your solution
 
-Make a python package like `daniel`. It should have a function
+Make a python package like `sample`. It should have a function
 like this:
 
 ```

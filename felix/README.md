@@ -24,6 +24,7 @@ answers of the company experts.
 
 ## Results
 `results_v1.json` (to v7) contains solutions to sample questions [online](https://github.com/trustbit/enterprise-rag-challenge/blob/main/samples/questions.json).
+
 `results_v8.json` contains solutions to actual questions for evaluation.
 
 The respective log files contain the chain of thought of the agents for each question, allowing for a detailed 

@@ -2,34 +2,52 @@
     "company_name": "Tradition",
     "data_points": [
         {
-            "metric_type": "total revenue",
-            "value": 947398000.0,
+            "metric_type": "market capitalization",
+            "value": 774842000.0,
             "currency": "OTHER",
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "operating margin",
-            "value": 9.9,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "net income",
-            "value": 97418000.0,
-            "currency": "OTHER",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "net income",
-            "value": 71459000.0,
+            "metric_type": "market capitalization",
+            "value": 781851000.0,
             "currency": "OTHER",
             "point_in_time": "2021-12-31"
         },
         {
-            "metric_type": "net profit margin",
-            "value": 10.3,
+            "metric_type": "total revenue",
+            "value": 1028600000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 950800000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 12.7,
             "currency": null,
             "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 10.5,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 97400000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 71500000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-12-31"
         },
         {
             "metric_type": "earnings per share (EPS)",
@@ -50,68 +68,20 @@
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "total assets",
-            "value": 1077275000.0,
-            "currency": "OTHER",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "shareholders' equity",
-            "value": 442516000.0,
-            "currency": "OTHER",
-            "point_in_time": "2022-12-31"
-        },
-        {
             "metric_type": "total liabilities",
             "value": 1164904000.0,
             "currency": "OTHER",
             "point_in_time": "2021-12-31"
         },
         {
-            "metric_type": "total assets",
-            "value": 1594644000.0,
+            "metric_type": "shareholders' equity",
+            "value": 416804000.0,
             "currency": "OTHER",
-            "point_in_time": "2021-12-31"
+            "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "shareholders' equity",
-            "value": 429740000.0,
-            "currency": "OTHER",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "Return on Assets (ROA)",
-            "value": 8.9,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "Return on Assets (ROA)",
-            "value": 5.5,
-            "currency": null,
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 873607000.0,
-            "currency": "OTHER",
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "operating margin",
-            "value": 8.4,
-            "currency": null,
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "market capitalization",
-            "value": 774842000.0,
-            "currency": "OTHER",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "market capitalization",
-            "value": 781851000.0,
+            "value": 407470000.0,
             "currency": "OTHER",
             "point_in_time": "2021-12-31"
         }

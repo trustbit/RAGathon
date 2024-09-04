@@ -2,20 +2,8 @@
     "company_name": "First Mid Bancshares, Inc.",
     "data_points": [
         {
-            "metric_type": "market capitalization",
-            "value": 639158758.0,
-            "currency": "USD",
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "earnings per share (EPS)",
-            "value": 3.6,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "total assets",
-            "value": 6740000000.0,
+            "metric_type": "total revenue",
+            "value": 74.7,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
@@ -26,20 +14,122 @@
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "shareholders' equity",
-            "value": 633200000.0,
+            "metric_type": "earnings per share (EPS)",
+            "value": 3.6,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 69.8,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 51500000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 2.87,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 59.5,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 45300000.0,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 2.7,
+            "currency": null,
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 6740000000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "total liabilities",
-            "value": 6111000000.0,
+            "value": 11106000000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "total revenue",
-            "value": 184300000.0,
+            "metric_type": "total assets",
+            "value": 5990000000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 5352688000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 4730000000.0,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 5384260000.0,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 6700000000.0,
+            "currency": "USD",
+            "point_in_time": "2022-02-14"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 1.11,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 0.9,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 1.05,
+            "currency": null,
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 639158758.0,
+            "currency": "USD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "Quick Ratio",
+            "value": 0.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 6116060000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
@@ -47,7 +137,61 @@
             "metric_type": "total liabilities",
             "value": 5352688000.0,
             "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 72952000.0,
+            "currency": "USD",
             "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 51490000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 45270000.0,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 3.6,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 2.87,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 2.7,
+            "currency": null,
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 290573000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 252780000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 215566000.0,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
         },
         {
             "metric_type": "operating cash flow",
@@ -56,46 +200,100 @@
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "gross profit margin",
-            "value": 29.37,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "intangible assets",
-            "value": 29000000.0,
+            "metric_type": "operating cash flow",
+            "value": 69596000.0,
             "currency": "USD",
-            "point_in_time": "2022-12-31"
+            "point_in_time": "2021-12-31"
         },
         {
-            "metric_type": "Quick Ratio",
-            "value": 1.22,
+            "metric_type": "operating cash flow",
+            "value": 63541000.0,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 0.2175,
             "currency": null,
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "operating margin",
-            "value": 24.6,
+            "value": 0.1648,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 0.2078,
+            "currency": null,
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 0.4603,
             "currency": null,
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "net profit margin",
-            "value": 24.0,
+            "metric_type": "gross profit margin",
+            "value": 0.5034,
             "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 0.5914,
+            "currency": null,
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 6744215000.0,
+            "currency": "USD",
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "inventory",
-            "value": 43741000.0,
+            "metric_type": "total assets",
+            "value": 5986582000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 633155000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 633894000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "accounts_receivable",
+            "value": 28357000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "accounts_receivable",
-            "value": 42878000.0,
+            "value": 19868000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 6116060000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 5352688000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
         }
     ]
 }

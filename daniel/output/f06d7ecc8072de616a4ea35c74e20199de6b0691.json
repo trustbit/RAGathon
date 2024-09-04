@@ -8,40 +8,10 @@
             "point_in_time": "2022-06-30"
         },
         {
-            "metric_type": "total liabilities",
-            "value": 1231118.0,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
             "metric_type": "total revenue",
             "value": 24393946.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "net income",
-            "value": -7089242.0,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "net profit margin",
-            "value": -0.2907,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "gross profit margin",
-            "value": 0.13,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 732686.0,
-            "currency": "USD",
-            "point_in_time": "2021-12-31"
         },
         {
             "metric_type": "total revenue",
@@ -51,19 +21,145 @@
         },
         {
             "metric_type": "net income",
+            "value": -7089242.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
             "value": -5908372.0,
             "currency": "USD",
             "point_in_time": "2021-12-31"
         },
         {
+            "metric_type": "total assets",
+            "value": 582776.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "marketing spending",
+            "value": 140728.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "intangible assets",
+            "value": 3163796.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 12116118.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 13208229.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 26555680.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 34924018.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 24393946.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 38341702.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": -8323048.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": -10832674.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
             "metric_type": "net profit margin",
-            "value": -0.15,
+            "value": -34.1,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": -28.26,
             "currency": null,
             "point_in_time": "2021-12-31"
         },
         {
             "metric_type": "gross profit margin",
-            "value": 0.06,
+            "value": 13.35,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 6.07,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": -5630614.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": -662759.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 12116118.0,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": -1039205.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "accounts_receivable",
+            "value": 1280456.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 12116118.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 13208229.0,
             "currency": null,
             "point_in_time": "2021-12-31"
         }

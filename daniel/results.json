@@ -7,7 +7,7 @@
     {
         "question": "What was the total liabilities of \"CrossFirst Bank\" in the fiscal year 2023?",
         "schema": "number",
-        "answer": "n/a"
+        "answer": 5070761400.0
     },
     {
         "question": "How much more did \"Astral Resources NL\" spend on marketing compared to \"TSX_Y\" in June 30, 2021?",
@@ -32,12 +32,12 @@
     {
         "question": "How much more did \"Creative Media & Community Trust Corporation\" spend on sustainability initiatives compared to \"BAKER STEEL RESOURCES TRUST LIMITED\" in June 30, 2021?",
         "schema": "number",
-        "answer": "n/a"
+        "answer": 1000000.0
     },
     {
         "question": "Which company had a higher total liabilities: \"Creative Media & Community Trust Corporation\", \"Sleep Country Canada Holdings Inc.\" or \"Tradition\", in the fiscal year 2023?",
         "schema": "name",
-        "answer": "n/a"
+        "answer": "Sleep Country Canada Holdings Inc."
     },
     {
         "question": "What was the Net Profit Margin of \"QUIDELORTHO CORPORATION\" in June 30, 2023?",
@@ -57,7 +57,7 @@
     {
         "question": "Which company had a higher shareholders' equity: \"MITSUI O.S.K. LINES\", \"TSX_Y\" or \"Tradition\", in the fiscal year 2022?",
         "schema": "name",
-        "answer": "MITSUI O.S.K. LINES"
+        "answer": "n/a"
     },
     {
         "question": "What was the Gross Profit Margin of \"JOURNEY MEDICAL CORPORATION\" in June 30, 2022?",
@@ -87,7 +87,7 @@
     {
         "question": "What was the net income of \"Petra Diamonds\" in the fiscal year 2022?",
         "schema": "number",
-        "answer": 100000000.0
+        "answer": 88000000.0
     },
     {
         "question": "How much more did \"Sensata\" spend on customer acquisition compared to \"Laserbond\" in June 30, 2022?",
@@ -97,12 +97,12 @@
     {
         "question": "Which company had a higher free cash flow: \"Sensata\", \"TransUnion\" or \"First Mid Bancshares, Inc.\", in the fiscal year 2021?",
         "schema": "name",
-        "answer": "Sensata"
+        "answer": "TransUnion"
     },
     {
         "question": "What was the market capitalization of \"Holley Inc.\" in June 30, 2023?",
         "schema": "number",
-        "answer": 560000000.0
+        "answer": "n/a"
     },
     {
         "question": "What was the total assets of \"TransUnion\" in the fiscal year 2023?",
@@ -117,7 +117,7 @@
     {
         "question": "Which company had a higher research and development expenses: \"MITSUI O.S.K. LINES\", \"Holley Inc.\" or \"First Mid Bancshares, Inc.\", in the fiscal year 2021?",
         "schema": "name",
-        "answer": "Holley Inc."
+        "answer": "n/a"
     },
     {
         "question": "What was the Operating Margin of \"Sleep Country Canada Holdings Inc.\" in June 30, 2022?",
@@ -127,12 +127,12 @@
     {
         "question": "What was the intangible assets of \"TransUnion\" in the fiscal year 2021?",
         "schema": "number",
-        "answer": "n/a"
+        "answer": 5679500000.0
     },
     {
         "question": "How much more did \"PowerFleet, Inc.\" spend on R&D compared to \"JOURNEY MEDICAL CORPORATION\" in June 30, 2022?",
         "schema": "number",
-        "answer": "n/a"
+        "answer": 3464000.0
     },
     {
         "question": "Which company had a higher inventories: \"TSX_Y\", \"Mercia Asset Management PLC\" or \"Tradition\", in the fiscal year 2022?",
@@ -162,7 +162,7 @@
     {
         "question": "What was the Return on Assets (ROA) of \"ENRG ELEMENTS LIMITED\" in June 30, 2022?",
         "schema": "number",
-        "answer": 7.9
+        "answer": "n/a"
     },
     {
         "question": "What was the free cash flow of \"Oesterreichische Kontrollbank\" in the fiscal year 2023?",

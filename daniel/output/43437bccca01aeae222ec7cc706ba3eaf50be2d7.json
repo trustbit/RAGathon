@@ -2,44 +2,14 @@
     "company_name": "ENRG ELEMENTS LIMITED",
     "data_points": [
         {
+            "metric_type": "total revenue",
+            "value": 216.0,
+            "currency": null,
+            "point_in_time": "2022-06-30"
+        },
+        {
             "metric_type": "net income",
             "value": -4542384.0,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "marketing spending",
-            "value": 50000.0,
-            "currency": "AUD",
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "shareholders' equity",
-            "value": 4722209.0,
-            "currency": "AUD",
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "net profit margin",
-            "value": -57.92,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "gross profit margin",
-            "value": -73.39,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "operating cash flow",
-            "value": -2320689.0,
-            "currency": "AUD",
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 396281.0,
             "currency": "AUD",
             "point_in_time": "2022-06-30"
         },
@@ -50,10 +20,46 @@
             "point_in_time": "2022-06-30"
         },
         {
-            "metric_type": "total revenue",
-            "value": 216.0,
+            "metric_type": "total liabilities",
+            "value": 396281.0,
             "currency": "AUD",
             "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 115458.0,
+            "currency": "AUD",
+            "point_in_time": "2021-06-30"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 698029.0,
+            "currency": "AUD",
+            "point_in_time": "2021-06-30"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": -2104288.888888889,
+            "currency": null,
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": -4551691.666666667,
+            "currency": null,
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": -4514088.888888889,
+            "currency": null,
+            "point_in_time": "2021-06-30"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": -4567416.666666667,
+            "currency": null,
+            "point_in_time": "2021-06-30"
         },
         {
             "metric_type": "accounts_receivable",
@@ -62,14 +68,62 @@
             "point_in_time": "2022-06-30"
         },
         {
-            "metric_type": "total liabilities",
-            "value": 396281.0,
+            "metric_type": "accounts_receivable",
+            "value": 61229.0,
+            "currency": "AUD",
+            "point_in_time": "2021-06-30"
+        },
+        {
+            "metric_type": "Quick Ratio",
+            "value": 11.24243073475073,
+            "currency": null,
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "Quick Ratio",
+            "value": 5.3298945298945295,
+            "currency": null,
+            "point_in_time": "2021-06-30"
+        },
+        {
+            "metric_type": "net income",
+            "value": -1243075.0,
+            "currency": "AUD",
+            "point_in_time": "2021-06-30"
+        },
+        {
+            "metric_type": "Quick Ratio",
+            "value": 12.023682330276499,
+            "currency": null,
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "Quick Ratio",
+            "value": 5.389559554274637,
+            "currency": null,
+            "point_in_time": "2021-06-30"
+        },
+        {
+            "metric_type": "net income",
+            "value": -7328997.0,
             "currency": "AUD",
             "point_in_time": "2022-06-30"
         },
         {
+            "metric_type": "net income",
+            "value": 2786613.0,
+            "currency": "AUD",
+            "point_in_time": "2021-06-30"
+        },
+        {
             "metric_type": "total assets",
             "value": 5118490.0,
+            "currency": "AUD",
+            "point_in_time": "2022-06-30"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 396281.0,
             "currency": "AUD",
             "point_in_time": "2022-06-30"
         }

@@ -1,0 +1,291 @@
+{
+    "summary": {
+        "my_tokens": 973503,
+        "prompt_tokens": 975723,
+        "completion_tokens": 250,
+        "total_tokens": 975973,
+        "total_cost_usd": 2.4418075000000004
+    },
+    "details": [
+        {
+            "my_tokens": 24333,
+            "prompt_tokens": 24388,
+            "completion_tokens": 5,
+            "total_tokens": 24393,
+            "total_cost_usd": 0.06102
+        },
+        {
+            "my_tokens": 24328,
+            "prompt_tokens": 24383,
+            "completion_tokens": 10,
+            "total_tokens": 24393,
+            "total_cost_usd": 0.0610575
+        },
+        {
+            "my_tokens": 24338,
+            "prompt_tokens": 24393,
+            "completion_tokens": 5,
+            "total_tokens": 24398,
+            "total_cost_usd": 0.0610325
+        },
+        {
+            "my_tokens": 24348,
+            "prompt_tokens": 24405,
+            "completion_tokens": 6,
+            "total_tokens": 24411,
+            "total_cost_usd": 0.061072499999999995
+        },
+        {
+            "my_tokens": 24333,
+            "prompt_tokens": 24388,
+            "completion_tokens": 5,
+            "total_tokens": 24393,
+            "total_cost_usd": 0.06102
+        },
+        {
+            "my_tokens": 24329,
+            "prompt_tokens": 24384,
+            "completion_tokens": 5,
+            "total_tokens": 24389,
+            "total_cost_usd": 0.06101
+        },
+        {
+            "my_tokens": 24346,
+            "prompt_tokens": 24401,
+            "completion_tokens": 9,
+            "total_tokens": 24410,
+            "total_cost_usd": 0.0610925
+        },
+        {
+            "my_tokens": 24345,
+            "prompt_tokens": 24402,
+            "completion_tokens": 11,
+            "total_tokens": 24413,
+            "total_cost_usd": 0.061115
+        },
+        {
+            "my_tokens": 24334,
+            "prompt_tokens": 24389,
+            "completion_tokens": 5,
+            "total_tokens": 24394,
+            "total_cost_usd": 0.0610225
+        },
+        {
+            "my_tokens": 24330,
+            "prompt_tokens": 24385,
+            "completion_tokens": 5,
+            "total_tokens": 24390,
+            "total_cost_usd": 0.061012500000000004
+        },
+        {
+            "my_tokens": 24339,
+            "prompt_tokens": 24394,
+            "completion_tokens": 5,
+            "total_tokens": 24399,
+            "total_cost_usd": 0.061035
+        },
+        {
+            "my_tokens": 24347,
+            "prompt_tokens": 24404,
+            "completion_tokens": 6,
+            "total_tokens": 24410,
+            "total_cost_usd": 0.06106999999999999
+        },
+        {
+            "my_tokens": 24334,
+            "prompt_tokens": 24389,
+            "completion_tokens": 5,
+            "total_tokens": 24394,
+            "total_cost_usd": 0.0610225
+        },
+        {
+            "my_tokens": 24333,
+            "prompt_tokens": 24388,
+            "completion_tokens": 5,
+            "total_tokens": 24393,
+            "total_cost_usd": 0.06102
+        },
+        {
+            "my_tokens": 24345,
+            "prompt_tokens": 24400,
+            "completion_tokens": 5,
+            "total_tokens": 24405,
+            "total_cost_usd": 0.06105000000000001
+        },
+        {
+            "my_tokens": 24346,
+            "prompt_tokens": 24403,
+            "completion_tokens": 6,
+            "total_tokens": 24409,
+            "total_cost_usd": 0.061067500000000004
+        },
+        {
+            "my_tokens": 24331,
+            "prompt_tokens": 24386,
+            "completion_tokens": 5,
+            "total_tokens": 24391,
+            "total_cost_usd": 0.06101500000000001
+        },
+        {
+            "my_tokens": 24328,
+            "prompt_tokens": 24383,
+            "completion_tokens": 9,
+            "total_tokens": 24392,
+            "total_cost_usd": 0.0610475
+        },
+        {
+            "my_tokens": 24336,
+            "prompt_tokens": 24391,
+            "completion_tokens": 5,
+            "total_tokens": 24396,
+            "total_cost_usd": 0.0610275
+        },
+        {
+            "my_tokens": 24343,
+            "prompt_tokens": 24400,
+            "completion_tokens": 7,
+            "total_tokens": 24407,
+            "total_cost_usd": 0.061070000000000006
+        },
+        {
+            "my_tokens": 24329,
+            "prompt_tokens": 24384,
+            "completion_tokens": 5,
+            "total_tokens": 24389,
+            "total_cost_usd": 0.06101
+        },
+        {
+            "my_tokens": 24327,
+            "prompt_tokens": 24382,
+            "completion_tokens": 5,
+            "total_tokens": 24387,
+            "total_cost_usd": 0.061005000000000004
+        },
+        {
+            "my_tokens": 24345,
+            "prompt_tokens": 24400,
+            "completion_tokens": 5,
+            "total_tokens": 24405,
+            "total_cost_usd": 0.06105000000000001
+        },
+        {
+            "my_tokens": 24352,
+            "prompt_tokens": 24409,
+            "completion_tokens": 6,
+            "total_tokens": 24415,
+            "total_cost_usd": 0.0610825
+        },
+        {
+            "my_tokens": 24331,
+            "prompt_tokens": 24386,
+            "completion_tokens": 5,
+            "total_tokens": 24391,
+            "total_cost_usd": 0.06101500000000001
+        },
+        {
+            "my_tokens": 24327,
+            "prompt_tokens": 24382,
+            "completion_tokens": 10,
+            "total_tokens": 24392,
+            "total_cost_usd": 0.061055000000000005
+        },
+        {
+            "my_tokens": 24343,
+            "prompt_tokens": 24398,
+            "completion_tokens": 9,
+            "total_tokens": 24407,
+            "total_cost_usd": 0.061085
+        },
+        {
+            "my_tokens": 24341,
+            "prompt_tokens": 24398,
+            "completion_tokens": 6,
+            "total_tokens": 24404,
+            "total_cost_usd": 0.061055
+        },
+        {
+            "my_tokens": 24332,
+            "prompt_tokens": 24387,
+            "completion_tokens": 5,
+            "total_tokens": 24392,
+            "total_cost_usd": 0.061017499999999995
+        },
+        {
+            "my_tokens": 24330,
+            "prompt_tokens": 24385,
+            "completion_tokens": 9,
+            "total_tokens": 24394,
+            "total_cost_usd": 0.0610525
+        },
+        {
+            "my_tokens": 24345,
+            "prompt_tokens": 24400,
+            "completion_tokens": 5,
+            "total_tokens": 24405,
+            "total_cost_usd": 0.06105000000000001
+        },
+        {
+            "my_tokens": 24346,
+            "prompt_tokens": 24403,
+            "completion_tokens": 6,
+            "total_tokens": 24409,
+            "total_cost_usd": 0.061067500000000004
+        },
+        {
+            "my_tokens": 24336,
+            "prompt_tokens": 24391,
+            "completion_tokens": 5,
+            "total_tokens": 24396,
+            "total_cost_usd": 0.0610275
+        },
+        {
+            "my_tokens": 24332,
+            "prompt_tokens": 24387,
+            "completion_tokens": 5,
+            "total_tokens": 24392,
+            "total_cost_usd": 0.061017499999999995
+        },
+        {
+            "my_tokens": 24337,
+            "prompt_tokens": 24392,
+            "completion_tokens": 5,
+            "total_tokens": 24397,
+            "total_cost_usd": 0.06103
+        },
+        {
+            "my_tokens": 24350,
+            "prompt_tokens": 24407,
+            "completion_tokens": 6,
+            "total_tokens": 24413,
+            "total_cost_usd": 0.0610775
+        },
+        {
+            "my_tokens": 24331,
+            "prompt_tokens": 24386,
+            "completion_tokens": 5,
+            "total_tokens": 24391,
+            "total_cost_usd": 0.06101500000000001
+        },
+        {
+            "my_tokens": 24333,
+            "prompt_tokens": 24388,
+            "completion_tokens": 5,
+            "total_tokens": 24393,
+            "total_cost_usd": 0.06102
+        },
+        {
+            "my_tokens": 24338,
+            "prompt_tokens": 24393,
+            "completion_tokens": 5,
+            "total_tokens": 24398,
+            "total_cost_usd": 0.0610325
+        },
+        {
+            "my_tokens": 24352,
+            "prompt_tokens": 24409,
+            "completion_tokens": 14,
+            "total_tokens": 24423,
+            "total_cost_usd": 0.0611625
+        }
+    ]
+}

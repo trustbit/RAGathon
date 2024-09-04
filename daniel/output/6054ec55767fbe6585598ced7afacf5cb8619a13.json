@@ -2,38 +2,38 @@
     "company_name": "MITSUI O.S.K. LINES",
     "data_points": [
         {
-            "metric_type": "total revenue",
-            "value": 1269310000000.0,
-            "currency": "OTHER",
-            "point_in_time": "2022-03-31"
-        },
-        {
             "metric_type": "net income",
             "value": 708819000000.0,
             "currency": "OTHER",
             "point_in_time": "2022-03-31"
         },
         {
-            "metric_type": "operating cash flow",
-            "value": 307637000000.0,
-            "currency": "OTHER",
+            "metric_type": "Return on Assets (ROA)",
+            "value": 76.5,
+            "currency": null,
             "point_in_time": "2022-03-31"
         },
         {
-            "metric_type": "free cash flow",
-            "value": 200187000000.0,
-            "currency": "OTHER",
+            "metric_type": "Return on Assets (ROA)",
+            "value": 30.2,
+            "currency": null,
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 6.4,
+            "currency": null,
+            "point_in_time": "2020-03-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 4.3,
+            "currency": null,
             "point_in_time": "2022-03-31"
         },
         {
-            "metric_type": "total assets",
-            "value": 2686701000000.0,
-            "currency": "OTHER",
-            "point_in_time": "2022-03-31"
-        },
-        {
-            "metric_type": "shareholders' equity",
-            "value": 1274570000000.0,
+            "metric_type": "market capitalization",
+            "value": 1036400000000.0,
             "currency": "OTHER",
             "point_in_time": "2022-03-31"
         },
@@ -44,76 +44,82 @@
             "point_in_time": "2022-03-31"
         },
         {
-            "metric_type": "gross profit margin",
-            "value": 11.97,
-            "currency": null,
+            "metric_type": "total liabilities",
+            "value": 1356179000000.0,
+            "currency": "OTHER",
             "point_in_time": "2022-03-31"
         },
         {
-            "metric_type": "Return on Assets (ROA)",
-            "value": 30.2,
-            "currency": null,
-            "point_in_time": "2022-03-31"
+            "metric_type": "net income",
+            "value": 32000000000.0,
+            "currency": "OTHER",
+            "point_in_time": "2020-03-31"
         },
         {
-            "metric_type": "Return on Assets (ROA)",
-            "value": 30.2,
-            "currency": null,
-            "point_in_time": "2022-03-31"
+            "metric_type": "total assets",
+            "value": 1841247100000.0,
+            "currency": "OTHER",
+            "point_in_time": "2020-03-31"
         },
         {
-            "metric_type": "Return on Assets (ROA)",
-            "value": 30.2,
-            "currency": null,
-            "point_in_time": "2022-03-31"
+            "metric_type": "net income",
+            "value": 32623000000.0,
+            "currency": "OTHER",
+            "point_in_time": "2019-03-31"
         },
         {
-            "metric_type": "Return on Assets (ROA)",
-            "value": 30.2,
-            "currency": null,
-            "point_in_time": "2022-03-31"
+            "metric_type": "total assets",
+            "value": 2095559000000.0,
+            "currency": "OTHER",
+            "point_in_time": "2017-03-31"
         },
         {
-            "metric_type": "Return on Assets (ROA)",
-            "value": 30.2,
-            "currency": null,
-            "point_in_time": "2022-03-31"
-        },
-        {
-            "metric_type": "Return on Assets (ROA)",
-            "value": 30.2,
-            "currency": null,
-            "point_in_time": "2022-03-31"
-        },
-        {
-            "metric_type": "Return on Assets (ROA)",
-            "value": 30.2,
-            "currency": null,
-            "point_in_time": "2022-03-31"
-        },
-        {
-            "metric_type": "Return on Assets (ROA)",
-            "value": 30.2,
-            "currency": null,
-            "point_in_time": "2022-03-31"
-        },
-        {
-            "metric_type": "Return on Assets (ROA)",
-            "value": 30.2,
-            "currency": null,
-            "point_in_time": "2022-03-31"
-        },
-        {
-            "metric_type": "net profit margin",
-            "value": 55.8,
-            "currency": null,
+            "metric_type": "total revenue",
+            "value": 1269310000000.0,
+            "currency": "OTHER",
             "point_in_time": "2022-03-31"
         },
         {
             "metric_type": "operating margin",
-            "value": 4.33,
+            "value": 2.0,
             "currency": null,
-            "point_in_time": "2022-03-31"
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 90052000000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 250.99,
+            "currency": "OTHER",
+            "point_in_time": "2021-03-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 90.93,
+            "currency": "OTHER",
+            "point_in_time": "2020-03-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 6.4,
+            "currency": null,
+            "point_in_time": "2020-03-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 14.3,
+            "currency": null,
+            "point_in_time": "2020-03-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 1457911000000.0,
+            "currency": "OTHER",
+            "point_in_time": "2020-03-31"
         }
     ]
 }

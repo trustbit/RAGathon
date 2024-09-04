@@ -8,20 +8,38 @@
             "point_in_time": "2022-06-30"
         },
         {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 7.2,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 12.6,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "acquisition costs",
+            "value": 9300000.0,
+            "currency": "USD",
+            "point_in_time": "2022-01-01"
+        },
+        {
+            "metric_type": "acquisition costs",
+            "value": 17900000.0,
+            "currency": "USD",
+            "point_in_time": "2021-01-01"
+        },
+        {
+            "metric_type": "market capitalization",
+            "value": 505700000.0,
+            "currency": "USD",
+            "point_in_time": "2022-04-08"
+        },
+        {
             "metric_type": "total revenue",
             "value": 3709900000.0,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "net income",
-            "value": 284700000.0,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "net income",
-            "value": 267300000.0,
             "currency": "USD",
             "point_in_time": "2022-12-31"
         },
@@ -32,16 +50,70 @@
             "point_in_time": "2021-12-31"
         },
         {
+            "metric_type": "total revenue",
+            "value": 2530600000.0,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 24.7,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
             "metric_type": "net income",
-            "value": 1402200000.0,
+            "value": 269500000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 1387100000.0,
             "currency": "USD",
             "point_in_time": "2021-12-31"
         },
         {
             "metric_type": "net income",
-            "value": 370500000.0,
+            "value": 343200000.0,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 297200000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 808300000.0,
             "currency": "USD",
             "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "operating cash flow",
+            "value": 787600000.0,
+            "currency": "USD",
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 1.4,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 7.19,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 1.79,
+            "currency": null,
+            "point_in_time": "2020-12-31"
         },
         {
             "metric_type": "total liabilities",
@@ -50,10 +122,16 @@
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "total assets",
-            "value": 11666300000.0,
-            "currency": "USD",
-            "point_in_time": "2022-12-31"
+            "metric_type": "gross profit margin",
+            "value": 16.6,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 18.6,
+            "currency": null,
+            "point_in_time": "2020-12-31"
         },
         {
             "metric_type": "total liabilities",
@@ -63,19 +141,79 @@
         },
         {
             "metric_type": "total assets",
+            "value": 11166200000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
             "value": 12635000000.0,
             "currency": "USD",
             "point_in_time": "2021-12-31"
         },
         {
-            "metric_type": "net income",
-            "value": 355600000.0,
+            "metric_type": "intangible assets",
+            "value": 5944100000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "intangible assets",
+            "value": 5679500000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "intangible assets",
+            "value": 5679500000.0,
             "currency": "USD",
             "point_in_time": "2020-12-31"
         },
         {
-            "metric_type": "total revenue",
-            "value": 2530600000.0,
+            "metric_type": "Quick Ratio",
+            "value": 1.6,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Quick Ratio",
+            "value": 2.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 2.4,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 11.0,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 1.9,
+            "currency": null,
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "marketing spending",
+            "value": 87700000.0,
+            "currency": "USD",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "marketing spending",
+            "value": 92900000.0,
+            "currency": "USD",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "marketing spending",
+            "value": 89800000.0,
             "currency": "USD",
             "point_in_time": "2020-12-31"
         }

@@ -2,87 +2,51 @@
     "company_name": "TSX_Y",
     "data_points": [
         {
-            "metric_type": "operating margin",
-            "value": 36.0,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
             "metric_type": "total revenue",
             "value": 268278000.0,
-            "currency": null,
+            "currency": "OTHER",
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "total revenue",
             "value": 287646000.0,
-            "currency": null,
+            "currency": "OTHER",
             "point_in_time": "2021-12-31"
         },
         {
             "metric_type": "total revenue",
             "value": 333538000.0,
-            "currency": null,
+            "currency": "OTHER",
             "point_in_time": "2020-12-31"
         },
         {
             "metric_type": "net income",
             "value": 73432000.0,
-            "currency": null,
+            "currency": "OTHER",
             "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "net income",
             "value": 70635000.0,
-            "currency": null,
+            "currency": "OTHER",
             "point_in_time": "2021-12-31"
         },
         {
             "metric_type": "net income",
             "value": 60298000.0,
-            "currency": null,
+            "currency": "OTHER",
             "point_in_time": "2020-12-31"
         },
         {
-            "metric_type": "Quick Ratio",
-            "value": 1.6,
-            "currency": null,
+            "metric_type": "operating cash flow",
+            "value": 49500000.0,
+            "currency": "OTHER",
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "Quick Ratio",
-            "value": 2.63,
-            "currency": null,
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 141517000.0,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "earnings per share (EPS)",
-            "value": 3.1,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "total liabilities",
-            "value": 189098000.0,
-            "currency": null,
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "shareholders' equity",
-            "value": 65781000.0,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "shareholders' equity",
-            "value": 116131000.0,
-            "currency": null,
+            "metric_type": "operating cash flow",
+            "value": 104579000.0,
+            "currency": "OTHER",
             "point_in_time": "2021-12-31"
         },
         {
@@ -104,10 +68,112 @@
             "point_in_time": "2020-12-31"
         },
         {
-            "metric_type": "customer acquisition spending",
-            "value": 5892150000.0,
+            "metric_type": "accounts_receivable",
+            "value": 38415000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "accounts_receivable",
+            "value": 42267000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 141517000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 189098000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 65781000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 116131000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 3.1,
             "currency": null,
             "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "earnings per share (EPS)",
+            "value": 2.68,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "shareholders' equity",
+            "value": 65271000.0,
+            "currency": "OTHER",
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 29.1,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 26.8,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 28.1,
+            "currency": null,
+            "point_in_time": "2020-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 207298000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total assets",
+            "value": 305229000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 29431000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 16749000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-11-01"
+        },
+        {
+            "metric_type": "net income",
+            "value": 12678000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-10-01"
+        },
+        {
+            "metric_type": "net income",
+            "value": 14630000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-09-01"
         }
     ]
 }

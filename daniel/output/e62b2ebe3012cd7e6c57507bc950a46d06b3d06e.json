@@ -2,21 +2,21 @@
     "company_name": "Sleep Country Canada Holdings Inc.",
     "data_points": [
         {
-            "metric_type": "total liabilities",
-            "value": 601641.0,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "total assets",
-            "value": 1021719.0,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
             "metric_type": "total revenue",
             "value": 928657000.0,
             "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 36.7,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 23.5,
+            "currency": null,
             "point_in_time": "2022-12-31"
         },
         {
@@ -26,52 +26,52 @@
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "total liabilities",
-            "value": 578071.0,
-            "currency": null,
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "total assets",
-            "value": 988035.0,
-            "currency": null,
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "total revenue",
-            "value": 920194000.0,
+            "metric_type": "earnings per share (EPS)",
+            "value": 3.04,
             "currency": "OTHER",
-            "point_in_time": "2021-12-31"
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 601641000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "intangible assets",
+            "value": 171367000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-12-31"
         },
         {
             "metric_type": "net income",
-            "value": 88603000.0,
+            "value": 40469000.0,
             "currency": "OTHER",
-            "point_in_time": "2021-12-31"
+            "point_in_time": "2022-09-30"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 374252000.0,
+            "currency": "OTHER",
+            "point_in_time": "2022-09-30"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 26.1,
+            "currency": null,
+            "point_in_time": "2022-09-30"
         },
         {
             "metric_type": "gross profit margin",
-            "value": 36.7,
+            "value": 38.5,
             "currency": null,
-            "point_in_time": "2022-12-31"
+            "point_in_time": "2022-09-30"
         },
         {
-            "metric_type": "gross profit margin",
-            "value": 34.5,
-            "currency": null,
-            "point_in_time": "2021-12-31"
-        },
-        {
-            "metric_type": "operating cash flow",
-            "value": 163060000.0,
+            "metric_type": "total assets",
+            "value": 1021719000.0,
             "currency": "OTHER",
             "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "operating cash flow",
-            "value": 156143000.0,
-            "currency": "OTHER",
-            "point_in_time": "2021-12-31"
         },
         {
             "metric_type": "total liabilities",
@@ -81,45 +81,27 @@
         },
         {
             "metric_type": "net income",
-            "value": 110696000.0,
+            "value": 26433000.0,
             "currency": "OTHER",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "gross profit margin",
-            "value": 34.6,
-            "currency": null,
-            "point_in_time": "2020-12-31"
-        },
-        {
-            "metric_type": "gross profit margin",
-            "value": 35.9,
-            "currency": null,
-            "point_in_time": "2022-09-30"
-        },
-        {
-            "metric_type": "gross profit margin",
-            "value": 38.5,
-            "currency": null,
-            "point_in_time": "2022-06-30"
-        },
-        {
-            "metric_type": "market capitalization",
-            "value": 999400000.0,
-            "currency": "OTHER",
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "earnings per share (EPS)",
-            "value": 3.04,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "earnings per share (EPS)",
-            "value": 2.41,
-            "currency": null,
             "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net income",
+            "value": 40869000.0,
+            "currency": "OTHER",
+            "point_in_time": "2021-09-30"
+        },
+        {
+            "metric_type": "gross profit margin",
+            "value": 37.5,
+            "currency": null,
+            "point_in_time": "2021-09-30"
+        },
+        {
+            "metric_type": "operating margin",
+            "value": 26.9,
+            "currency": null,
+            "point_in_time": "2021-09-30"
         }
     ]
 }

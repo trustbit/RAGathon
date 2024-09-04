@@ -2,16 +2,34 @@
     "company_name": "BAKER STEEL RESOURCES TRUST LIMITED",
     "data_points": [
         {
+            "metric_type": "net profit margin",
+            "value": -19.3,
+            "currency": null,
+            "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total revenue",
+            "value": 84500000.0,
+            "currency": "GBP",
+            "point_in_time": "2022-12-31"
+        },
+        {
             "metric_type": "net income",
             "value": -20316108.0,
             "currency": "GBP",
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "total revenue",
-            "value": 558963.0,
-            "currency": null,
+            "metric_type": "total liabilities",
+            "value": 159063.0,
+            "currency": "GBP",
             "point_in_time": "2022-12-31"
+        },
+        {
+            "metric_type": "total liabilities",
+            "value": 235696.0,
+            "currency": "GBP",
+            "point_in_time": "2021-12-31"
         },
         {
             "metric_type": "total assets",
@@ -20,22 +38,22 @@
             "point_in_time": "2022-12-31"
         },
         {
-            "metric_type": "net profit margin",
-            "value": -3640.32,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "earnings per share (EPS)",
-            "value": -19.08,
-            "currency": null,
-            "point_in_time": "2022-12-31"
-        },
-        {
-            "metric_type": "free cash flow",
-            "value": -1158062.0,
+            "metric_type": "total assets",
+            "value": 105034652.0,
             "currency": "GBP",
-            "point_in_time": "2022-12-31"
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "net profit margin",
+            "value": 1.2,
+            "currency": null,
+            "point_in_time": "2021-12-31"
+        },
+        {
+            "metric_type": "Return on Assets (ROA)",
+            "value": 1.24655,
+            "currency": null,
+            "point_in_time": "2021-12-31"
         }
     ]
 }

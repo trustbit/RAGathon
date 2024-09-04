@@ -23,7 +23,7 @@ In order to find relevant files, I extracted company names from them. I first to
 The outcomes of 4 different approaches can be found in `analysis/names`. They are based on the PDFs from Samples. One can see that passing PDFs is clearly cheaper than passing the text from them, and that adding the second page doesn't double the cost. It's also obvious, that the OCR method with 2 pages performed the best, with a total cost of only $0.07.
 
 **Results:**
-* **Outcome**: This approach provided slighlty better answers than using the merged file. It would be intertesting to test it on a set of questions with a smaller chunk of n/a answers.
+* **Outcome**: This approach provided slighlty better answers than using the merged file. It would be interesting to test it on a set of questions with a smaller chunk of n/a answers.
 * **Cost**: Answering 40 questions cost on average ~$5 (~1M tokens).
 
 ## Experiment 4: Structured outputs with Instructor 

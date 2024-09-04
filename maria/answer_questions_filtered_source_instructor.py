@@ -88,7 +88,7 @@ with open(os.path.join(SAMPLE_DATA_PATH, "questions.json")) as f:
         relevant_files = find_matching_files(item['question'], pdf_names)
         print(relevant_files)
         
-        # This also doesn't work, because it's each to exceed the limit of 120000 input tokens
+        # This also doesn't work, because it's easy to exceed the limit of 120000 input tokens
         text = ""
         for pdf_file in relevant_files:
             reader = PyPDF2.PdfReader(os.path.join(SAMPLE_DATA_PATH, pdf_file))

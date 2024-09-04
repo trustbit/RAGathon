@@ -1,5 +1,4 @@
 from openai import OpenAI
-import pandas as pd
 import os
 import json
 import PyPDF2
@@ -18,7 +17,6 @@ RULES = """
 5. Don't provide links!
 """
             
-# This is apparently not necessary, because you can also pass several files to a thread  
 def combine_pdfs(folder_path, output_file):
     merger = PyPDF2.PdfMerger()
 

@@ -4,7 +4,6 @@ import os
 import re
 import shutil
 import json
-import PyPDF2
 from dotenv import load_dotenv
 from cost import get_run_cost
 from extract_names_from_text import find_all_names

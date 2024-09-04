@@ -1,12 +1,8 @@
-import instructor
 from openai import OpenAI
 import os
 import re
 import json
 from dotenv import load_dotenv
-from pydantic import BaseModel
-from typing import Optional
-import PyPDF2
 from extract_names_from_text import find_all_names
 from cost import get_run_cost
 

@@ -37,6 +37,19 @@ And here I ran out of time.
 
 # Technical details
 
+## Running
+
+Create a `.env` file containing an OpenAI API key. Example:
+
+```
+OPENAI_API_KEY_RAG_CHALLENGE=sk-proj-thisisafakeapikey
+```
+
+Install requirements.
+```
+pip install -r requirements.txt
+```
+
 **OCR dependencies:**
 
 The pdf2image library relies on an external tool called Poppler to process PDF files.
@@ -53,3 +66,4 @@ brew install tesseract
 sudo apt-get install tesseract-ocr
 ```
 
+Put the relevant PDFs as well as the `questions.json` file (from the challenge) into the `data/samples` directory, then run scripts.

@@ -26,9 +26,9 @@ The outcomes of 4 different approaches can be found in `analysis/names`. They ar
 * **Outcome**: This approach provided slighlty better answers than using the merged file. It would be intertesting to test it on a set of questions with a smaller chunk of n/a answers.
 * **Cost**: Answering 40 questions cost on average ~$5 (~1M tokens).
 
-## Experiant 4: Structured outputs with Instructor 
+## Experiment 4: Structured outputs with Instructor 
 
-In the last experiment, I tried using Instructor, a wrapper for various LLM APIs that provides AI-generated answers in a structured JSON format, as defined by a pydantic model. More details are available at [Instructor blog](https://python.useinstructor.com/blog/2024/06/15/zero-cost-abstractions/).
+In the last experiment, I tried using Instructor, a wrapper for various LLM APIs that provides AI-generated answers in a structured JSON format, as defined by a pydantic model. More details are available at [Instructor blog](https://python.useinstructor.com/blog/2024/06/15/zero-cost-abstractions/). The implementation can be found in `answer_questions_filtered_source_instructor.py`. 
 
 Unfortunately, Instructor works with OpenAI Completions only, which don't support file attachments. The attempt of reading PDFs and passing text failed due to the 120000 input token limit for completions.
 

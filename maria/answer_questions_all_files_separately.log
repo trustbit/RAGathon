@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/maria/answer_questions_all_files_separately.py", line 79, in <module>
+    thread = client.beta.threads.create(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/openai/resources/beta/threads/threads.py", line 120, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/openai/_base_client.py", line 1260, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/openai/_base_client.py", line 937, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/openai/_base_client.py", line 1041, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Invalid 'messages[0].attachments': array too long. Expected an array with maximum length 10, but got an array with length 22 instead.", 'type': 'invalid_request_error', 'param': 'messages[0].attachments', 'code': 'array_above_max_length'}}

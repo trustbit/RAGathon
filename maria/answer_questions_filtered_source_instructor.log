@@ -1,0 +1,51 @@
+Traceback (most recent call last):
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/instructor/retry.py", line 161, in retry_sync
+    response = func(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/openai/_utils/_utils.py", line 274, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/openai/resources/chat/completions.py", line 668, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/openai/_base_client.py", line 1260, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+    
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/openai/_base_client.py", line 937, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/openai/_base_client.py", line 1041, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "This model's maximum context length is 128000 tokens. However, your messages resulted in 199199 tokens (199151 in the messages, 48 in the functions). Please reduce the length of the messages or functions.", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/instructor/retry.py", line 158, in retry_sync
+    for attempt in max_retries:
+                   ^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 443, in __iter__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 376, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/tenacity/__init__.py", line 419, in exc_check
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x127e03b30 state=finished raised BadRequestError>]
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/answer_questions_filtered_source.py", line 100, in <module>
+    response = instructor_client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/instructor/client.py", line 116, in create
+    return self.create_fn(
+           ^^^^^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/instructor/patch.py", line 143, in new_create_sync
+    response = retry_sync(
+               ^^^^^^^^^^^
+  File "/Users/mariaronacher/Projects/rag-challenge-2024/RAGathon/.venv/lib/python3.12/site-packages/instructor/retry.py", line 195, in retry_sync
+    raise InstructorRetryException(
+instructor.exceptions.InstructorRetryException: RetryError[<Future at 0x127e03b30 state=finished raised BadRequestError>]

@@ -1,0 +1,206 @@
+################RUN_2_TEST_SET#############################
+Question: What was the Net Profit Margin of "Oesterreichische Kontrollbank" in June 30, 2023?
+Response:  None
+Tokens: 1868, cost: 0.009640000000000001
+Question: What was the total liabilities of "CrossFirst Bank" in the fiscal year 2023?
+Response:  5992487
+Tokens: 17419, cost: 0.08736500000000001
+Question: How much more did "Astral Resources NL" spend on marketing compared to "TSX_Y" in June 30, 2021?
+Response:  n/a
+Tokens: 17641, cost: 0.08860500000000002
+Question: Which company had a higher free cash flow: "TSX_ACQ", "QUIDELORTHO CORPORATION" or "PowerFleet, Inc.", in the fiscal year 2022?
+Response:  QUIDELORTHO CORPORATION
+Tokens: 18322, cost: 0.09225000000000001
+Question: What was the earnings per share (EPS) of "Holley Inc." in June 30, 2023?
+Response:  014
+Tokens: 17811, cost: 0.08934500000000001
+Question: What was the accounts receivable of "Petra Diamonds" in the fiscal year 2023?
+Response:  26895000
+Tokens: 17982, cost: 0.09018000000000001
+Question: How much more did "Creative Media & Community Trust Corporation" spend on sustainability initiatives compared to "BAKER STEEL RESOURCES TRUST LIMITED" in June 30, 2021?
+Response:  n/a
+Tokens: 17907, cost: 0.090005
+Question: Which company had a higher total liabilities: "Creative Media & Community Trust Corporation", "Sleep Country Canada Holdings Inc." or "Tradition", in the fiscal year 2023?
+Response:  Sleep Country Canada Holdings Inc.
+Tokens: 18879, cost: 0.09496500000000001
+Question: What was the Net Profit Margin of "QUIDELORTHO CORPORATION" in June 30, 2023?
+Response:  09
+Tokens: 17681, cost: 0.088715
+Question: What was the acquisition costs of "Safe & Green Holdings Corp." in the fiscal year 2021?
+Response:  n/a
+Tokens: 18058, cost: 0.09058000000000001
+Question: How much more did "Astral Resources NL" spend on marketing compared to "TSX_ACQ" in June 30, 2023?
+Response:  n/a
+Tokens: 18963, cost: 0.09522500000000002
+Question: Which company had a higher shareholders' equity: "MITSUI O.S.K. LINES", "TSX_Y" or "Tradition", in the fiscal year 2022?
+Response:  Tradition
+Tokens: 19322, cost: 0.09720000000000001
+Question: What was the Gross Profit Margin of "JOURNEY MEDICAL CORPORATION" in June 30, 2022?
+Response:  367
+Tokens: 19117, cost: 0.09588500000000001
+Question: What was the operating cash flow of "JOURNEY MEDICAL CORPORATION" in the fiscal year 2023?
+Response:  n/a
+Tokens: 19652, cost: 0.09856000000000001
+Question: How much more did "Astral Resources NL" spend on risk management compared to "Caixa Geral de Depósitos, S.A." in June 30, 2023?
+Response:  n/a
+Tokens: 19903, cost: 0.10000500000000001
+Question: Which company had a higher acquisition costs: "PowerFleet, Inc.", "Oesterreichische Kontrollbank" or "Astral Resources NL", in the fiscal year 2023?
+Response:  n/a
+Tokens: 19952, cost: 0.10034
+Question: What was the Quick Ratio of "IMUNON, INC." in June 30, 2021?
+Response:  n/a
+Tokens: 20520, cost: 0.10290000000000002
+Question: What was the net income of "Petra Diamonds" in the fiscal year 2022?
+Response:  88000000
+Tokens: 20101, cost: 0.10076500000000001
+Question: How much more did "Sensata" spend on customer acquisition compared to "Laserbond" in June 30, 2022?
+Response:  n/a
+Tokens: 20730, cost: 0.10402000000000002
+Question: Which company had a higher free cash flow: "Sensata", "TransUnion" or "First Mid Bancshares, Inc.", in the fiscal year 2021?
+Response:  First Mid Bancshares, Inc.
+Tokens: 21594, cost: 0.10856
+Question: What was the market capitalization of "Holley Inc." in June 30, 2023?
+Response:  n/a
+Tokens: 21751, cost: 0.109035
+Question: What was the total assets of "TransUnion" in the fiscal year 2023?
+Response:  n/a
+Tokens: 21762, cost: 0.10906
+Question: How much more did "BAKER STEEL RESOURCES TRUST LIMITED" spend on customer acquisition compared to "Sleep Country Canada Holdings Inc." in June 30, 2021?
+Response:  n/a
+Tokens: 21822, cost: 0.10958000000000001
+Question: Which company had a higher research and development expenses: "MITSUI O.S.K. LINES", "Holley Inc." or "First Mid Bancshares, Inc.", in the fiscal year 2021?
+Response:  MITSUI O.S.K. LINES
+Tokens: 21757, cost: 0.109515
+Question: What was the Operating Margin of "Sleep Country Canada Holdings Inc." in June 30, 2022?
+Response:  n/a
+Tokens: 22344, cost: 0.11202000000000001
+Question: What was the intangible assets of "TransUnion" in the fiscal year 2021?
+Response:  263027
+Tokens: 22010, cost: 0.11030000000000001
+Question: How much more did "PowerFleet, Inc." spend on R&D compared to "JOURNEY MEDICAL CORPORATION" in June 30, 2022?
+Response:  n/a
+Tokens: 21966, cost: 0.11030000000000001
+Question: Which company had a higher inventories: "TSX_Y", "Mercia Asset Management PLC" or "Tradition", in the fiscal year 2022?
+Response:  Tradition
+Tokens: 22814, cost: 0.11456000000000001
+Question: What was the Gross Profit Margin of "Safe & Green Holdings Corp." in June 30, 2022?
+Response:  367
+Tokens: 22650, cost: 0.11354000000000002
+Question: What was the total revenue of "Mercia Asset Management PLC" in the fiscal year 2021?
+Response:  29260000
+Tokens: 23350, cost: 0.11703000000000001
+Question: How much more did "First Mid Bancshares, Inc." spend on risk management compared to "QUIDELORTHO CORPORATION" in June 30, 2022?
+Response:  n/a
+Tokens: 23668, cost: 0.11883
+Question: Which company had a higher total liabilities: "DouYu International Holdings Limited", "CrossFirst Bank" or "First Mid Bancshares, Inc.", in the fiscal year 2023?
+Response:  CrossFirst Bank
+Tokens: 23890, cost: 0.12001
+Question: What was the Return on Assets (ROA) of "ENRG ELEMENTS LIMITED" in June 30, 2022?
+Response:  n/a
+Tokens: 24121, cost: 0.12089500000000002
+Question: What was the free cash flow of "Oesterreichische Kontrollbank" in the fiscal year 2023?
+Response:  n/a
+Tokens: 24904, cost: 0.12481000000000002
+Question: How much more did "Sensata" spend on risk management compared to "Holley Inc." in June 30, 2022?
+Response:  n/a
+Tokens: 24297, cost: 0.12189500000000002
+Question: Which company had a higher free cash flow: "BAKER STEEL RESOURCES TRUST LIMITED", "Safe & Green Holdings Corp." or "PowerFleet, Inc.", in the fiscal year 2021?
+Response:  n/a
+Tokens: 24648, cost: 0.12386000000000001
+Question: What was the Operating Margin of "Mercia Asset Management PLC" in June 30, 2021?
+Response:  n/a
+Tokens: 24708, cost: 0.12382000000000001
+Question: What was the free cash flow of "JOURNEY MEDICAL CORPORATION" in the fiscal year 2023?
+Response:  n/a
+Tokens: 25239, cost: 0.12648500000000001
+Question: How much more did "Laserbond" spend on R&D compared to "PowerFleet, Inc." in June 30, 2021?
+Response:  n/a
+Tokens: 24760, cost: 0.12422000000000001
+Question: Which company had a higher total assets: "MITSUI O.S.K. LINES", "ENRG ELEMENTS LIMITED" or "First Mid Bancshares, Inc.", in the fiscal year 2021?
+Response:  MITSUI O.S.K. LINES
+Tokens: 25710, cost: 0.12923
+{'total_tokens': 831593, 'total_cost': 4.174105}
+
+
+################RUN_1_SAMPLES#############################
+Response:  None
+Tokens: 1852, cost: 0.00952
+Response:  Eamonn O’Hare
+Tokens: 17785, cost: 0.089175
+Response:  True
+Tokens: 17703, cost: 0.089005
+Response:  None
+Tokens: 17425, cost: 0.087385
+Response:  None
+Tokens: 18369, cost: 0.09211500000000002
+Response:  Yukuan Zhang
+Tokens: 18022, cost: 0.09031
+Response:  n/a
+Tokens: 17829, cost: 0.08959500000000001
+Response:  None
+Tokens: 17930, cost: 0.08992000000000001
+Response:  None
+Tokens: 18453, cost: 0.09252500000000001
+Response:  Suzanne Winter
+Tokens: 19352, cost: 0.09697
+Response:  True
+Tokens: 19179, cost: 0.09628500000000001
+Response:  None
+Tokens: 18999, cost: 0.09528500000000001
+Response:  6618795
+Tokens: 19780, cost: 0.09919000000000001
+Response:  Qian Sun
+Tokens: 19988, cost: 0.10016
+Response:  False
+Tokens: 19670, cost: 0.09873000000000001
+Response:  None
+Tokens: 19995, cost: 0.100235
+Response:  240000000
+Tokens: 20195, cost: 0.10125500000000001
+Response:  Marshall Witt
+Tokens: 20357, cost: 0.101985
+Response:  True
+Tokens: 20873, cost: 0.104745
+Response:  None
+Tokens: 20665, cost: 0.103595
+Response:  None
+Tokens: 20608, cost: 0.10328000000000001
+Response:  David P. Hochman
+Tokens: 21151, cost: 0.10602500000000001
+Response:  True
+Tokens: 21187, cost: 0.10636500000000002
+Response:  None
+Tokens: 21231, cost: 0.106395
+Response:  6618795
+Tokens: 21854, cost: 0.10956000000000002
+Response:  Mark Reichenberg
+Tokens: 21778, cost: 0.10912000000000001
+Response:  True
+Tokens: 21640, cost: 0.10863000000000002
+Response:  None
+Tokens: 21909, cost: 0.10983500000000002
+Response:  n/a
+Tokens: 21607, cost: 0.10833500000000001
+Response:  David Grant
+Tokens: 22498, cost: 0.11270000000000001
+Response:  True
+Tokens: 21938, cost: 0.11012000000000001
+Response:  None
+Tokens: 22610, cost: 0.11334000000000001
+Response:  None
+Tokens: 23418, cost: 0.11735000000000001
+Response:  Dennis Polk
+Tokens: 22490, cost: 0.11266000000000001
+Response:  True
+Tokens: 23680, cost: 0.11882000000000001
+Response:  None
+Tokens: 23679, cost: 0.11864500000000001
+Response:  6618795
+Tokens: 4107, cost: 0.020585
+Response:  Dennis Polk
+Tokens: 22516, cost: 0.11279
+Response:  True
+Tokens: 24165, cost: 0.12122500000000001
+Response:  None
+Tokens: 24023, cost: 0.120355
+{'total_tokens': 792510, 'total_cost': 3.97412}

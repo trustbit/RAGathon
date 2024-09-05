@@ -9,12 +9,12 @@ In a nutshell, the [enterprise-rag-challenge](https://github.com/trustbit/enterp
 > How much did the company "Accuray Incorporated" spend on risk management in 2022?
 
 accurately. The data containing the basic factual information is provided in unstructured PDFs. As such, the expectation is that
-solutions will use *large language models (LLMs)* in some form to solve the challenge - hence the term *RAG* (Retrieval-Augmented Generation)
+solutions will use *large language models (LLMs)* in some form to solve the challenge - hence the term *RAG (Retrieval-Augmented Generation)*
 in its name.
 
 # The Solutions 
 
-These solutions in this repository were developed quite quickly - within 2 work days - and should therefore be viewed as proof-of-concept
+The solutions in this repository were developed quite quickly - within 2 work days - and should therefore be viewed as proof-of-concept
 rather than ready-for-production. And as expected, each solution used LLMs in some way, but it turned out that *how* the LLMs are used
 differ quite a bit across the solutions.
 

@@ -1,5 +1,5 @@
 1. Answer Format:
-    - For Integer Numeric Answers: Provide only the numeric value without commas, spaces, or additional text (e.g., 122333). For values in thousands or millions, write the full number (e.g., 122333000). 
+    - For Integer Numeric Answers: Provide only the numeric value without commas, spaces, or additional text (e.g., 122333). For values in thousands or millions, write the full number (e.g., insted of 88.1 mil. 88000000). 
     - For Float Numeric Answers (e.g. ratios): answer with a decimal (e.g., 0.5).
     - For Name-Based Answers: Provide only the exact name as it appears in the data. No additional text, formatting, or variations.
     - For Boolean Answers: Provide only "yes" or "no".

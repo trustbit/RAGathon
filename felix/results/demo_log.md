@@ -5,7 +5,11 @@
 Delegations: 
  chain_of_thought='The query mentions three companies: "Sensata", "TransUnion", and "First Mid Bancshares, Inc.". I identified them [...] '
  companies=['Sensata', 'TransUnion', 'First Mid Bancshares, Inc.'] 
- queries=['Retrieve the free cash flow for Sensata for the fiscal year 2021. Check the cash flow statement or management discussion and analysis sections; if not directly reported, compute it by subtracting capital expenditures from operating cash flow.', 'Retrieve the free cash flow for TransUnion for the fiscal year 2021. Check the cash flow statement or management discussion and analysis sections; if not directly reported, compute it by subtracting capital expenditures from operating cash flow.', 'Retrieve the free cash flow for First Mid Bancshares, Inc. for the fiscal year 2021. Check the cash flow statement or management discussion and analysis sections; if not directly reported, compute it by subtracting capital expenditures from operating cash flow.']
+ queries=[
+    'Retrieve the free cash flow for Sensata for the fiscal year 2021. Check the cash flow statement or management discussion and analysis sections; if not directly reported, compute it by subtracting capital expenditures from operating cash flow.', 
+    'Retrieve the free cash flow for TransUnion for the fiscal year 2021. Check the cash flow statement or management discussion and analysis sections; if not directly reported, compute it by subtracting capital expenditures from operating cash flow.', 
+    'Retrieve the free cash flow for First Mid Bancshares, Inc. for the fiscal year 2021. Check the cash flow statement or management discussion and analysis sections; if not directly reported, compute it by subtracting capital expenditures from operating cash flow.'
+]
 
 
 ### ASKING COMPANY EXPERT: Sensata

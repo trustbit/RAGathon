@@ -10,7 +10,7 @@ DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 HUGGINGFACE_API_KEY = os.getenv("HUGGINGFACE_API_KEY")
 
-ROOT_PATH = Path(__file__).parent / "prompt"
+ROOT_PATH = Path(__file__).parent
 DATA_PATH = ROOT_PATH / "data"
 
 WORD_SEPARATOR = "\n"
@@ -26,7 +26,6 @@ MAX_DOCUMENTS_TO_LLM_CONTEXT = 3
 
 #LLM_MODEL = "microsoft/Phi-3-mini-128k-instruct"
 #LLM_MODEL = "microsoft/Phi-3.5-mini-instruct"
-#LLM_MODEL = "meta-llama/Meta-Llama-3.1-8B"
 #LLM_MODEL = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 LLM_MODEL = "openchat/openchat-3.5-0106"
 

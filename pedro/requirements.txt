@@ -11,13 +11,11 @@ faiss-cpu
 accelerate
 scikit-learn
 tiktoken
+bitsandbytes>0.37.0
 
 nltk
 
-pdfminer.six
-PyPDF2
-PyMuPDF
-tabulate
+pymupdf4llm
 pycryptodome
 
 loguru

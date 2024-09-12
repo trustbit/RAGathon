@@ -7,26 +7,26 @@ import torch
 from loguru import logger
 
 from config import (
+    CHUNK_SEPARATOR,
     DATA_PATH,
-    MAX_DOCUMENTS_TO_LLM_CONTEXT,
     MAX_CHUNK_TO_USE,
+    MAX_DOCUMENTS_TO_LLM_CONTEXT,
     MIN_CHUNK_AVAILABILITY_CUTOFF_THRESHOLD,
     ROOT_PATH,
-    CHUNK_SEPARATOR,
     WORD_SEPARATOR,
-    debug
+    debug,
 )
 from utils.llm import ask_question
 from utils.string import (
-    extract_relevant_sentences,
     filter_relevant_chunks,
     generate_faiss_index,
+    is_sentence_relevant,
 )
 
 debug(print_config=True)
 
 gc.collect()
-torch.cuda.empty_cache()
+torch.cuda.empty_cache()  # only useful if you are using a GPU
 
 QUESTIONS = pd.read_json(DATA_PATH / "questions.json")
 ANSWERS = DATA_PATH / "answers.json"
@@ -48,23 +48,20 @@ for _, row in QUESTIONS.iterrows():
     for pdf_directory in pdf_directories:
         metadata = json.loads((pdf_directory / "metadata.json").read_text())
         company = metadata["company"]
+        total_sentences = metadata["sentences"]
 
         relevant_sentences = []
-        total_sentences = 0
-        for page in range(1, metadata["pages"] + 1):
+        for sentence_index in range(1, metadata["sentences"] + 1):
             words = (
-                (pdf_directory / f"{page}_words.txt")
+                (pdf_directory / f"{sentence_index}_words.txt")
                 .read_text(encoding="utf-8")
                 .split(WORD_SEPARATOR)
             )
-            sentences = (
-                (pdf_directory / f"{page}_sentences.txt")
-                .read_text(encoding="utf-8")
-                .split(CHUNK_SEPARATOR)
+            sentence = (pdf_directory / f"{sentence_index}.txt").read_text(
+                encoding="utf-8"
             )
-
-            total_sentences += len(sentences)
-            relevant_sentences += extract_relevant_sentences(question, sentences, words)
+            if is_sentence_relevant(question, sentence, words):
+                relevant_sentences.append(sentence)
 
         total_relevant_sentences = len(relevant_sentences)
         sentence_availability_ratio = total_relevant_sentences / total_sentences
@@ -79,7 +76,10 @@ for _, row in QUESTIONS.iterrows():
             f"Found {total_relevant_sentences}/{total_sentences} (%{sentence_availability_pct}) relevant sentences for {pdf_directory.stem}, {company}..."
         )
 
-        if relevant_sentences and sentence_availability_ratio >= MIN_CHUNK_AVAILABILITY_CUTOFF_THRESHOLD:
+        if (
+            relevant_sentences
+            and sentence_availability_ratio >= MIN_CHUNK_AVAILABILITY_CUTOFF_THRESHOLD
+        ):
             index = generate_faiss_index(relevant_sentences)
             relevant_chunks = filter_relevant_chunks(
                 index, relevant_sentences, question, vector_size=MAX_CHUNK_TO_USE
@@ -142,7 +142,7 @@ for _, row in QUESTIONS.iterrows():
     logger.debug(f"Tokens: {len(tokens)}, Documents: {all_filtered_metadata}...")
 
     try:
-        answer = ask_question(QUESTION_PROMPT, question_context)
+        answer = ask_question(QUESTION_PROMPT, question_context, question_schema)
         logger.success(f"Answer: {answer}")
     except Exception as e:
         answer = "N/A"

@@ -1,6 +1,6 @@
 # RAG via local model
 
-The implementation relies on the `openchat/openchat-3.5-0106` model from the Hugging Face's library. The goal is to extract the `query similarity ratio` of each sentence using Sci-kit Learn's `cosine_similarity` metric. A vector database is then created per document with all the pre-selected chunks. Later on, only the `N` most relevant sentences are extracted from the database. The final step is to select the top `M` most relevant documents after sorting them by the `sentence availability ratio`.
+The implementation relies on `openchat/openchat-3.5-0106` model from Hugging Face's library. The goal is to extract the `query similarity ratio` of each sentence using Sci-kit Learn's `cosine_similarity` metric. A vector database is then created per document with all the pre-selected chunks. Later on, only the `N` most relevant sentences are extracted from the database. The final step is to select the top `M` most relevant documents after sorting them by the `sentence availability ratio`.
 
 ## Steps
 
@@ -12,20 +12,19 @@ The implementation relies on the `openchat/openchat-3.5-0106` model from the Hug
 ## Running
 
 1. `pip install -r requirements.txt`
-2. Copy all the relevant PDFs and questions to the `data` folder.
-3. Run `python preprocess.py` to pre-process the documents. All the pre-processed files will be stored in the `data/PDF_NAME` folder.
-4. Run `python rag.py`. Answers will be stored in `answers.json` file.
+2. (optional) Install PyTorch with CUDA support: `pip install torch --index-url https://download.pytorch.org/whl/cu122`
+3. Copy all the relevant PDFs and questions to the `data` folder.
+4. Run `python preprocess.py` to pre-process the documents. All the pre-processed files will be stored in a `data/PDF_NAME` folder.
+5. Run `python rag.py`. Answers and the config used will be stored in `data/answers.json` and `data/answers_config` files.
 
 ## Known Issues/Future Improvements
 
-1. Pre-processing is still too slow. Needs optimization and parallelization.
-2. Because of GPU and space constraints, can not use a better model (e.g. meta-llama/Meta-Llama-3.1-405B-Instruct)
-3. Again, because of GPU memory, can not use a larger `N` values or bigger chunks for the pre-filtering step for evaluation. The downside of that approach is end up confusing the model with too many chunks.
-4. Table structure is poorly implemented. Maybe Markdown tables would be a better choice.
-5. Using "pymupdf4llm" library to extract Markdown content from PDFs could be a win!
-6. While using Markdown text, chunks split by paragraphs/headers could be a win!
-7. Using sub-agent to pre-process and pre-filter documents could be a win!
-8. HuggingFace's pipeline has lots of parameters that could be tuned (e.g. quantization, accelerators, precision).
-9. and many more...
+1. Pre-processing is too slow still. Needs optimization and parallelization.
+2. Question answering also needs optimization and parallelization (e.g. batch processing).
+3. Better performant models (e.g. meta-llama/Meta-Llama-3.1-405B-Instruct) are tricky to use because of GPU memory constraints.
+4. Table extraction is poorly implemented. Improving the Markdown tables extraction could be a win!
+5. Using sub-agent to pre-process and pre-filter documents could be a win!
+6. HuggingFace's pipeline has several parameters that could be tuned (e.g. quantization, accelerators, precision, batch processing).
+7. and many more...
 
 *NOTE: code is not even nearly optimized and lack of comments. It was a dirty implementation to test the idea. The results were gathared using Google Colab with a 53.0 GB + L4 24GB GPU VM*

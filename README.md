@@ -26,6 +26,8 @@ more information.
 
 Happy Browsing!
 
+![scores.png](scores.png)
+
 # Acknowledgements
 
 We would like to thank our employer [Trustbit](https://www.trustbit.tech) (now a part of TIMETOACT GROUP as [TimeToAct Austria](https://www.timetoact-group.at))

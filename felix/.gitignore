@@ -1,4 +1,5 @@
 secrets.json
+.env
 data
 dbs-1000chars
 

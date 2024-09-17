@@ -32,6 +32,7 @@ analysis of the decision making process.
 
 
 ## Next Steps/TODOs
+- try different PDF loader (to load table as markdown/html, e.g. [got-ocr2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0), [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/))
 - extract most important tables in pdfs as dataframes and get them immediately into context?
 - Question generator for competition will hide some of the questions (not fully sure?)
 - Provide calculator to architecture?

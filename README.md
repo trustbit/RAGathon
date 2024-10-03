@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains a collection of solutions to the [enterprise-rag-challenge](https://github.com/trustbit/enterprise-rag-challenge/).
+This repository contains a collection of solutions to the first round of [enterprise-rag-challenge](https://github.com/trustbit/enterprise-rag-challenge/).
 
 # The Challenge
 
@@ -23,6 +23,11 @@ Retrieval-Augmented Generation.
 
 Each directory in this repository represents a solution. Each solution is self-contained; refer to the included READMEs for
 more information.
+
+* Daniel - simple solution using checklist pattern with structured outputs. First place.
+* Felix - multi-agent solution with ChatGPT-4o. 12th place.
+* Maria - solution using OpenAI Assistants API. 13th place.
+* Pedro - locally-capable solution using openchat-3.5-0106. ninth place.
 
 Happy Browsing!
 
